@@ -1,0 +1,5473 @@
+,age_group,canton,pop_size,sex
+0,0 - 9,AG,3668,Männlich
+1,0 - 9,AG,3531,Männlich
+2,0 - 9,AG,3673,Männlich
+3,0 - 9,AG,3470,Männlich
+4,0 - 9,AG,3653,Männlich
+5,0 - 9,AG,3617,Männlich
+6,0 - 9,AG,3753,Männlich
+7,0 - 9,AG,3706,Männlich
+8,0 - 9,AG,3608,Männlich
+9,0 - 9,AG,3651,Männlich
+10,10 - 19,AG,3440,Männlich
+11,10 - 19,AG,3292,Männlich
+12,10 - 19,AG,3561,Männlich
+13,10 - 19,AG,3345,Männlich
+14,10 - 19,AG,3582,Männlich
+15,10 - 19,AG,3364,Männlich
+16,10 - 19,AG,3490,Männlich
+17,10 - 19,AG,3424,Männlich
+18,10 - 19,AG,3629,Männlich
+19,10 - 19,AG,3429,Männlich
+20,20 - 29,AG,3828,Männlich
+21,20 - 29,AG,4735,Männlich
+22,20 - 29,AG,3857,Männlich
+23,20 - 29,AG,4466,Männlich
+24,20 - 29,AG,3746,Männlich
+25,20 - 29,AG,3992,Männlich
+26,20 - 29,AG,4482,Männlich
+27,20 - 29,AG,4695,Männlich
+28,20 - 29,AG,4001,Männlich
+29,20 - 29,AG,4317,Männlich
+30,30 - 39,AG,5070,Männlich
+31,30 - 39,AG,5049,Männlich
+32,30 - 39,AG,4794,Männlich
+33,30 - 39,AG,4703,Männlich
+34,30 - 39,AG,4663,Männlich
+35,30 - 39,AG,5093,Männlich
+36,30 - 39,AG,4790,Männlich
+37,30 - 39,AG,4809,Männlich
+38,30 - 39,AG,5007,Männlich
+39,30 - 39,AG,4937,Männlich
+40,40 - 49,AG,4747,Männlich
+41,40 - 49,AG,4545,Männlich
+42,40 - 49,AG,4724,Männlich
+43,40 - 49,AG,4897,Männlich
+44,40 - 49,AG,5261,Männlich
+45,40 - 49,AG,4707,Männlich
+46,40 - 49,AG,5020,Männlich
+47,40 - 49,AG,4656,Männlich
+48,40 - 49,AG,4555,Männlich
+49,40 - 49,AG,5124,Männlich
+50,50 - 59,AG,5180,Männlich
+51,50 - 59,AG,5813,Männlich
+52,50 - 59,AG,4707,Männlich
+53,50 - 59,AG,5660,Männlich
+54,50 - 59,AG,5504,Männlich
+55,50 - 59,AG,5326,Männlich
+56,50 - 59,AG,5777,Männlich
+57,50 - 59,AG,4922,Männlich
+58,50 - 59,AG,5492,Männlich
+59,50 - 59,AG,5655,Männlich
+60,60 - 69,AG,4446,Männlich
+61,60 - 69,AG,3212,Männlich
+62,60 - 69,AG,4153,Männlich
+63,60 - 69,AG,3547,Männlich
+64,60 - 69,AG,3303,Männlich
+65,60 - 69,AG,3879,Männlich
+66,60 - 69,AG,3366,Männlich
+67,60 - 69,AG,4249,Männlich
+68,60 - 69,AG,3661,Männlich
+69,60 - 69,AG,4534,Männlich
+70,70 - 79,AG,2767,Männlich
+71,70 - 79,AG,2165,Männlich
+72,70 - 79,AG,3123,Männlich
+73,70 - 79,AG,1724,Männlich
+74,70 - 79,AG,2444,Männlich
+75,70 - 79,AG,3241,Männlich
+76,70 - 79,AG,2852,Männlich
+77,70 - 79,AG,3080,Männlich
+78,70 - 79,AG,1859,Männlich
+79,70 - 79,AG,2680,Männlich
+80,80+,AG,239,Männlich
+81,80+,AG,18,Männlich
+82,80+,AG,1478,Männlich
+83,80+,AG,747,Männlich
+84,80+,AG,98,Männlich
+85,80+,AG,524,Männlich
+86,80+,AG,889,Männlich
+87,80+,AG,1258,Männlich
+88,80+,AG,179,Männlich
+89,80+,AG,67,Männlich
+90,80+,AG,430,Männlich
+91,80+,AG,21,Männlich
+92,80+,AG,1196,Männlich
+93,80+,AG,1371,Männlich
+94,80+,AG,951,Männlich
+95,80+,AG,316,Männlich
+96,80+,AG,118,Männlich
+97,80+,AG,638,Männlich
+98,80+,AG,33,Männlich
+99,80+,AG,10,Männlich
+100,80+,AG,1718,Männlich
+101,0 - 9,AG,3434,Weiblich
+102,0 - 9,AG,3328,Weiblich
+103,0 - 9,AG,3466,Weiblich
+104,0 - 9,AG,3484,Weiblich
+105,0 - 9,AG,3544,Weiblich
+106,0 - 9,AG,3328,Weiblich
+107,0 - 9,AG,3392,Weiblich
+108,0 - 9,AG,3297,Weiblich
+109,0 - 9,AG,3550,Weiblich
+110,0 - 9,AG,3356,Weiblich
+111,10 - 19,AG,3372,Weiblich
+112,10 - 19,AG,3200,Weiblich
+113,10 - 19,AG,3145,Weiblich
+114,10 - 19,AG,3281,Weiblich
+115,10 - 19,AG,3251,Weiblich
+116,10 - 19,AG,3197,Weiblich
+117,10 - 19,AG,3124,Weiblich
+118,10 - 19,AG,3231,Weiblich
+119,10 - 19,AG,3161,Weiblich
+120,10 - 19,AG,3218,Weiblich
+121,20 - 29,AG,3863,Weiblich
+122,20 - 29,AG,3548,Weiblich
+123,20 - 29,AG,4358,Weiblich
+124,20 - 29,AG,3787,Weiblich
+125,20 - 29,AG,4409,Weiblich
+126,20 - 29,AG,4456,Weiblich
+127,20 - 29,AG,3350,Weiblich
+128,20 - 29,AG,4355,Weiblich
+129,20 - 29,AG,3945,Weiblich
+130,20 - 29,AG,3673,Weiblich
+131,30 - 39,AG,4653,Weiblich
+132,30 - 39,AG,4586,Weiblich
+133,30 - 39,AG,4902,Weiblich
+134,30 - 39,AG,4520,Weiblich
+135,30 - 39,AG,4903,Weiblich
+136,30 - 39,AG,4728,Weiblich
+137,30 - 39,AG,4607,Weiblich
+138,30 - 39,AG,4617,Weiblich
+139,30 - 39,AG,4737,Weiblich
+140,30 - 39,AG,4734,Weiblich
+141,40 - 49,AG,4471,Weiblich
+142,40 - 49,AG,4486,Weiblich
+143,40 - 49,AG,5151,Weiblich
+144,40 - 49,AG,4514,Weiblich
+145,40 - 49,AG,4717,Weiblich
+146,40 - 49,AG,4482,Weiblich
+147,40 - 49,AG,4939,Weiblich
+148,40 - 49,AG,5050,Weiblich
+149,40 - 49,AG,4618,Weiblich
+150,40 - 49,AG,4461,Weiblich
+151,50 - 59,AG,5353,Weiblich
+152,50 - 59,AG,5337,Weiblich
+153,50 - 59,AG,4603,Weiblich
+154,50 - 59,AG,5401,Weiblich
+155,50 - 59,AG,5045,Weiblich
+156,50 - 59,AG,5495,Weiblich
+157,50 - 59,AG,4953,Weiblich
+158,50 - 59,AG,5335,Weiblich
+159,50 - 59,AG,5451,Weiblich
+160,50 - 59,AG,4901,Weiblich
+161,60 - 69,AG,3916,Weiblich
+162,60 - 69,AG,4441,Weiblich
+163,60 - 69,AG,3371,Weiblich
+164,60 - 69,AG,3722,Weiblich
+165,60 - 69,AG,4518,Weiblich
+166,60 - 69,AG,4105,Weiblich
+167,60 - 69,AG,3442,Weiblich
+168,60 - 69,AG,4213,Weiblich
+169,60 - 69,AG,3468,Weiblich
+170,60 - 69,AG,3736,Weiblich
+171,70 - 79,AG,3007,Weiblich
+172,70 - 79,AG,2644,Weiblich
+173,70 - 79,AG,3348,Weiblich
+174,70 - 79,AG,2128,Weiblich
+175,70 - 79,AG,3040,Weiblich
+176,70 - 79,AG,3187,Weiblich
+177,70 - 79,AG,2410,Weiblich
+178,70 - 79,AG,2180,Weiblich
+179,70 - 79,AG,2879,Weiblich
+180,70 - 79,AG,3203,Weiblich
+181,80+,AG,1595,Weiblich
+182,80+,AG,1879,Weiblich
+183,80+,AG,250,Weiblich
+184,80+,AG,562,Weiblich
+185,80+,AG,76,Weiblich
+186,80+,AG,948,Weiblich
+187,80+,AG,1379,Weiblich
+188,80+,AG,56,Weiblich
+189,80+,AG,2010,Weiblich
+190,80+,AG,1663,Weiblich
+191,80+,AG,644,Weiblich
+192,80+,AG,120,Weiblich
+193,80+,AG,445,Weiblich
+194,80+,AG,36,Weiblich
+195,80+,AG,840,Weiblich
+196,80+,AG,1219,Weiblich
+197,80+,AG,174,Weiblich
+198,80+,AG,1832,Weiblich
+199,80+,AG,330,Weiblich
+200,80+,AG,1117,Weiblich
+201,80+,AG,1445,Weiblich
+202,0 - 9,AI,84,Männlich
+203,0 - 9,AI,102,Männlich
+204,0 - 9,AI,105,Männlich
+205,0 - 9,AI,87,Männlich
+206,0 - 9,AI,75,Männlich
+207,0 - 9,AI,84,Männlich
+208,0 - 9,AI,88,Männlich
+209,0 - 9,AI,98,Männlich
+210,0 - 9,AI,78,Männlich
+211,0 - 9,AI,89,Männlich
+212,10 - 19,AI,71,Männlich
+213,10 - 19,AI,89,Männlich
+214,10 - 19,AI,89,Männlich
+215,10 - 19,AI,98,Männlich
+216,10 - 19,AI,76,Männlich
+217,10 - 19,AI,82,Männlich
+218,10 - 19,AI,88,Männlich
+219,10 - 19,AI,78,Männlich
+220,10 - 19,AI,93,Männlich
+221,10 - 19,AI,79,Männlich
+222,20 - 29,AI,130,Männlich
+223,20 - 29,AI,107,Männlich
+224,20 - 29,AI,113,Männlich
+225,20 - 29,AI,126,Männlich
+226,20 - 29,AI,100,Männlich
+227,20 - 29,AI,114,Männlich
+228,20 - 29,AI,123,Männlich
+229,20 - 29,AI,127,Männlich
+230,20 - 29,AI,124,Männlich
+231,20 - 29,AI,136,Männlich
+232,30 - 39,AI,95,Männlich
+233,30 - 39,AI,108,Männlich
+234,30 - 39,AI,106,Männlich
+235,30 - 39,AI,89,Männlich
+236,30 - 39,AI,113,Männlich
+237,30 - 39,AI,104,Männlich
+238,30 - 39,AI,103,Männlich
+239,30 - 39,AI,102,Männlich
+240,30 - 39,AI,106,Männlich
+241,30 - 39,AI,118,Männlich
+242,40 - 49,AI,106,Männlich
+243,40 - 49,AI,112,Männlich
+244,40 - 49,AI,117,Männlich
+245,40 - 49,AI,96,Männlich
+246,40 - 49,AI,85,Männlich
+247,40 - 49,AI,89,Männlich
+248,40 - 49,AI,126,Männlich
+249,40 - 49,AI,93,Männlich
+250,40 - 49,AI,100,Männlich
+251,40 - 49,AI,133,Männlich
+252,50 - 59,AI,128,Männlich
+253,50 - 59,AI,130,Männlich
+254,50 - 59,AI,135,Männlich
+255,50 - 59,AI,131,Männlich
+256,50 - 59,AI,115,Männlich
+257,50 - 59,AI,129,Männlich
+258,50 - 59,AI,110,Männlich
+259,50 - 59,AI,140,Männlich
+260,50 - 59,AI,117,Männlich
+261,50 - 59,AI,115,Männlich
+262,60 - 69,AI,71,Männlich
+263,60 - 69,AI,85,Männlich
+264,60 - 69,AI,112,Männlich
+265,60 - 69,AI,104,Männlich
+266,60 - 69,AI,110,Männlich
+267,60 - 69,AI,87,Männlich
+268,60 - 69,AI,118,Männlich
+269,60 - 69,AI,86,Männlich
+270,60 - 69,AI,102,Männlich
+271,60 - 69,AI,76,Männlich
+272,70 - 79,AI,98,Männlich
+273,70 - 79,AI,60,Männlich
+274,70 - 79,AI,71,Männlich
+275,70 - 79,AI,60,Männlich
+276,70 - 79,AI,47,Männlich
+277,70 - 79,AI,70,Männlich
+278,70 - 79,AI,76,Männlich
+279,70 - 79,AI,58,Männlich
+280,70 - 79,AI,57,Männlich
+281,70 - 79,AI,79,Männlich
+282,80+,AI,5,Männlich
+283,80+,AI,2,Männlich
+284,80+,AI,2,Männlich
+285,80+,AI,56,Männlich
+286,80+,AI,2,Männlich
+287,80+,AI,47,Männlich
+288,80+,AI,13,Männlich
+289,80+,AI,35,Männlich
+290,80+,AI,46,Männlich
+291,80+,AI,19,Männlich
+292,80+,AI,12,Männlich
+293,80+,AI,41,Männlich
+294,80+,AI,0,Männlich
+295,80+,AI,1,Männlich
+296,80+,AI,30,Männlich
+297,80+,AI,31,Männlich
+298,80+,AI,3,Männlich
+299,80+,AI,0,Männlich
+300,80+,AI,1,Männlich
+301,80+,AI,18,Männlich
+302,80+,AI,25,Männlich
+303,0 - 9,AI,70,Weiblich
+304,0 - 9,AI,82,Weiblich
+305,0 - 9,AI,86,Weiblich
+306,0 - 9,AI,90,Weiblich
+307,0 - 9,AI,84,Weiblich
+308,0 - 9,AI,101,Weiblich
+309,0 - 9,AI,104,Weiblich
+310,0 - 9,AI,72,Weiblich
+311,0 - 9,AI,82,Weiblich
+312,0 - 9,AI,93,Weiblich
+313,10 - 19,AI,80,Weiblich
+314,10 - 19,AI,67,Weiblich
+315,10 - 19,AI,81,Weiblich
+316,10 - 19,AI,78,Weiblich
+317,10 - 19,AI,73,Weiblich
+318,10 - 19,AI,93,Weiblich
+319,10 - 19,AI,98,Weiblich
+320,10 - 19,AI,80,Weiblich
+321,10 - 19,AI,91,Weiblich
+322,10 - 19,AI,86,Weiblich
+323,20 - 29,AI,102,Weiblich
+324,20 - 29,AI,100,Weiblich
+325,20 - 29,AI,104,Weiblich
+326,20 - 29,AI,97,Weiblich
+327,20 - 29,AI,96,Weiblich
+328,20 - 29,AI,86,Weiblich
+329,20 - 29,AI,105,Weiblich
+330,20 - 29,AI,92,Weiblich
+331,20 - 29,AI,90,Weiblich
+332,20 - 29,AI,100,Weiblich
+333,30 - 39,AI,101,Weiblich
+334,30 - 39,AI,97,Weiblich
+335,30 - 39,AI,103,Weiblich
+336,30 - 39,AI,86,Weiblich
+337,30 - 39,AI,91,Weiblich
+338,30 - 39,AI,109,Weiblich
+339,30 - 39,AI,90,Weiblich
+340,30 - 39,AI,105,Weiblich
+341,30 - 39,AI,102,Weiblich
+342,30 - 39,AI,88,Weiblich
+343,40 - 49,AI,99,Weiblich
+344,40 - 49,AI,80,Weiblich
+345,40 - 49,AI,115,Weiblich
+346,40 - 49,AI,109,Weiblich
+347,40 - 49,AI,115,Weiblich
+348,40 - 49,AI,83,Weiblich
+349,40 - 49,AI,114,Weiblich
+350,40 - 49,AI,97,Weiblich
+351,40 - 49,AI,97,Weiblich
+352,40 - 49,AI,88,Weiblich
+353,50 - 59,AI,134,Weiblich
+354,50 - 59,AI,109,Weiblich
+355,50 - 59,AI,127,Weiblich
+356,50 - 59,AI,111,Weiblich
+357,50 - 59,AI,130,Weiblich
+358,50 - 59,AI,105,Weiblich
+359,50 - 59,AI,101,Weiblich
+360,50 - 59,AI,140,Weiblich
+361,50 - 59,AI,120,Weiblich
+362,50 - 59,AI,111,Weiblich
+363,60 - 69,AI,98,Weiblich
+364,60 - 69,AI,72,Weiblich
+365,60 - 69,AI,85,Weiblich
+366,60 - 69,AI,75,Weiblich
+367,60 - 69,AI,75,Weiblich
+368,60 - 69,AI,81,Weiblich
+369,60 - 69,AI,95,Weiblich
+370,60 - 69,AI,88,Weiblich
+371,60 - 69,AI,90,Weiblich
+372,60 - 69,AI,88,Weiblich
+373,70 - 79,AI,74,Weiblich
+374,70 - 79,AI,56,Weiblich
+375,70 - 79,AI,71,Weiblich
+376,70 - 79,AI,69,Weiblich
+377,70 - 79,AI,68,Weiblich
+378,70 - 79,AI,50,Weiblich
+379,70 - 79,AI,58,Weiblich
+380,70 - 79,AI,57,Weiblich
+381,70 - 79,AI,72,Weiblich
+382,70 - 79,AI,62,Weiblich
+383,80+,AI,0,Weiblich
+384,80+,AI,1,Weiblich
+385,80+,AI,19,Weiblich
+386,80+,AI,16,Weiblich
+387,80+,AI,54,Weiblich
+388,80+,AI,13,Weiblich
+389,80+,AI,2,Weiblich
+390,80+,AI,18,Weiblich
+391,80+,AI,35,Weiblich
+392,80+,AI,48,Weiblich
+393,80+,AI,2,Weiblich
+394,80+,AI,8,Weiblich
+395,80+,AI,30,Weiblich
+396,80+,AI,10,Weiblich
+397,80+,AI,38,Weiblich
+398,80+,AI,40,Weiblich
+399,80+,AI,49,Weiblich
+400,80+,AI,60,Weiblich
+401,80+,AI,48,Weiblich
+402,80+,AI,1,Weiblich
+403,80+,AI,49,Weiblich
+404,0 - 9,AR,314,Männlich
+405,0 - 9,AR,289,Männlich
+406,0 - 9,AR,272,Männlich
+407,0 - 9,AR,310,Männlich
+408,0 - 9,AR,302,Männlich
+409,0 - 9,AR,324,Männlich
+410,0 - 9,AR,289,Männlich
+411,0 - 9,AR,288,Männlich
+412,0 - 9,AR,300,Männlich
+413,0 - 9,AR,281,Männlich
+414,10 - 19,AR,251,Männlich
+415,10 - 19,AR,271,Männlich
+416,10 - 19,AR,262,Männlich
+417,10 - 19,AR,282,Männlich
+418,10 - 19,AR,240,Männlich
+419,10 - 19,AR,284,Männlich
+420,10 - 19,AR,296,Männlich
+421,10 - 19,AR,239,Männlich
+422,10 - 19,AR,314,Männlich
+423,10 - 19,AR,330,Männlich
+424,20 - 29,AR,349,Männlich
+425,20 - 29,AR,347,Männlich
+426,20 - 29,AR,358,Männlich
+427,20 - 29,AR,334,Männlich
+428,20 - 29,AR,380,Männlich
+429,20 - 29,AR,362,Männlich
+430,20 - 29,AR,360,Männlich
+431,20 - 29,AR,354,Männlich
+432,20 - 29,AR,367,Männlich
+433,20 - 29,AR,333,Männlich
+434,30 - 39,AR,382,Männlich
+435,30 - 39,AR,370,Männlich
+436,30 - 39,AR,350,Männlich
+437,30 - 39,AR,343,Männlich
+438,30 - 39,AR,344,Männlich
+439,30 - 39,AR,351,Männlich
+440,30 - 39,AR,367,Männlich
+441,30 - 39,AR,322,Männlich
+442,30 - 39,AR,360,Männlich
+443,30 - 39,AR,366,Männlich
+444,40 - 49,AR,326,Männlich
+445,40 - 49,AR,352,Männlich
+446,40 - 49,AR,355,Männlich
+447,40 - 49,AR,412,Männlich
+448,40 - 49,AR,367,Männlich
+449,40 - 49,AR,337,Männlich
+450,40 - 49,AR,362,Männlich
+451,40 - 49,AR,353,Männlich
+452,40 - 49,AR,356,Männlich
+453,40 - 49,AR,399,Männlich
+454,50 - 59,AR,410,Männlich
+455,50 - 59,AR,406,Männlich
+456,50 - 59,AR,484,Männlich
+457,50 - 59,AR,443,Männlich
+458,50 - 59,AR,463,Männlich
+459,50 - 59,AR,416,Männlich
+460,50 - 59,AR,476,Männlich
+461,50 - 59,AR,481,Männlich
+462,50 - 59,AR,437,Männlich
+463,50 - 59,AR,460,Männlich
+464,60 - 69,AR,425,Männlich
+465,60 - 69,AR,354,Männlich
+466,60 - 69,AR,325,Männlich
+467,60 - 69,AR,352,Männlich
+468,60 - 69,AR,329,Männlich
+469,60 - 69,AR,423,Männlich
+470,60 - 69,AR,290,Männlich
+471,60 - 69,AR,315,Männlich
+472,60 - 69,AR,352,Männlich
+473,60 - 69,AR,362,Männlich
+474,70 - 79,AR,267,Männlich
+475,70 - 79,AR,306,Männlich
+476,70 - 79,AR,257,Männlich
+477,70 - 79,AR,167,Männlich
+478,70 - 79,AR,249,Männlich
+479,70 - 79,AR,237,Männlich
+480,70 - 79,AR,278,Männlich
+481,70 - 79,AR,147,Männlich
+482,70 - 79,AR,213,Männlich
+483,70 - 79,AR,180,Männlich
+484,80+,AR,3,Männlich
+485,80+,AR,3,Männlich
+486,80+,AR,116,Männlich
+487,80+,AR,93,Männlich
+488,80+,AR,54,Männlich
+489,80+,AR,90,Männlich
+490,80+,AR,124,Männlich
+491,80+,AR,143,Männlich
+492,80+,AR,8,Männlich
+493,80+,AR,1,Männlich
+494,80+,AR,20,Männlich
+495,80+,AR,4,Männlich
+496,80+,AR,11,Männlich
+497,80+,AR,32,Männlich
+498,80+,AR,8,Männlich
+499,80+,AR,74,Männlich
+500,80+,AR,43,Männlich
+501,80+,AR,17,Männlich
+502,80+,AR,97,Männlich
+503,80+,AR,127,Männlich
+504,80+,AR,61,Männlich
+505,0 - 9,AR,300,Weiblich
+506,0 - 9,AR,261,Weiblich
+507,0 - 9,AR,285,Weiblich
+508,0 - 9,AR,289,Weiblich
+509,0 - 9,AR,279,Weiblich
+510,0 - 9,AR,258,Weiblich
+511,0 - 9,AR,295,Weiblich
+512,0 - 9,AR,268,Weiblich
+513,0 - 9,AR,322,Weiblich
+514,0 - 9,AR,291,Weiblich
+515,10 - 19,AR,257,Weiblich
+516,10 - 19,AR,242,Weiblich
+517,10 - 19,AR,264,Weiblich
+518,10 - 19,AR,254,Weiblich
+519,10 - 19,AR,261,Weiblich
+520,10 - 19,AR,243,Weiblich
+521,10 - 19,AR,241,Weiblich
+522,10 - 19,AR,248,Weiblich
+523,10 - 19,AR,247,Weiblich
+524,10 - 19,AR,285,Weiblich
+525,20 - 29,AR,298,Weiblich
+526,20 - 29,AR,310,Weiblich
+527,20 - 29,AR,276,Weiblich
+528,20 - 29,AR,295,Weiblich
+529,20 - 29,AR,308,Weiblich
+530,20 - 29,AR,333,Weiblich
+531,20 - 29,AR,304,Weiblich
+532,20 - 29,AR,303,Weiblich
+533,20 - 29,AR,308,Weiblich
+534,20 - 29,AR,255,Weiblich
+535,30 - 39,AR,305,Weiblich
+536,30 - 39,AR,335,Weiblich
+537,30 - 39,AR,376,Weiblich
+538,30 - 39,AR,376,Weiblich
+539,30 - 39,AR,305,Weiblich
+540,30 - 39,AR,292,Weiblich
+541,30 - 39,AR,349,Weiblich
+542,30 - 39,AR,381,Weiblich
+543,30 - 39,AR,349,Weiblich
+544,30 - 39,AR,340,Weiblich
+545,40 - 49,AR,396,Weiblich
+546,40 - 49,AR,378,Weiblich
+547,40 - 49,AR,347,Weiblich
+548,40 - 49,AR,321,Weiblich
+549,40 - 49,AR,309,Weiblich
+550,40 - 49,AR,347,Weiblich
+551,40 - 49,AR,395,Weiblich
+552,40 - 49,AR,337,Weiblich
+553,40 - 49,AR,355,Weiblich
+554,40 - 49,AR,324,Weiblich
+555,50 - 59,AR,467,Weiblich
+556,50 - 59,AR,428,Weiblich
+557,50 - 59,AR,511,Weiblich
+558,50 - 59,AR,414,Weiblich
+559,50 - 59,AR,431,Weiblich
+560,50 - 59,AR,433,Weiblich
+561,50 - 59,AR,464,Weiblich
+562,50 - 59,AR,442,Weiblich
+563,50 - 59,AR,419,Weiblich
+564,50 - 59,AR,432,Weiblich
+565,60 - 69,AR,289,Weiblich
+566,60 - 69,AR,343,Weiblich
+567,60 - 69,AR,343,Weiblich
+568,60 - 69,AR,340,Weiblich
+569,60 - 69,AR,400,Weiblich
+570,60 - 69,AR,377,Weiblich
+571,60 - 69,AR,289,Weiblich
+572,60 - 69,AR,312,Weiblich
+573,60 - 69,AR,313,Weiblich
+574,60 - 69,AR,359,Weiblich
+575,70 - 79,AR,203,Weiblich
+576,70 - 79,AR,200,Weiblich
+577,70 - 79,AR,252,Weiblich
+578,70 - 79,AR,286,Weiblich
+579,70 - 79,AR,226,Weiblich
+580,70 - 79,AR,240,Weiblich
+581,70 - 79,AR,233,Weiblich
+582,70 - 79,AR,223,Weiblich
+583,70 - 79,AR,282,Weiblich
+584,70 - 79,AR,282,Weiblich
+585,80+,AR,59,Weiblich
+586,80+,AR,14,Weiblich
+587,80+,AR,105,Weiblich
+588,80+,AR,32,Weiblich
+589,80+,AR,34,Weiblich
+590,80+,AR,14,Weiblich
+591,80+,AR,150,Weiblich
+592,80+,AR,121,Weiblich
+593,80+,AR,11,Weiblich
+594,80+,AR,180,Weiblich
+595,80+,AR,167,Weiblich
+596,80+,AR,84,Weiblich
+597,80+,AR,17,Weiblich
+598,80+,AR,123,Weiblich
+599,80+,AR,139,Weiblich
+600,80+,AR,47,Weiblich
+601,80+,AR,5,Weiblich
+602,80+,AR,142,Weiblich
+603,80+,AR,115,Weiblich
+604,80+,AR,86,Weiblich
+605,80+,AR,170,Weiblich
+606,0 - 9,BE,5311,Männlich
+607,0 - 9,BE,5097,Männlich
+608,0 - 9,BE,5223,Männlich
+609,0 - 9,BE,5318,Männlich
+610,0 - 9,BE,5040,Männlich
+611,0 - 9,BE,5190,Männlich
+612,0 - 9,BE,5064,Männlich
+613,0 - 9,BE,5034,Männlich
+614,0 - 9,BE,5210,Männlich
+615,0 - 9,BE,5151,Männlich
+616,10 - 19,BE,4764,Männlich
+617,10 - 19,BE,5217,Männlich
+618,10 - 19,BE,4881,Männlich
+619,10 - 19,BE,4886,Männlich
+620,10 - 19,BE,5259,Männlich
+621,10 - 19,BE,4798,Männlich
+622,10 - 19,BE,4931,Männlich
+623,10 - 19,BE,4786,Männlich
+624,10 - 19,BE,5060,Männlich
+625,10 - 19,BE,4820,Männlich
+626,20 - 29,BE,5381,Männlich
+627,20 - 29,BE,6168,Männlich
+628,20 - 29,BE,5806,Männlich
+629,20 - 29,BE,6832,Männlich
+630,20 - 29,BE,5783,Männlich
+631,20 - 29,BE,6430,Männlich
+632,20 - 29,BE,6756,Männlich
+633,20 - 29,BE,5561,Männlich
+634,20 - 29,BE,6764,Männlich
+635,20 - 29,BE,5929,Männlich
+636,30 - 39,BE,6984,Männlich
+637,30 - 39,BE,6984,Männlich
+638,30 - 39,BE,6992,Männlich
+639,30 - 39,BE,6896,Männlich
+640,30 - 39,BE,6756,Männlich
+641,30 - 39,BE,7157,Männlich
+642,30 - 39,BE,7072,Männlich
+643,30 - 39,BE,7124,Männlich
+644,30 - 39,BE,7057,Männlich
+645,30 - 39,BE,6804,Männlich
+646,40 - 49,BE,6742,Männlich
+647,40 - 49,BE,6550,Männlich
+648,40 - 49,BE,7068,Männlich
+649,40 - 49,BE,7486,Männlich
+650,40 - 49,BE,6751,Männlich
+651,40 - 49,BE,6578,Männlich
+652,40 - 49,BE,6796,Männlich
+653,40 - 49,BE,7593,Männlich
+654,40 - 49,BE,6749,Männlich
+655,40 - 49,BE,7367,Männlich
+656,50 - 59,BE,7844,Männlich
+657,50 - 59,BE,7316,Männlich
+658,50 - 59,BE,8011,Männlich
+659,50 - 59,BE,8099,Männlich
+660,50 - 59,BE,7911,Männlich
+661,50 - 59,BE,7049,Männlich
+662,50 - 59,BE,8132,Männlich
+663,50 - 59,BE,7467,Männlich
+664,50 - 59,BE,8133,Männlich
+665,50 - 59,BE,7796,Männlich
+666,60 - 69,BE,5765,Männlich
+667,60 - 69,BE,6877,Männlich
+668,60 - 69,BE,6734,Männlich
+669,60 - 69,BE,5655,Männlich
+670,60 - 69,BE,5790,Männlich
+671,60 - 69,BE,5492,Männlich
+672,60 - 69,BE,6306,Männlich
+673,60 - 69,BE,6606,Männlich
+674,60 - 69,BE,5893,Männlich
+675,60 - 69,BE,5505,Männlich
+676,70 - 79,BE,5571,Männlich
+677,70 - 79,BE,3203,Männlich
+678,70 - 79,BE,4309,Männlich
+679,70 - 79,BE,5387,Männlich
+680,70 - 79,BE,4869,Männlich
+681,70 - 79,BE,5486,Männlich
+682,70 - 79,BE,3691,Männlich
+683,70 - 79,BE,3023,Männlich
+684,70 - 79,BE,4979,Männlich
+685,70 - 79,BE,4371,Männlich
+686,80+,BE,126,Männlich
+687,80+,BE,32,Männlich
+688,80+,BE,1417,Männlich
+689,80+,BE,405,Männlich
+690,80+,BE,86,Männlich
+691,80+,BE,625,Männlich
+692,80+,BE,1167,Männlich
+693,80+,BE,2835,Männlich
+694,80+,BE,38,Männlich
+695,80+,BE,1037,Männlich
+696,80+,BE,282,Männlich
+697,80+,BE,1826,Männlich
+698,80+,BE,2488,Männlich
+699,80+,BE,201,Männlich
+700,80+,BE,520,Männlich
+701,80+,BE,1672,Männlich
+702,80+,BE,2240,Männlich
+703,80+,BE,2657,Männlich
+704,80+,BE,57,Männlich
+705,80+,BE,2024,Männlich
+706,80+,BE,830,Männlich
+707,0 - 9,BE,4915,Weiblich
+708,0 - 9,BE,4864,Weiblich
+709,0 - 9,BE,4906,Weiblich
+710,0 - 9,BE,4911,Weiblich
+711,0 - 9,BE,4772,Weiblich
+712,0 - 9,BE,4972,Weiblich
+713,0 - 9,BE,4942,Weiblich
+714,0 - 9,BE,4899,Weiblich
+715,0 - 9,BE,4971,Weiblich
+716,0 - 9,BE,4954,Weiblich
+717,10 - 19,BE,4660,Weiblich
+718,10 - 19,BE,4559,Weiblich
+719,10 - 19,BE,4880,Weiblich
+720,10 - 19,BE,4569,Weiblich
+721,10 - 19,BE,4524,Weiblich
+722,10 - 19,BE,4839,Weiblich
+723,10 - 19,BE,4983,Weiblich
+724,10 - 19,BE,4665,Weiblich
+725,10 - 19,BE,4497,Weiblich
+726,10 - 19,BE,4759,Weiblich
+727,20 - 29,BE,6825,Weiblich
+728,20 - 29,BE,5895,Weiblich
+729,20 - 29,BE,5493,Weiblich
+730,20 - 29,BE,6531,Weiblich
+731,20 - 29,BE,5705,Weiblich
+732,20 - 29,BE,6858,Weiblich
+733,20 - 29,BE,6440,Weiblich
+734,20 - 29,BE,5272,Weiblich
+735,20 - 29,BE,5839,Weiblich
+736,20 - 29,BE,5106,Weiblich
+737,30 - 39,BE,6832,Weiblich
+738,30 - 39,BE,7090,Weiblich
+739,30 - 39,BE,7092,Weiblich
+740,30 - 39,BE,7086,Weiblich
+741,30 - 39,BE,7055,Weiblich
+742,30 - 39,BE,6882,Weiblich
+743,30 - 39,BE,7117,Weiblich
+744,30 - 39,BE,7158,Weiblich
+745,30 - 39,BE,6884,Weiblich
+746,30 - 39,BE,7026,Weiblich
+747,40 - 49,BE,6603,Weiblich
+748,40 - 49,BE,6731,Weiblich
+749,40 - 49,BE,7512,Weiblich
+750,40 - 49,BE,7177,Weiblich
+751,40 - 49,BE,7075,Weiblich
+752,40 - 49,BE,7858,Weiblich
+753,40 - 49,BE,6665,Weiblich
+754,40 - 49,BE,6664,Weiblich
+755,40 - 49,BE,6522,Weiblich
+756,40 - 49,BE,6674,Weiblich
+757,50 - 59,BE,7723,Weiblich
+758,50 - 59,BE,8166,Weiblich
+759,50 - 59,BE,7951,Weiblich
+760,50 - 59,BE,7405,Weiblich
+761,50 - 59,BE,8125,Weiblich
+762,50 - 59,BE,7935,Weiblich
+763,50 - 59,BE,7978,Weiblich
+764,50 - 59,BE,7971,Weiblich
+765,50 - 59,BE,7196,Weiblich
+766,50 - 59,BE,7746,Weiblich
+767,60 - 69,BE,5854,Weiblich
+768,60 - 69,BE,6057,Weiblich
+769,60 - 69,BE,6727,Weiblich
+770,60 - 69,BE,6217,Weiblich
+771,60 - 69,BE,5933,Weiblich
+772,60 - 69,BE,5964,Weiblich
+773,60 - 69,BE,6895,Weiblich
+774,60 - 69,BE,6342,Weiblich
+775,60 - 69,BE,7045,Weiblich
+776,60 - 69,BE,6450,Weiblich
+777,70 - 79,BE,4579,Weiblich
+778,70 - 79,BE,5642,Weiblich
+779,70 - 79,BE,5984,Weiblich
+780,70 - 79,BE,5161,Weiblich
+781,70 - 79,BE,3990,Weiblich
+782,70 - 79,BE,5404,Weiblich
+783,70 - 79,BE,5934,Weiblich
+784,70 - 79,BE,4865,Weiblich
+785,70 - 79,BE,6105,Weiblich
+786,70 - 79,BE,3989,Weiblich
+787,80+,BE,122,Weiblich
+788,80+,BE,3583,Weiblich
+789,80+,BE,410,Weiblich
+790,80+,BE,995,Weiblich
+791,80+,BE,1750,Weiblich
+792,80+,BE,783,Weiblich
+793,80+,BE,1528,Weiblich
+794,80+,BE,2316,Weiblich
+795,80+,BE,3002,Weiblich
+796,80+,BE,611,Weiblich
+797,80+,BE,1982,Weiblich
+798,80+,BE,1249,Weiblich
+799,80+,BE,2779,Weiblich
+800,80+,BE,3612,Weiblich
+801,80+,BE,2537,Weiblich
+802,80+,BE,3188,Weiblich
+803,80+,BE,191,Weiblich
+804,80+,BE,3312,Weiblich
+805,80+,BE,167,Weiblich
+806,80+,BE,3698,Weiblich
+807,80+,BE,330,Weiblich
+808,0 - 9,BL,1393,Männlich
+809,0 - 9,BL,1423,Männlich
+810,0 - 9,BL,1448,Männlich
+811,0 - 9,BL,1445,Männlich
+812,0 - 9,BL,1505,Männlich
+813,0 - 9,BL,1447,Männlich
+814,0 - 9,BL,1308,Männlich
+815,0 - 9,BL,1389,Männlich
+816,0 - 9,BL,1402,Männlich
+817,0 - 9,BL,1419,Männlich
+818,10 - 19,BL,1526,Männlich
+819,10 - 19,BL,1384,Männlich
+820,10 - 19,BL,1404,Männlich
+821,10 - 19,BL,1484,Männlich
+822,10 - 19,BL,1556,Männlich
+823,10 - 19,BL,1423,Männlich
+824,10 - 19,BL,1396,Männlich
+825,10 - 19,BL,1431,Männlich
+826,10 - 19,BL,1379,Männlich
+827,10 - 19,BL,1419,Männlich
+828,20 - 29,BL,1556,Männlich
+829,20 - 29,BL,1563,Männlich
+830,20 - 29,BL,1534,Männlich
+831,20 - 29,BL,1574,Männlich
+832,20 - 29,BL,1610,Männlich
+833,20 - 29,BL,1548,Männlich
+834,20 - 29,BL,1546,Männlich
+835,20 - 29,BL,1559,Männlich
+836,20 - 29,BL,1568,Männlich
+837,20 - 29,BL,1604,Männlich
+838,30 - 39,BL,1855,Männlich
+839,30 - 39,BL,1683,Männlich
+840,30 - 39,BL,1758,Männlich
+841,30 - 39,BL,1827,Männlich
+842,30 - 39,BL,1692,Männlich
+843,30 - 39,BL,1821,Männlich
+844,30 - 39,BL,1708,Männlich
+845,30 - 39,BL,1723,Männlich
+846,30 - 39,BL,1810,Männlich
+847,30 - 39,BL,1732,Männlich
+848,40 - 49,BL,2228,Männlich
+849,40 - 49,BL,2006,Männlich
+850,40 - 49,BL,1809,Männlich
+851,40 - 49,BL,1832,Männlich
+852,40 - 49,BL,1781,Männlich
+853,40 - 49,BL,1949,Männlich
+854,40 - 49,BL,2067,Männlich
+855,40 - 49,BL,1797,Männlich
+856,40 - 49,BL,2099,Männlich
+857,40 - 49,BL,1898,Männlich
+858,50 - 59,BL,2305,Männlich
+859,50 - 59,BL,2245,Männlich
+860,50 - 59,BL,2372,Männlich
+861,50 - 59,BL,2047,Männlich
+862,50 - 59,BL,2328,Männlich
+863,50 - 59,BL,2156,Männlich
+864,50 - 59,BL,2368,Männlich
+865,50 - 59,BL,2352,Männlich
+866,50 - 59,BL,2367,Männlich
+867,50 - 59,BL,2175,Männlich
+868,60 - 69,BL,1548,Männlich
+869,60 - 69,BL,1603,Männlich
+870,60 - 69,BL,1745,Männlich
+871,60 - 69,BL,1918,Männlich
+872,60 - 69,BL,1896,Männlich
+873,60 - 69,BL,1636,Männlich
+874,60 - 69,BL,1501,Männlich
+875,60 - 69,BL,1856,Männlich
+876,60 - 69,BL,1555,Männlich
+877,60 - 69,BL,1557,Männlich
+878,70 - 79,BL,1033,Männlich
+879,70 - 79,BL,1250,Männlich
+880,70 - 79,BL,1249,Männlich
+881,70 - 79,BL,1439,Männlich
+882,70 - 79,BL,1031,Männlich
+883,70 - 79,BL,1494,Männlich
+884,70 - 79,BL,1180,Männlich
+885,70 - 79,BL,1434,Männlich
+886,70 - 79,BL,1536,Männlich
+887,70 - 79,BL,1534,Männlich
+888,80+,BL,149,Männlich
+889,80+,BL,818,Männlich
+890,80+,BL,319,Männlich
+891,80+,BL,933,Männlich
+892,80+,BL,11,Männlich
+893,80+,BL,88,Männlich
+894,80+,BL,21,Männlich
+895,80+,BL,745,Männlich
+896,80+,BL,551,Männlich
+897,80+,BL,109,Männlich
+898,80+,BL,285,Männlich
+899,80+,BL,807,Männlich
+900,80+,BL,32,Männlich
+901,80+,BL,63,Männlich
+902,80+,BL,19,Männlich
+903,80+,BL,751,Männlich
+904,80+,BL,471,Männlich
+905,80+,BL,375,Männlich
+906,80+,BL,178,Männlich
+907,80+,BL,7,Männlich
+908,80+,BL,581,Männlich
+909,0 - 9,BL,1260,Weiblich
+910,0 - 9,BL,1341,Weiblich
+911,0 - 9,BL,1309,Weiblich
+912,0 - 9,BL,1376,Weiblich
+913,0 - 9,BL,1306,Weiblich
+914,0 - 9,BL,1293,Weiblich
+915,0 - 9,BL,1364,Weiblich
+916,0 - 9,BL,1384,Weiblich
+917,0 - 9,BL,1322,Weiblich
+918,0 - 9,BL,1353,Weiblich
+919,10 - 19,BL,1318,Weiblich
+920,10 - 19,BL,1332,Weiblich
+921,10 - 19,BL,1284,Weiblich
+922,10 - 19,BL,1385,Weiblich
+923,10 - 19,BL,1292,Weiblich
+924,10 - 19,BL,1363,Weiblich
+925,10 - 19,BL,1307,Weiblich
+926,10 - 19,BL,1401,Weiblich
+927,10 - 19,BL,1390,Weiblich
+928,10 - 19,BL,1367,Weiblich
+929,20 - 29,BL,1404,Weiblich
+930,20 - 29,BL,1497,Weiblich
+931,20 - 29,BL,1596,Weiblich
+932,20 - 29,BL,1563,Weiblich
+933,20 - 29,BL,1484,Weiblich
+934,20 - 29,BL,1599,Weiblich
+935,20 - 29,BL,1422,Weiblich
+936,20 - 29,BL,1534,Weiblich
+937,20 - 29,BL,1533,Weiblich
+938,20 - 29,BL,1437,Weiblich
+939,30 - 39,BL,1643,Weiblich
+940,30 - 39,BL,1731,Weiblich
+941,30 - 39,BL,1936,Weiblich
+942,30 - 39,BL,1858,Weiblich
+943,30 - 39,BL,1776,Weiblich
+944,30 - 39,BL,1843,Weiblich
+945,30 - 39,BL,1819,Weiblich
+946,30 - 39,BL,1635,Weiblich
+947,30 - 39,BL,1870,Weiblich
+948,30 - 39,BL,1735,Weiblich
+949,40 - 49,BL,2359,Weiblich
+950,40 - 49,BL,2072,Weiblich
+951,40 - 49,BL,1842,Weiblich
+952,40 - 49,BL,2183,Weiblich
+953,40 - 49,BL,1839,Weiblich
+954,40 - 49,BL,1891,Weiblich
+955,40 - 49,BL,1908,Weiblich
+956,40 - 49,BL,2131,Weiblich
+957,40 - 49,BL,1850,Weiblich
+958,40 - 49,BL,1991,Weiblich
+959,50 - 59,BL,2217,Weiblich
+960,50 - 59,BL,2370,Weiblich
+961,50 - 59,BL,2318,Weiblich
+962,50 - 59,BL,2070,Weiblich
+963,50 - 59,BL,2501,Weiblich
+964,50 - 59,BL,2131,Weiblich
+965,50 - 59,BL,2392,Weiblich
+966,50 - 59,BL,2053,Weiblich
+967,50 - 59,BL,2374,Weiblich
+968,50 - 59,BL,2344,Weiblich
+969,60 - 69,BL,1743,Weiblich
+970,60 - 69,BL,1845,Weiblich
+971,60 - 69,BL,1707,Weiblich
+972,60 - 69,BL,1828,Weiblich
+973,60 - 69,BL,1746,Weiblich
+974,60 - 69,BL,2003,Weiblich
+975,60 - 69,BL,1673,Weiblich
+976,60 - 69,BL,1994,Weiblich
+977,60 - 69,BL,1643,Weiblich
+978,60 - 69,BL,1723,Weiblich
+979,70 - 79,BL,1732,Weiblich
+980,70 - 79,BL,1544,Weiblich
+981,70 - 79,BL,1623,Weiblich
+982,70 - 79,BL,1211,Weiblich
+983,70 - 79,BL,1327,Weiblich
+984,70 - 79,BL,1543,Weiblich
+985,70 - 79,BL,1407,Weiblich
+986,70 - 79,BL,1726,Weiblich
+987,70 - 79,BL,1526,Weiblich
+988,70 - 79,BL,1666,Weiblich
+989,80+,BL,314,Weiblich
+990,80+,BL,148,Weiblich
+991,80+,BL,562,Weiblich
+992,80+,BL,204,Weiblich
+993,80+,BL,367,Weiblich
+994,80+,BL,650,Weiblich
+995,80+,BL,854,Weiblich
+996,80+,BL,1145,Weiblich
+997,80+,BL,72,Weiblich
+998,80+,BL,1190,Weiblich
+999,80+,BL,46,Weiblich
+1000,80+,BL,834,Weiblich
+1001,80+,BL,1010,Weiblich
+1002,80+,BL,1096,Weiblich
+1003,80+,BL,46,Weiblich
+1004,80+,BL,996,Weiblich
+1005,80+,BL,706,Weiblich
+1006,80+,BL,99,Weiblich
+1007,80+,BL,19,Weiblich
+1008,80+,BL,488,Weiblich
+1009,80+,BL,237,Weiblich
+1010,0 - 9,BS,1062,Männlich
+1011,0 - 9,BS,966,Männlich
+1012,0 - 9,BS,797,Männlich
+1013,0 - 9,BS,917,Männlich
+1014,0 - 9,BS,911,Männlich
+1015,0 - 9,BS,887,Männlich
+1016,0 - 9,BS,1015,Männlich
+1017,0 - 9,BS,962,Männlich
+1018,0 - 9,BS,860,Männlich
+1019,0 - 9,BS,978,Männlich
+1020,10 - 19,BS,756,Männlich
+1021,10 - 19,BS,804,Männlich
+1022,10 - 19,BS,825,Männlich
+1023,10 - 19,BS,800,Männlich
+1024,10 - 19,BS,800,Männlich
+1025,10 - 19,BS,818,Männlich
+1026,10 - 19,BS,773,Männlich
+1027,10 - 19,BS,773,Männlich
+1028,10 - 19,BS,781,Männlich
+1029,10 - 19,BS,836,Männlich
+1030,20 - 29,BS,847,Männlich
+1031,20 - 29,BS,1579,Männlich
+1032,20 - 29,BS,945,Männlich
+1033,20 - 29,BS,1325,Männlich
+1034,20 - 29,BS,1546,Männlich
+1035,20 - 29,BS,1178,Männlich
+1036,20 - 29,BS,1445,Männlich
+1037,20 - 29,BS,1085,Männlich
+1038,20 - 29,BS,859,Männlich
+1039,20 - 29,BS,905,Männlich
+1040,30 - 39,BS,1464,Männlich
+1041,30 - 39,BS,1640,Männlich
+1042,30 - 39,BS,1639,Männlich
+1043,30 - 39,BS,1654,Männlich
+1044,30 - 39,BS,1685,Männlich
+1045,30 - 39,BS,1645,Männlich
+1046,30 - 39,BS,1629,Männlich
+1047,30 - 39,BS,1638,Männlich
+1048,30 - 39,BS,1682,Männlich
+1049,30 - 39,BS,1708,Männlich
+1050,40 - 49,BS,1405,Männlich
+1051,40 - 49,BS,1471,Männlich
+1052,40 - 49,BS,1264,Männlich
+1053,40 - 49,BS,1233,Männlich
+1054,40 - 49,BS,1331,Männlich
+1055,40 - 49,BS,1450,Männlich
+1056,40 - 49,BS,1394,Männlich
+1057,40 - 49,BS,1370,Männlich
+1058,40 - 49,BS,1266,Männlich
+1059,40 - 49,BS,1430,Männlich
+1060,50 - 59,BS,1414,Männlich
+1061,50 - 59,BS,1211,Männlich
+1062,50 - 59,BS,1379,Männlich
+1063,50 - 59,BS,1372,Männlich
+1064,50 - 59,BS,1371,Männlich
+1065,50 - 59,BS,1441,Männlich
+1066,50 - 59,BS,1373,Männlich
+1067,50 - 59,BS,1475,Männlich
+1068,50 - 59,BS,1463,Männlich
+1069,50 - 59,BS,1310,Männlich
+1070,60 - 69,BS,1208,Männlich
+1071,60 - 69,BS,1008,Männlich
+1072,60 - 69,BS,924,Männlich
+1073,60 - 69,BS,853,Männlich
+1074,60 - 69,BS,1132,Männlich
+1075,60 - 69,BS,878,Männlich
+1076,60 - 69,BS,998,Männlich
+1077,60 - 69,BS,833,Männlich
+1078,60 - 69,BS,1153,Männlich
+1079,60 - 69,BS,970,Männlich
+1080,70 - 79,BS,689,Männlich
+1081,70 - 79,BS,525,Männlich
+1082,70 - 79,BS,852,Männlich
+1083,70 - 79,BS,760,Männlich
+1084,70 - 79,BS,568,Männlich
+1085,70 - 79,BS,763,Männlich
+1086,70 - 79,BS,641,Männlich
+1087,70 - 79,BS,729,Männlich
+1088,70 - 79,BS,720,Männlich
+1089,70 - 79,BS,781,Männlich
+1090,80+,BS,457,Männlich
+1091,80+,BS,335,Männlich
+1092,80+,BS,23,Männlich
+1093,80+,BS,468,Männlich
+1094,80+,BS,9,Männlich
+1095,80+,BS,302,Männlich
+1096,80+,BS,74,Männlich
+1097,80+,BS,134,Männlich
+1098,80+,BS,498,Männlich
+1099,80+,BS,18,Männlich
+1100,80+,BS,58,Männlich
+1101,80+,BS,119,Männlich
+1102,80+,BS,235,Männlich
+1103,80+,BS,30,Männlich
+1104,80+,BS,390,Männlich
+1105,80+,BS,199,Männlich
+1106,80+,BS,280,Männlich
+1107,80+,BS,79,Männlich
+1108,80+,BS,13,Männlich
+1109,80+,BS,416,Männlich
+1110,80+,BS,347,Männlich
+1111,0 - 9,BS,937,Weiblich
+1112,0 - 9,BS,885,Weiblich
+1113,0 - 9,BS,944,Weiblich
+1114,0 - 9,BS,860,Weiblich
+1115,0 - 9,BS,797,Weiblich
+1116,0 - 9,BS,986,Weiblich
+1117,0 - 9,BS,839,Weiblich
+1118,0 - 9,BS,977,Weiblich
+1119,0 - 9,BS,844,Weiblich
+1120,0 - 9,BS,857,Weiblich
+1121,10 - 19,BS,797,Weiblich
+1122,10 - 19,BS,709,Weiblich
+1123,10 - 19,BS,699,Weiblich
+1124,10 - 19,BS,738,Weiblich
+1125,10 - 19,BS,727,Weiblich
+1126,10 - 19,BS,776,Weiblich
+1127,10 - 19,BS,721,Weiblich
+1128,10 - 19,BS,744,Weiblich
+1129,10 - 19,BS,696,Weiblich
+1130,10 - 19,BS,731,Weiblich
+1131,20 - 29,BS,978,Weiblich
+1132,20 - 29,BS,1387,Weiblich
+1133,20 - 29,BS,826,Weiblich
+1134,20 - 29,BS,1725,Weiblich
+1135,20 - 29,BS,1290,Weiblich
+1136,20 - 29,BS,955,Weiblich
+1137,20 - 29,BS,1757,Weiblich
+1138,20 - 29,BS,806,Weiblich
+1139,20 - 29,BS,1514,Weiblich
+1140,20 - 29,BS,1105,Weiblich
+1141,30 - 39,BS,1543,Weiblich
+1142,30 - 39,BS,1649,Weiblich
+1143,30 - 39,BS,1761,Weiblich
+1144,30 - 39,BS,1688,Weiblich
+1145,30 - 39,BS,1787,Weiblich
+1146,30 - 39,BS,1663,Weiblich
+1147,30 - 39,BS,1428,Weiblich
+1148,30 - 39,BS,1710,Weiblich
+1149,30 - 39,BS,1683,Weiblich
+1150,30 - 39,BS,1585,Weiblich
+1151,40 - 49,BS,1399,Weiblich
+1152,40 - 49,BS,1261,Weiblich
+1153,40 - 49,BS,1309,Weiblich
+1154,40 - 49,BS,1364,Weiblich
+1155,40 - 49,BS,1400,Weiblich
+1156,40 - 49,BS,1304,Weiblich
+1157,40 - 49,BS,1250,Weiblich
+1158,40 - 49,BS,1224,Weiblich
+1159,40 - 49,BS,1337,Weiblich
+1160,40 - 49,BS,1280,Weiblich
+1161,50 - 59,BS,1336,Weiblich
+1162,50 - 59,BS,1334,Weiblich
+1163,50 - 59,BS,1403,Weiblich
+1164,50 - 59,BS,1264,Weiblich
+1165,50 - 59,BS,1468,Weiblich
+1166,50 - 59,BS,1363,Weiblich
+1167,50 - 59,BS,1343,Weiblich
+1168,50 - 59,BS,1481,Weiblich
+1169,50 - 59,BS,1372,Weiblich
+1170,50 - 59,BS,1490,Weiblich
+1171,60 - 69,BS,1157,Weiblich
+1172,60 - 69,BS,1021,Weiblich
+1173,60 - 69,BS,1130,Weiblich
+1174,60 - 69,BS,993,Weiblich
+1175,60 - 69,BS,1056,Weiblich
+1176,60 - 69,BS,980,Weiblich
+1177,60 - 69,BS,1201,Weiblich
+1178,60 - 69,BS,962,Weiblich
+1179,60 - 69,BS,1019,Weiblich
+1180,60 - 69,BS,1080,Weiblich
+1181,70 - 79,BS,966,Weiblich
+1182,70 - 79,BS,910,Weiblich
+1183,70 - 79,BS,809,Weiblich
+1184,70 - 79,BS,952,Weiblich
+1185,70 - 79,BS,904,Weiblich
+1186,70 - 79,BS,905,Weiblich
+1187,70 - 79,BS,814,Weiblich
+1188,70 - 79,BS,973,Weiblich
+1189,70 - 79,BS,872,Weiblich
+1190,70 - 79,BS,865,Weiblich
+1191,80+,BS,96,Weiblich
+1192,80+,BS,65,Weiblich
+1193,80+,BS,762,Weiblich
+1194,80+,BS,239,Weiblich
+1195,80+,BS,393,Weiblich
+1196,80+,BS,35,Weiblich
+1197,80+,BS,610,Weiblich
+1198,80+,BS,534,Weiblich
+1199,80+,BS,732,Weiblich
+1200,80+,BS,161,Weiblich
+1201,80+,BS,303,Weiblich
+1202,80+,BS,64,Weiblich
+1203,80+,BS,793,Weiblich
+1204,80+,BS,677,Weiblich
+1205,80+,BS,257,Weiblich
+1206,80+,BS,609,Weiblich
+1207,80+,BS,455,Weiblich
+1208,80+,BS,123,Weiblich
+1209,80+,BS,494,Weiblich
+1210,80+,BS,746,Weiblich
+1211,80+,BS,652,Weiblich
+1212,0 - 9,FL,233,Männlich
+1213,0 - 9,FL,192,Männlich
+1214,0 - 9,FL,202,Männlich
+1215,0 - 9,FL,204,Männlich
+1216,0 - 9,FL,177,Männlich
+1217,0 - 9,FL,210,Männlich
+1218,0 - 9,FL,219,Männlich
+1219,0 - 9,FL,179,Männlich
+1220,0 - 9,FL,180,Männlich
+1221,0 - 9,FL,191,Männlich
+1222,10 - 19,FL,180,Männlich
+1223,10 - 19,FL,217,Männlich
+1224,10 - 19,FL,192,Männlich
+1225,10 - 19,FL,203,Männlich
+1226,10 - 19,FL,207,Männlich
+1227,10 - 19,FL,208,Männlich
+1228,10 - 19,FL,200,Männlich
+1229,10 - 19,FL,191,Männlich
+1230,10 - 19,FL,198,Männlich
+1231,10 - 19,FL,191,Männlich
+1232,20 - 29,FL,250,Männlich
+1233,20 - 29,FL,199,Männlich
+1234,20 - 29,FL,222,Männlich
+1235,20 - 29,FL,224,Männlich
+1236,20 - 29,FL,245,Männlich
+1237,20 - 29,FL,233,Männlich
+1238,20 - 29,FL,244,Männlich
+1239,20 - 29,FL,205,Männlich
+1240,20 - 29,FL,233,Männlich
+1241,20 - 29,FL,249,Männlich
+1242,30 - 39,FL,266,Männlich
+1243,30 - 39,FL,255,Männlich
+1244,30 - 39,FL,264,Männlich
+1245,30 - 39,FL,223,Männlich
+1246,30 - 39,FL,239,Männlich
+1247,30 - 39,FL,259,Männlich
+1248,30 - 39,FL,261,Männlich
+1249,30 - 39,FL,232,Männlich
+1250,30 - 39,FL,225,Männlich
+1251,30 - 39,FL,214,Männlich
+1252,40 - 49,FL,332,Männlich
+1253,40 - 49,FL,229,Männlich
+1254,40 - 49,FL,354,Männlich
+1255,40 - 49,FL,270,Männlich
+1256,40 - 49,FL,267,Männlich
+1257,40 - 49,FL,282,Männlich
+1258,40 - 49,FL,281,Männlich
+1259,40 - 49,FL,267,Männlich
+1260,40 - 49,FL,236,Männlich
+1261,40 - 49,FL,265,Männlich
+1262,50 - 59,FL,325,Männlich
+1263,50 - 59,FL,310,Männlich
+1264,50 - 59,FL,314,Männlich
+1265,50 - 59,FL,322,Männlich
+1266,50 - 59,FL,325,Männlich
+1267,50 - 59,FL,328,Männlich
+1268,50 - 59,FL,285,Männlich
+1269,50 - 59,FL,288,Männlich
+1270,50 - 59,FL,295,Männlich
+1271,50 - 59,FL,309,Männlich
+1272,60 - 69,FL,262,Männlich
+1273,60 - 69,FL,260,Männlich
+1274,60 - 69,FL,203,Männlich
+1275,60 - 69,FL,260,Männlich
+1276,60 - 69,FL,231,Männlich
+1277,60 - 69,FL,225,Männlich
+1278,60 - 69,FL,233,Männlich
+1279,60 - 69,FL,210,Männlich
+1280,60 - 69,FL,189,Männlich
+1281,60 - 69,FL,243,Männlich
+1282,70 - 79,FL,214,Männlich
+1283,70 - 79,FL,121,Männlich
+1284,70 - 79,FL,115,Männlich
+1285,70 - 79,FL,173,Männlich
+1286,70 - 79,FL,194,Männlich
+1287,70 - 79,FL,103,Männlich
+1288,70 - 79,FL,139,Männlich
+1289,70 - 79,FL,154,Männlich
+1290,70 - 79,FL,187,Männlich
+1291,70 - 79,FL,163,Männlich
+1292,80+,FL,11,Männlich
+1293,80+,FL,3,Männlich
+1294,80+,FL,2,Männlich
+1295,80+,FL,56,Männlich
+1296,80+,FL,3,Männlich
+1297,80+,FL,41,Männlich
+1298,80+,FL,63,Männlich
+1299,80+,FL,1,Männlich
+1300,80+,FL,1,Männlich
+1301,80+,FL,2,Männlich
+1302,80+,FL,26,Männlich
+1303,80+,FL,1,Männlich
+1304,80+,FL,68,Männlich
+1305,80+,FL,13,Männlich
+1306,80+,FL,48,Männlich
+1307,80+,FL,91,Männlich
+1308,80+,FL,19,Männlich
+1309,80+,FL,30,Männlich
+1310,80+,FL,5,Männlich
+1311,80+,FL,39,Männlich
+1312,80+,FL,23,Männlich
+1313,0 - 9,FL,173,Weiblich
+1314,0 - 9,FL,169,Weiblich
+1315,0 - 9,FL,192,Weiblich
+1316,0 - 9,FL,143,Weiblich
+1317,0 - 9,FL,178,Weiblich
+1318,0 - 9,FL,167,Weiblich
+1319,0 - 9,FL,168,Weiblich
+1320,0 - 9,FL,189,Weiblich
+1321,0 - 9,FL,178,Weiblich
+1322,0 - 9,FL,193,Weiblich
+1323,10 - 19,FL,224,Weiblich
+1324,10 - 19,FL,199,Weiblich
+1325,10 - 19,FL,202,Weiblich
+1326,10 - 19,FL,182,Weiblich
+1327,10 - 19,FL,200,Weiblich
+1328,10 - 19,FL,188,Weiblich
+1329,10 - 19,FL,172,Weiblich
+1330,10 - 19,FL,176,Weiblich
+1331,10 - 19,FL,165,Weiblich
+1332,10 - 19,FL,196,Weiblich
+1333,20 - 29,FL,218,Weiblich
+1334,20 - 29,FL,221,Weiblich
+1335,20 - 29,FL,229,Weiblich
+1336,20 - 29,FL,244,Weiblich
+1337,20 - 29,FL,220,Weiblich
+1338,20 - 29,FL,234,Weiblich
+1339,20 - 29,FL,192,Weiblich
+1340,20 - 29,FL,229,Weiblich
+1341,20 - 29,FL,229,Weiblich
+1342,20 - 29,FL,219,Weiblich
+1343,30 - 39,FL,233,Weiblich
+1344,30 - 39,FL,257,Weiblich
+1345,30 - 39,FL,246,Weiblich
+1346,30 - 39,FL,245,Weiblich
+1347,30 - 39,FL,255,Weiblich
+1348,30 - 39,FL,251,Weiblich
+1349,30 - 39,FL,254,Weiblich
+1350,30 - 39,FL,247,Weiblich
+1351,30 - 39,FL,248,Weiblich
+1352,30 - 39,FL,214,Weiblich
+1353,40 - 49,FL,295,Weiblich
+1354,40 - 49,FL,245,Weiblich
+1355,40 - 49,FL,305,Weiblich
+1356,40 - 49,FL,289,Weiblich
+1357,40 - 49,FL,314,Weiblich
+1358,40 - 49,FL,258,Weiblich
+1359,40 - 49,FL,240,Weiblich
+1360,40 - 49,FL,306,Weiblich
+1361,40 - 49,FL,254,Weiblich
+1362,40 - 49,FL,282,Weiblich
+1363,50 - 59,FL,311,Weiblich
+1364,50 - 59,FL,304,Weiblich
+1365,50 - 59,FL,337,Weiblich
+1366,50 - 59,FL,325,Weiblich
+1367,50 - 59,FL,374,Weiblich
+1368,50 - 59,FL,331,Weiblich
+1369,50 - 59,FL,352,Weiblich
+1370,50 - 59,FL,297,Weiblich
+1371,50 - 59,FL,301,Weiblich
+1372,50 - 59,FL,306,Weiblich
+1373,60 - 69,FL,256,Weiblich
+1374,60 - 69,FL,198,Weiblich
+1375,60 - 69,FL,207,Weiblich
+1376,60 - 69,FL,216,Weiblich
+1377,60 - 69,FL,215,Weiblich
+1378,60 - 69,FL,282,Weiblich
+1379,60 - 69,FL,246,Weiblich
+1380,60 - 69,FL,239,Weiblich
+1381,60 - 69,FL,241,Weiblich
+1382,60 - 69,FL,278,Weiblich
+1383,70 - 79,FL,159,Weiblich
+1384,70 - 79,FL,153,Weiblich
+1385,70 - 79,FL,195,Weiblich
+1386,70 - 79,FL,147,Weiblich
+1387,70 - 79,FL,198,Weiblich
+1388,70 - 79,FL,187,Weiblich
+1389,70 - 79,FL,225,Weiblich
+1390,70 - 79,FL,152,Weiblich
+1391,70 - 79,FL,118,Weiblich
+1392,70 - 79,FL,166,Weiblich
+1393,80+,FL,18,Weiblich
+1394,80+,FL,1,Weiblich
+1395,80+,FL,88,Weiblich
+1396,80+,FL,7,Weiblich
+1397,80+,FL,32,Weiblich
+1398,80+,FL,7,Weiblich
+1399,80+,FL,24,Weiblich
+1400,80+,FL,33,Weiblich
+1401,80+,FL,63,Weiblich
+1402,80+,FL,87,Weiblich
+1403,80+,FL,46,Weiblich
+1404,80+,FL,37,Weiblich
+1405,80+,FL,13,Weiblich
+1406,80+,FL,4,Weiblich
+1407,80+,FL,46,Weiblich
+1408,80+,FL,93,Weiblich
+1409,80+,FL,0,Weiblich
+1410,80+,FL,87,Weiblich
+1411,80+,FL,30,Weiblich
+1412,80+,FL,118,Weiblich
+1413,80+,FL,76,Weiblich
+1414,0 - 9,FR,1760,Männlich
+1415,0 - 9,FR,1813,Männlich
+1416,0 - 9,FR,1854,Männlich
+1417,0 - 9,FR,1841,Männlich
+1418,0 - 9,FR,1849,Männlich
+1419,0 - 9,FR,1836,Männlich
+1420,0 - 9,FR,1803,Männlich
+1421,0 - 9,FR,1854,Männlich
+1422,0 - 9,FR,1875,Männlich
+1423,0 - 9,FR,1780,Männlich
+1424,10 - 19,FR,1803,Männlich
+1425,10 - 19,FR,1828,Männlich
+1426,10 - 19,FR,1801,Männlich
+1427,10 - 19,FR,1795,Männlich
+1428,10 - 19,FR,1779,Männlich
+1429,10 - 19,FR,1861,Männlich
+1430,10 - 19,FR,1974,Männlich
+1431,10 - 19,FR,1777,Männlich
+1432,10 - 19,FR,1784,Männlich
+1433,10 - 19,FR,1947,Männlich
+1434,20 - 29,FR,2154,Männlich
+1435,20 - 29,FR,2119,Männlich
+1436,20 - 29,FR,2191,Männlich
+1437,20 - 29,FR,2123,Männlich
+1438,20 - 29,FR,2287,Männlich
+1439,20 - 29,FR,2221,Männlich
+1440,20 - 29,FR,2050,Männlich
+1441,20 - 29,FR,2275,Männlich
+1442,20 - 29,FR,2323,Männlich
+1443,20 - 29,FR,2046,Männlich
+1444,30 - 39,FR,2193,Männlich
+1445,30 - 39,FR,2210,Männlich
+1446,30 - 39,FR,2223,Männlich
+1447,30 - 39,FR,2241,Männlich
+1448,30 - 39,FR,2203,Männlich
+1449,30 - 39,FR,2288,Männlich
+1450,30 - 39,FR,2156,Männlich
+1451,30 - 39,FR,2283,Männlich
+1452,30 - 39,FR,2208,Männlich
+1453,30 - 39,FR,2237,Männlich
+1454,40 - 49,FR,2193,Männlich
+1455,40 - 49,FR,2361,Männlich
+1456,40 - 49,FR,2300,Männlich
+1457,40 - 49,FR,2149,Männlich
+1458,40 - 49,FR,2279,Männlich
+1459,40 - 49,FR,2181,Männlich
+1460,40 - 49,FR,2412,Männlich
+1461,40 - 49,FR,2454,Männlich
+1462,40 - 49,FR,2462,Männlich
+1463,40 - 49,FR,2165,Männlich
+1464,50 - 59,FR,2263,Männlich
+1465,50 - 59,FR,2463,Männlich
+1466,50 - 59,FR,2576,Männlich
+1467,50 - 59,FR,2519,Männlich
+1468,50 - 59,FR,2201,Männlich
+1469,50 - 59,FR,2561,Männlich
+1470,50 - 59,FR,2471,Männlich
+1471,50 - 59,FR,2568,Männlich
+1472,50 - 59,FR,1991,Männlich
+1473,50 - 59,FR,2322,Männlich
+1474,60 - 69,FR,1766,Männlich
+1475,60 - 69,FR,1472,Männlich
+1476,60 - 69,FR,1476,Männlich
+1477,60 - 69,FR,1969,Männlich
+1478,60 - 69,FR,1573,Männlich
+1479,60 - 69,FR,1468,Männlich
+1480,60 - 69,FR,1481,Männlich
+1481,60 - 69,FR,1353,Männlich
+1482,60 - 69,FR,1697,Männlich
+1483,60 - 69,FR,1995,Männlich
+1484,70 - 79,FR,892,Männlich
+1485,70 - 79,FR,1354,Männlich
+1486,70 - 79,FR,1143,Männlich
+1487,70 - 79,FR,1229,Männlich
+1488,70 - 79,FR,1095,Männlich
+1489,70 - 79,FR,1316,Männlich
+1490,70 - 79,FR,772,Männlich
+1491,70 - 79,FR,1398,Männlich
+1492,70 - 79,FR,691,Männlich
+1493,70 - 79,FR,1038,Männlich
+1494,80+,FR,3,Männlich
+1495,80+,FR,26,Männlich
+1496,80+,FR,231,Männlich
+1497,80+,FR,398,Männlich
+1498,80+,FR,73,Männlich
+1499,80+,FR,446,Männlich
+1500,80+,FR,616,Männlich
+1501,80+,FR,568,Männlich
+1502,80+,FR,9,Männlich
+1503,80+,FR,23,Männlich
+1504,80+,FR,128,Männlich
+1505,80+,FR,38,Männlich
+1506,80+,FR,304,Männlich
+1507,80+,FR,167,Männlich
+1508,80+,FR,98,Männlich
+1509,80+,FR,179,Männlich
+1510,80+,FR,375,Männlich
+1511,80+,FR,60,Männlich
+1512,80+,FR,643,Männlich
+1513,80+,FR,8,Männlich
+1514,80+,FR,472,Männlich
+1515,0 - 9,FR,1690,Weiblich
+1516,0 - 9,FR,1721,Weiblich
+1517,0 - 9,FR,1778,Weiblich
+1518,0 - 9,FR,1777,Weiblich
+1519,0 - 9,FR,1645,Weiblich
+1520,0 - 9,FR,1798,Weiblich
+1521,0 - 9,FR,1736,Weiblich
+1522,0 - 9,FR,1581,Weiblich
+1523,0 - 9,FR,1729,Weiblich
+1524,0 - 9,FR,1690,Weiblich
+1525,10 - 19,FR,1736,Weiblich
+1526,10 - 19,FR,1699,Weiblich
+1527,10 - 19,FR,1699,Weiblich
+1528,10 - 19,FR,1724,Weiblich
+1529,10 - 19,FR,1773,Weiblich
+1530,10 - 19,FR,1667,Weiblich
+1531,10 - 19,FR,1843,Weiblich
+1532,10 - 19,FR,1821,Weiblich
+1533,10 - 19,FR,1750,Weiblich
+1534,10 - 19,FR,1735,Weiblich
+1535,20 - 29,FR,2184,Weiblich
+1536,20 - 29,FR,1984,Weiblich
+1537,20 - 29,FR,1984,Weiblich
+1538,20 - 29,FR,1949,Weiblich
+1539,20 - 29,FR,2121,Weiblich
+1540,20 - 29,FR,2224,Weiblich
+1541,20 - 29,FR,2202,Weiblich
+1542,20 - 29,FR,2088,Weiblich
+1543,20 - 29,FR,2193,Weiblich
+1544,20 - 29,FR,1954,Weiblich
+1545,30 - 39,FR,2183,Weiblich
+1546,30 - 39,FR,2172,Weiblich
+1547,30 - 39,FR,2180,Weiblich
+1548,30 - 39,FR,2196,Weiblich
+1549,30 - 39,FR,2223,Weiblich
+1550,30 - 39,FR,2158,Weiblich
+1551,30 - 39,FR,2120,Weiblich
+1552,30 - 39,FR,2233,Weiblich
+1553,30 - 39,FR,2260,Weiblich
+1554,30 - 39,FR,2162,Weiblich
+1555,40 - 49,FR,2162,Weiblich
+1556,40 - 49,FR,2339,Weiblich
+1557,40 - 49,FR,2361,Weiblich
+1558,40 - 49,FR,2334,Weiblich
+1559,40 - 49,FR,2490,Weiblich
+1560,40 - 49,FR,2064,Weiblich
+1561,40 - 49,FR,2120,Weiblich
+1562,40 - 49,FR,2416,Weiblich
+1563,40 - 49,FR,2182,Weiblich
+1564,40 - 49,FR,2241,Weiblich
+1565,50 - 59,FR,2372,Weiblich
+1566,50 - 59,FR,2490,Weiblich
+1567,50 - 59,FR,2253,Weiblich
+1568,50 - 59,FR,1965,Weiblich
+1569,50 - 59,FR,2036,Weiblich
+1570,50 - 59,FR,2203,Weiblich
+1571,50 - 59,FR,2493,Weiblich
+1572,50 - 59,FR,2518,Weiblich
+1573,50 - 59,FR,2498,Weiblich
+1574,50 - 59,FR,2470,Weiblich
+1575,60 - 69,FR,1759,Weiblich
+1576,60 - 69,FR,1745,Weiblich
+1577,60 - 69,FR,1461,Weiblich
+1578,60 - 69,FR,1472,Weiblich
+1579,60 - 69,FR,1914,Weiblich
+1580,60 - 69,FR,1647,Weiblich
+1581,60 - 69,FR,1587,Weiblich
+1582,60 - 69,FR,1406,Weiblich
+1583,60 - 69,FR,1618,Weiblich
+1584,60 - 69,FR,1469,Weiblich
+1585,70 - 79,FR,1199,Weiblich
+1586,70 - 79,FR,1480,Weiblich
+1587,70 - 79,FR,1415,Weiblich
+1588,70 - 79,FR,897,Weiblich
+1589,70 - 79,FR,861,Weiblich
+1590,70 - 79,FR,1046,Weiblich
+1591,70 - 79,FR,1263,Weiblich
+1592,70 - 79,FR,1080,Weiblich
+1593,70 - 79,FR,1336,Weiblich
+1594,70 - 79,FR,1464,Weiblich
+1595,80+,FR,166,Weiblich
+1596,80+,FR,312,Weiblich
+1597,80+,FR,84,Weiblich
+1598,80+,FR,159,Weiblich
+1599,80+,FR,62,Weiblich
+1600,80+,FR,720,Weiblich
+1601,80+,FR,28,Weiblich
+1602,80+,FR,721,Weiblich
+1603,80+,FR,30,Weiblich
+1604,80+,FR,298,Weiblich
+1605,80+,FR,118,Weiblich
+1606,80+,FR,431,Weiblich
+1607,80+,FR,601,Weiblich
+1608,80+,FR,248,Weiblich
+1609,80+,FR,399,Weiblich
+1610,80+,FR,821,Weiblich
+1611,80+,FR,566,Weiblich
+1612,80+,FR,720,Weiblich
+1613,80+,FR,657,Weiblich
+1614,80+,FR,36,Weiblich
+1615,80+,FR,470,Weiblich
+1616,0 - 9,GE,2760,Männlich
+1617,0 - 9,GE,2502,Männlich
+1618,0 - 9,GE,2654,Männlich
+1619,0 - 9,GE,2703,Männlich
+1620,0 - 9,GE,2698,Männlich
+1621,0 - 9,GE,2747,Männlich
+1622,0 - 9,GE,2642,Männlich
+1623,0 - 9,GE,2782,Männlich
+1624,0 - 9,GE,2749,Männlich
+1625,0 - 9,GE,2706,Männlich
+1626,10 - 19,GE,2640,Männlich
+1627,10 - 19,GE,2615,Männlich
+1628,10 - 19,GE,2754,Männlich
+1629,10 - 19,GE,2807,Männlich
+1630,10 - 19,GE,2937,Männlich
+1631,10 - 19,GE,2440,Männlich
+1632,10 - 19,GE,2616,Männlich
+1633,10 - 19,GE,2739,Männlich
+1634,10 - 19,GE,2649,Männlich
+1635,10 - 19,GE,2713,Männlich
+1636,20 - 29,GE,3307,Männlich
+1637,20 - 29,GE,3615,Männlich
+1638,20 - 29,GE,3445,Männlich
+1639,20 - 29,GE,2966,Männlich
+1640,20 - 29,GE,2813,Männlich
+1641,20 - 29,GE,3620,Männlich
+1642,20 - 29,GE,3547,Männlich
+1643,20 - 29,GE,3094,Männlich
+1644,20 - 29,GE,2895,Männlich
+1645,20 - 29,GE,3127,Männlich
+1646,30 - 39,GE,3754,Männlich
+1647,30 - 39,GE,3800,Männlich
+1648,30 - 39,GE,3674,Männlich
+1649,30 - 39,GE,3540,Männlich
+1650,30 - 39,GE,3823,Männlich
+1651,30 - 39,GE,3735,Männlich
+1652,30 - 39,GE,3701,Männlich
+1653,30 - 39,GE,3575,Männlich
+1654,30 - 39,GE,3771,Männlich
+1655,30 - 39,GE,3623,Männlich
+1656,40 - 49,GE,3726,Männlich
+1657,40 - 49,GE,3646,Männlich
+1658,40 - 49,GE,3792,Männlich
+1659,40 - 49,GE,3611,Männlich
+1660,40 - 49,GE,3540,Männlich
+1661,40 - 49,GE,3704,Männlich
+1662,40 - 49,GE,3724,Männlich
+1663,40 - 49,GE,3559,Männlich
+1664,40 - 49,GE,3679,Männlich
+1665,40 - 49,GE,3806,Männlich
+1666,50 - 59,GE,3581,Männlich
+1667,50 - 59,GE,3801,Männlich
+1668,50 - 59,GE,3317,Männlich
+1669,50 - 59,GE,3703,Männlich
+1670,50 - 59,GE,3078,Männlich
+1671,50 - 59,GE,3128,Männlich
+1672,50 - 59,GE,3540,Männlich
+1673,50 - 59,GE,3770,Männlich
+1674,50 - 59,GE,3751,Männlich
+1675,50 - 59,GE,3244,Männlich
+1676,60 - 69,GE,1838,Männlich
+1677,60 - 69,GE,1891,Männlich
+1678,60 - 69,GE,2400,Männlich
+1679,60 - 69,GE,2803,Männlich
+1680,60 - 69,GE,1786,Männlich
+1681,60 - 69,GE,2678,Männlich
+1682,60 - 69,GE,2490,Männlich
+1683,60 - 69,GE,1979,Männlich
+1684,60 - 69,GE,2151,Männlich
+1685,60 - 69,GE,1790,Männlich
+1686,70 - 79,GE,1535,Männlich
+1687,70 - 79,GE,1729,Männlich
+1688,70 - 79,GE,1750,Männlich
+1689,70 - 79,GE,1200,Männlich
+1690,70 - 79,GE,1823,Männlich
+1691,70 - 79,GE,1806,Männlich
+1692,70 - 79,GE,1257,Männlich
+1693,70 - 79,GE,1636,Männlich
+1694,70 - 79,GE,1306,Männlich
+1695,70 - 79,GE,1709,Männlich
+1696,80+,GE,20,Männlich
+1697,80+,GE,43,Männlich
+1698,80+,GE,1147,Männlich
+1699,80+,GE,107,Männlich
+1700,80+,GE,90,Männlich
+1701,80+,GE,218,Männlich
+1702,80+,GE,683,Männlich
+1703,80+,GE,964,Männlich
+1704,80+,GE,1030,Männlich
+1705,80+,GE,434,Männlich
+1706,80+,GE,818,Männlich
+1707,80+,GE,34,Männlich
+1708,80+,GE,991,Männlich
+1709,80+,GE,268,Männlich
+1710,80+,GE,737,Männlich
+1711,80+,GE,554,Männlich
+1712,80+,GE,173,Männlich
+1713,80+,GE,12,Männlich
+1714,80+,GE,565,Männlich
+1715,80+,GE,362,Männlich
+1716,80+,GE,63,Männlich
+1717,0 - 9,GE,2590,Weiblich
+1718,0 - 9,GE,2537,Weiblich
+1719,0 - 9,GE,2523,Weiblich
+1720,0 - 9,GE,2520,Weiblich
+1721,0 - 9,GE,2565,Weiblich
+1722,0 - 9,GE,2500,Weiblich
+1723,0 - 9,GE,2671,Weiblich
+1724,0 - 9,GE,2730,Weiblich
+1725,0 - 9,GE,2456,Weiblich
+1726,0 - 9,GE,2621,Weiblich
+1727,10 - 19,GE,2504,Weiblich
+1728,10 - 19,GE,2781,Weiblich
+1729,10 - 19,GE,2532,Weiblich
+1730,10 - 19,GE,2576,Weiblich
+1731,10 - 19,GE,2528,Weiblich
+1732,10 - 19,GE,2748,Weiblich
+1733,10 - 19,GE,2468,Weiblich
+1734,10 - 19,GE,2574,Weiblich
+1735,10 - 19,GE,2567,Weiblich
+1736,10 - 19,GE,2667,Weiblich
+1737,20 - 29,GE,3583,Weiblich
+1738,20 - 29,GE,2695,Weiblich
+1739,20 - 29,GE,3539,Weiblich
+1740,20 - 29,GE,3691,Weiblich
+1741,20 - 29,GE,3047,Weiblich
+1742,20 - 29,GE,3338,Weiblich
+1743,20 - 29,GE,2994,Weiblich
+1744,20 - 29,GE,3655,Weiblich
+1745,20 - 29,GE,3199,Weiblich
+1746,20 - 29,GE,2832,Weiblich
+1747,30 - 39,GE,3951,Weiblich
+1748,30 - 39,GE,3758,Weiblich
+1749,30 - 39,GE,3800,Weiblich
+1750,30 - 39,GE,3772,Weiblich
+1751,30 - 39,GE,3747,Weiblich
+1752,30 - 39,GE,3894,Weiblich
+1753,30 - 39,GE,3896,Weiblich
+1754,30 - 39,GE,3902,Weiblich
+1755,30 - 39,GE,3934,Weiblich
+1756,30 - 39,GE,3748,Weiblich
+1757,40 - 49,GE,3873,Weiblich
+1758,40 - 49,GE,3826,Weiblich
+1759,40 - 49,GE,3846,Weiblich
+1760,40 - 49,GE,3929,Weiblich
+1761,40 - 49,GE,3720,Weiblich
+1762,40 - 49,GE,3874,Weiblich
+1763,40 - 49,GE,3848,Weiblich
+1764,40 - 49,GE,3728,Weiblich
+1765,40 - 49,GE,3884,Weiblich
+1766,40 - 49,GE,3919,Weiblich
+1767,50 - 59,GE,3145,Weiblich
+1768,50 - 59,GE,3806,Weiblich
+1769,50 - 59,GE,3544,Weiblich
+1770,50 - 59,GE,3867,Weiblich
+1771,50 - 59,GE,3116,Weiblich
+1772,50 - 59,GE,3613,Weiblich
+1773,50 - 59,GE,3837,Weiblich
+1774,50 - 59,GE,3325,Weiblich
+1775,50 - 59,GE,3742,Weiblich
+1776,50 - 59,GE,3986,Weiblich
+1777,60 - 69,GE,2794,Weiblich
+1778,60 - 69,GE,2450,Weiblich
+1779,60 - 69,GE,2147,Weiblich
+1780,60 - 69,GE,2231,Weiblich
+1781,60 - 69,GE,2297,Weiblich
+1782,60 - 69,GE,2340,Weiblich
+1783,60 - 69,GE,2598,Weiblich
+1784,60 - 69,GE,2092,Weiblich
+1785,60 - 69,GE,2687,Weiblich
+1786,60 - 69,GE,2433,Weiblich
+1787,70 - 79,GE,1668,Weiblich
+1788,70 - 79,GE,2297,Weiblich
+1789,70 - 79,GE,2140,Weiblich
+1790,70 - 79,GE,1617,Weiblich
+1791,70 - 79,GE,2081,Weiblich
+1792,70 - 79,GE,2092,Weiblich
+1793,70 - 79,GE,2227,Weiblich
+1794,70 - 79,GE,2375,Weiblich
+1795,70 - 79,GE,2258,Weiblich
+1796,70 - 79,GE,1878,Weiblich
+1797,80+,GE,1578,Weiblich
+1798,80+,GE,177,Weiblich
+1799,80+,GE,124,Weiblich
+1800,80+,GE,1322,Weiblich
+1801,80+,GE,372,Weiblich
+1802,80+,GE,302,Weiblich
+1803,80+,GE,1126,Weiblich
+1804,80+,GE,509,Weiblich
+1805,80+,GE,812,Weiblich
+1806,80+,GE,233,Weiblich
+1807,80+,GE,67,Weiblich
+1808,80+,GE,694,Weiblich
+1809,80+,GE,1012,Weiblich
+1810,80+,GE,455,Weiblich
+1811,80+,GE,1224,Weiblich
+1812,80+,GE,1324,Weiblich
+1813,80+,GE,638,Weiblich
+1814,80+,GE,1010,Weiblich
+1815,80+,GE,105,Weiblich
+1816,80+,GE,1266,Weiblich
+1817,80+,GE,1519,Weiblich
+1818,0 - 9,GL,184,Männlich
+1819,0 - 9,GL,211,Männlich
+1820,0 - 9,GL,173,Männlich
+1821,0 - 9,GL,197,Männlich
+1822,0 - 9,GL,203,Männlich
+1823,0 - 9,GL,190,Männlich
+1824,0 - 9,GL,183,Männlich
+1825,0 - 9,GL,214,Männlich
+1826,0 - 9,GL,207,Männlich
+1827,0 - 9,GL,209,Männlich
+1828,10 - 19,GL,200,Männlich
+1829,10 - 19,GL,184,Männlich
+1830,10 - 19,GL,164,Männlich
+1831,10 - 19,GL,216,Männlich
+1832,10 - 19,GL,212,Männlich
+1833,10 - 19,GL,197,Männlich
+1834,10 - 19,GL,193,Männlich
+1835,10 - 19,GL,217,Männlich
+1836,10 - 19,GL,211,Männlich
+1837,10 - 19,GL,217,Männlich
+1838,20 - 29,GL,277,Männlich
+1839,20 - 29,GL,294,Männlich
+1840,20 - 29,GL,289,Männlich
+1841,20 - 29,GL,251,Männlich
+1842,20 - 29,GL,276,Männlich
+1843,20 - 29,GL,245,Männlich
+1844,20 - 29,GL,260,Männlich
+1845,20 - 29,GL,254,Männlich
+1846,20 - 29,GL,263,Männlich
+1847,20 - 29,GL,254,Männlich
+1848,30 - 39,GL,289,Männlich
+1849,30 - 39,GL,313,Männlich
+1850,30 - 39,GL,264,Männlich
+1851,30 - 39,GL,292,Männlich
+1852,30 - 39,GL,300,Männlich
+1853,30 - 39,GL,270,Männlich
+1854,30 - 39,GL,264,Männlich
+1855,30 - 39,GL,309,Männlich
+1856,30 - 39,GL,276,Männlich
+1857,30 - 39,GL,280,Männlich
+1858,40 - 49,GL,274,Männlich
+1859,40 - 49,GL,284,Männlich
+1860,40 - 49,GL,275,Männlich
+1861,40 - 49,GL,264,Männlich
+1862,40 - 49,GL,240,Männlich
+1863,40 - 49,GL,247,Männlich
+1864,40 - 49,GL,263,Männlich
+1865,40 - 49,GL,271,Männlich
+1866,40 - 49,GL,229,Männlich
+1867,40 - 49,GL,293,Männlich
+1868,50 - 59,GL,290,Männlich
+1869,50 - 59,GL,340,Männlich
+1870,50 - 59,GL,294,Männlich
+1871,50 - 59,GL,330,Männlich
+1872,50 - 59,GL,309,Männlich
+1873,50 - 59,GL,294,Männlich
+1874,50 - 59,GL,322,Männlich
+1875,50 - 59,GL,307,Männlich
+1876,50 - 59,GL,352,Männlich
+1877,50 - 59,GL,313,Männlich
+1878,60 - 69,GL,222,Männlich
+1879,60 - 69,GL,262,Männlich
+1880,60 - 69,GL,291,Männlich
+1881,60 - 69,GL,276,Männlich
+1882,60 - 69,GL,236,Männlich
+1883,60 - 69,GL,282,Männlich
+1884,60 - 69,GL,300,Männlich
+1885,60 - 69,GL,283,Männlich
+1886,60 - 69,GL,229,Männlich
+1887,60 - 69,GL,210,Männlich
+1888,70 - 79,GL,133,Männlich
+1889,70 - 79,GL,149,Männlich
+1890,70 - 79,GL,177,Männlich
+1891,70 - 79,GL,204,Männlich
+1892,70 - 79,GL,168,Männlich
+1893,70 - 79,GL,121,Männlich
+1894,70 - 79,GL,179,Männlich
+1895,70 - 79,GL,153,Männlich
+1896,70 - 79,GL,249,Männlich
+1897,70 - 79,GL,189,Männlich
+1898,80+,GL,14,Männlich
+1899,80+,GL,67,Männlich
+1900,80+,GL,33,Männlich
+1901,80+,GL,19,Männlich
+1902,80+,GL,14,Männlich
+1903,80+,GL,5,Männlich
+1904,80+,GL,92,Männlich
+1905,80+,GL,3,Männlich
+1906,80+,GL,12,Männlich
+1907,80+,GL,60,Männlich
+1908,80+,GL,79,Männlich
+1909,80+,GL,13,Männlich
+1910,80+,GL,3,Männlich
+1911,80+,GL,29,Männlich
+1912,80+,GL,0,Männlich
+1913,80+,GL,79,Männlich
+1914,80+,GL,109,Männlich
+1915,80+,GL,1,Männlich
+1916,80+,GL,105,Männlich
+1917,80+,GL,43,Männlich
+1918,80+,GL,62,Männlich
+1919,0 - 9,GL,191,Weiblich
+1920,0 - 9,GL,192,Weiblich
+1921,0 - 9,GL,184,Weiblich
+1922,0 - 9,GL,173,Weiblich
+1923,0 - 9,GL,190,Weiblich
+1924,0 - 9,GL,207,Weiblich
+1925,0 - 9,GL,184,Weiblich
+1926,0 - 9,GL,200,Weiblich
+1927,0 - 9,GL,188,Weiblich
+1928,0 - 9,GL,193,Weiblich
+1929,10 - 19,GL,183,Weiblich
+1930,10 - 19,GL,184,Weiblich
+1931,10 - 19,GL,172,Weiblich
+1932,10 - 19,GL,186,Weiblich
+1933,10 - 19,GL,178,Weiblich
+1934,10 - 19,GL,173,Weiblich
+1935,10 - 19,GL,187,Weiblich
+1936,10 - 19,GL,202,Weiblich
+1937,10 - 19,GL,186,Weiblich
+1938,10 - 19,GL,191,Weiblich
+1939,20 - 29,GL,260,Weiblich
+1940,20 - 29,GL,243,Weiblich
+1941,20 - 29,GL,222,Weiblich
+1942,20 - 29,GL,208,Weiblich
+1943,20 - 29,GL,218,Weiblich
+1944,20 - 29,GL,248,Weiblich
+1945,20 - 29,GL,231,Weiblich
+1946,20 - 29,GL,224,Weiblich
+1947,20 - 29,GL,239,Weiblich
+1948,20 - 29,GL,238,Weiblich
+1949,30 - 39,GL,267,Weiblich
+1950,30 - 39,GL,262,Weiblich
+1951,30 - 39,GL,251,Weiblich
+1952,30 - 39,GL,270,Weiblich
+1953,30 - 39,GL,266,Weiblich
+1954,30 - 39,GL,241,Weiblich
+1955,30 - 39,GL,238,Weiblich
+1956,30 - 39,GL,280,Weiblich
+1957,30 - 39,GL,266,Weiblich
+1958,30 - 39,GL,266,Weiblich
+1959,40 - 49,GL,234,Weiblich
+1960,40 - 49,GL,274,Weiblich
+1961,40 - 49,GL,243,Weiblich
+1962,40 - 49,GL,254,Weiblich
+1963,40 - 49,GL,252,Weiblich
+1964,40 - 49,GL,250,Weiblich
+1965,40 - 49,GL,226,Weiblich
+1966,40 - 49,GL,253,Weiblich
+1967,40 - 49,GL,261,Weiblich
+1968,40 - 49,GL,256,Weiblich
+1969,50 - 59,GL,340,Weiblich
+1970,50 - 59,GL,332,Weiblich
+1971,50 - 59,GL,288,Weiblich
+1972,50 - 59,GL,308,Weiblich
+1973,50 - 59,GL,284,Weiblich
+1974,50 - 59,GL,297,Weiblich
+1975,50 - 59,GL,330,Weiblich
+1976,50 - 59,GL,310,Weiblich
+1977,50 - 59,GL,312,Weiblich
+1978,50 - 59,GL,308,Weiblich
+1979,60 - 69,GL,245,Weiblich
+1980,60 - 69,GL,251,Weiblich
+1981,60 - 69,GL,225,Weiblich
+1982,60 - 69,GL,278,Weiblich
+1983,60 - 69,GL,232,Weiblich
+1984,60 - 69,GL,283,Weiblich
+1985,60 - 69,GL,229,Weiblich
+1986,60 - 69,GL,226,Weiblich
+1987,60 - 69,GL,238,Weiblich
+1988,60 - 69,GL,244,Weiblich
+1989,70 - 79,GL,187,Weiblich
+1990,70 - 79,GL,184,Weiblich
+1991,70 - 79,GL,128,Weiblich
+1992,70 - 79,GL,174,Weiblich
+1993,70 - 79,GL,208,Weiblich
+1994,70 - 79,GL,179,Weiblich
+1995,70 - 79,GL,136,Weiblich
+1996,70 - 79,GL,194,Weiblich
+1997,70 - 79,GL,174,Weiblich
+1998,70 - 79,GL,215,Weiblich
+1999,80+,GL,106,Weiblich
+2000,80+,GL,18,Weiblich
+2001,80+,GL,50,Weiblich
+2002,80+,GL,66,Weiblich
+2003,80+,GL,109,Weiblich
+2004,80+,GL,104,Weiblich
+2005,80+,GL,4,Weiblich
+2006,80+,GL,128,Weiblich
+2007,80+,GL,147,Weiblich
+2008,80+,GL,7,Weiblich
+2009,80+,GL,13,Weiblich
+2010,80+,GL,116,Weiblich
+2011,80+,GL,34,Weiblich
+2012,80+,GL,4,Weiblich
+2013,80+,GL,116,Weiblich
+2014,80+,GL,144,Weiblich
+2015,80+,GL,89,Weiblich
+2016,80+,GL,55,Weiblich
+2017,80+,GL,15,Weiblich
+2018,80+,GL,66,Weiblich
+2019,80+,GL,40,Weiblich
+2020,0 - 9,GR,913,Männlich
+2021,0 - 9,GR,913,Männlich
+2022,0 - 9,GR,921,Männlich
+2023,0 - 9,GR,905,Männlich
+2024,0 - 9,GR,920,Männlich
+2025,0 - 9,GR,903,Männlich
+2026,0 - 9,GR,861,Männlich
+2027,0 - 9,GR,917,Männlich
+2028,0 - 9,GR,893,Männlich
+2029,0 - 9,GR,876,Männlich
+2030,10 - 19,GR,919,Männlich
+2031,10 - 19,GR,844,Männlich
+2032,10 - 19,GR,899,Männlich
+2033,10 - 19,GR,1074,Männlich
+2034,10 - 19,GR,1112,Männlich
+2035,10 - 19,GR,832,Männlich
+2036,10 - 19,GR,958,Männlich
+2037,10 - 19,GR,857,Männlich
+2038,10 - 19,GR,920,Männlich
+2039,10 - 19,GR,1018,Männlich
+2040,20 - 29,GR,1224,Männlich
+2041,20 - 29,GR,1310,Männlich
+2042,20 - 29,GR,1118,Männlich
+2043,20 - 29,GR,1176,Männlich
+2044,20 - 29,GR,1327,Männlich
+2045,20 - 29,GR,1152,Männlich
+2046,20 - 29,GR,1246,Männlich
+2047,20 - 29,GR,1162,Männlich
+2048,20 - 29,GR,1231,Männlich
+2049,20 - 29,GR,1110,Männlich
+2050,30 - 39,GR,1328,Männlich
+2051,30 - 39,GR,1345,Männlich
+2052,30 - 39,GR,1204,Männlich
+2053,30 - 39,GR,1327,Männlich
+2054,30 - 39,GR,1340,Männlich
+2055,30 - 39,GR,1332,Männlich
+2056,30 - 39,GR,1355,Männlich
+2057,30 - 39,GR,1309,Männlich
+2058,30 - 39,GR,1284,Männlich
+2059,30 - 39,GR,1280,Männlich
+2060,40 - 49,GR,1491,Männlich
+2061,40 - 49,GR,1405,Männlich
+2062,40 - 49,GR,1609,Männlich
+2063,40 - 49,GR,1228,Männlich
+2064,40 - 49,GR,1240,Männlich
+2065,40 - 49,GR,1275,Männlich
+2066,40 - 49,GR,1311,Männlich
+2067,40 - 49,GR,1313,Männlich
+2068,40 - 49,GR,1281,Männlich
+2069,40 - 49,GR,1499,Männlich
+2070,50 - 59,GR,1605,Männlich
+2071,50 - 59,GR,1607,Männlich
+2072,50 - 59,GR,1598,Männlich
+2073,50 - 59,GR,1506,Männlich
+2074,50 - 59,GR,1504,Männlich
+2075,50 - 59,GR,1653,Männlich
+2076,50 - 59,GR,1592,Männlich
+2077,50 - 59,GR,1591,Männlich
+2078,50 - 59,GR,1690,Männlich
+2079,50 - 59,GR,1594,Männlich
+2080,60 - 69,GR,1206,Männlich
+2081,60 - 69,GR,1465,Männlich
+2082,60 - 69,GR,1287,Männlich
+2083,60 - 69,GR,1243,Männlich
+2084,60 - 69,GR,1201,Männlich
+2085,60 - 69,GR,1396,Männlich
+2086,60 - 69,GR,1313,Männlich
+2087,60 - 69,GR,1215,Männlich
+2088,60 - 69,GR,1260,Männlich
+2089,60 - 69,GR,1143,Männlich
+2090,70 - 79,GR,835,Männlich
+2091,70 - 79,GR,1004,Männlich
+2092,70 - 79,GR,1166,Männlich
+2093,70 - 79,GR,620,Männlich
+2094,70 - 79,GR,1036,Männlich
+2095,70 - 79,GR,694,Männlich
+2096,70 - 79,GR,954,Männlich
+2097,70 - 79,GR,1043,Männlich
+2098,70 - 79,GR,767,Männlich
+2099,70 - 79,GR,940,Männlich
+2100,80+,GR,15,Männlich
+2101,80+,GR,3,Männlich
+2102,80+,GR,48,Männlich
+2103,80+,GR,114,Männlich
+2104,80+,GR,383,Männlich
+2105,80+,GR,108,Männlich
+2106,80+,GR,544,Männlich
+2107,80+,GR,10,Männlich
+2108,80+,GR,428,Männlich
+2109,80+,GR,41,Männlich
+2110,80+,GR,171,Männlich
+2111,80+,GR,605,Männlich
+2112,80+,GR,294,Männlich
+2113,80+,GR,499,Männlich
+2114,80+,GR,9,Männlich
+2115,80+,GR,370,Männlich
+2116,80+,GR,223,Männlich
+2117,80+,GR,59,Männlich
+2118,80+,GR,139,Männlich
+2119,80+,GR,28,Männlich
+2120,80+,GR,288,Männlich
+2121,0 - 9,GR,848,Weiblich
+2122,0 - 9,GR,895,Weiblich
+2123,0 - 9,GR,843,Weiblich
+2124,0 - 9,GR,767,Weiblich
+2125,0 - 9,GR,789,Weiblich
+2126,0 - 9,GR,845,Weiblich
+2127,0 - 9,GR,880,Weiblich
+2128,0 - 9,GR,862,Weiblich
+2129,0 - 9,GR,869,Weiblich
+2130,0 - 9,GR,841,Weiblich
+2131,10 - 19,GR,855,Weiblich
+2132,10 - 19,GR,966,Weiblich
+2133,10 - 19,GR,826,Weiblich
+2134,10 - 19,GR,965,Weiblich
+2135,10 - 19,GR,810,Weiblich
+2136,10 - 19,GR,915,Weiblich
+2137,10 - 19,GR,838,Weiblich
+2138,10 - 19,GR,857,Weiblich
+2139,10 - 19,GR,880,Weiblich
+2140,10 - 19,GR,881,Weiblich
+2141,20 - 29,GR,1227,Weiblich
+2142,20 - 29,GR,1216,Weiblich
+2143,20 - 29,GR,1236,Weiblich
+2144,20 - 29,GR,994,Weiblich
+2145,20 - 29,GR,1015,Weiblich
+2146,20 - 29,GR,1242,Weiblich
+2147,20 - 29,GR,1031,Weiblich
+2148,20 - 29,GR,1069,Weiblich
+2149,20 - 29,GR,1120,Weiblich
+2150,20 - 29,GR,1010,Weiblich
+2151,30 - 39,GR,1228,Weiblich
+2152,30 - 39,GR,1286,Weiblich
+2153,30 - 39,GR,1269,Weiblich
+2154,30 - 39,GR,1215,Weiblich
+2155,30 - 39,GR,1283,Weiblich
+2156,30 - 39,GR,1225,Weiblich
+2157,30 - 39,GR,1220,Weiblich
+2158,30 - 39,GR,1213,Weiblich
+2159,30 - 39,GR,1264,Weiblich
+2160,30 - 39,GR,1208,Weiblich
+2161,40 - 49,GR,1200,Weiblich
+2162,40 - 49,GR,1209,Weiblich
+2163,40 - 49,GR,1315,Weiblich
+2164,40 - 49,GR,1438,Weiblich
+2165,40 - 49,GR,1291,Weiblich
+2166,40 - 49,GR,1245,Weiblich
+2167,40 - 49,GR,1298,Weiblich
+2168,40 - 49,GR,1517,Weiblich
+2169,40 - 49,GR,1485,Weiblich
+2170,40 - 49,GR,1170,Weiblich
+2171,50 - 59,GR,1479,Weiblich
+2172,50 - 59,GR,1503,Weiblich
+2173,50 - 59,GR,1510,Weiblich
+2174,50 - 59,GR,1536,Weiblich
+2175,50 - 59,GR,1562,Weiblich
+2176,50 - 59,GR,1636,Weiblich
+2177,50 - 59,GR,1613,Weiblich
+2178,50 - 59,GR,1553,Weiblich
+2179,50 - 59,GR,1566,Weiblich
+2180,50 - 59,GR,1569,Weiblich
+2181,60 - 69,GR,1365,Weiblich
+2182,60 - 69,GR,1211,Weiblich
+2183,60 - 69,GR,1325,Weiblich
+2184,60 - 69,GR,1195,Weiblich
+2185,60 - 69,GR,1189,Weiblich
+2186,60 - 69,GR,1183,Weiblich
+2187,60 - 69,GR,1252,Weiblich
+2188,60 - 69,GR,1334,Weiblich
+2189,60 - 69,GR,1416,Weiblich
+2190,60 - 69,GR,1207,Weiblich
+2191,70 - 79,GR,814,Weiblich
+2192,70 - 79,GR,1063,Weiblich
+2193,70 - 79,GR,1196,Weiblich
+2194,70 - 79,GR,918,Weiblich
+2195,70 - 79,GR,1138,Weiblich
+2196,70 - 79,GR,1027,Weiblich
+2197,70 - 79,GR,751,Weiblich
+2198,70 - 79,GR,1133,Weiblich
+2199,70 - 79,GR,1013,Weiblich
+2200,70 - 79,GR,849,Weiblich
+2201,80+,GR,22,Weiblich
+2202,80+,GR,42,Weiblich
+2203,80+,GR,745,Weiblich
+2204,80+,GR,221,Weiblich
+2205,80+,GR,434,Weiblich
+2206,80+,GR,220,Weiblich
+2207,80+,GR,82,Weiblich
+2208,80+,GR,366,Weiblich
+2209,80+,GR,625,Weiblich
+2210,80+,GR,529,Weiblich
+2211,80+,GR,58,Weiblich
+2212,80+,GR,20,Weiblich
+2213,80+,GR,441,Weiblich
+2214,80+,GR,309,Weiblich
+2215,80+,GR,164,Weiblich
+2216,80+,GR,653,Weiblich
+2217,80+,GR,558,Weiblich
+2218,80+,GR,140,Weiblich
+2219,80+,GR,29,Weiblich
+2220,80+,GR,573,Weiblich
+2221,80+,GR,697,Weiblich
+2222,0 - 9,JU,406,Männlich
+2223,0 - 9,JU,406,Männlich
+2224,0 - 9,JU,357,Männlich
+2225,0 - 9,JU,373,Männlich
+2226,0 - 9,JU,400,Männlich
+2227,0 - 9,JU,385,Männlich
+2228,0 - 9,JU,373,Männlich
+2229,0 - 9,JU,364,Männlich
+2230,0 - 9,JU,367,Männlich
+2231,0 - 9,JU,364,Männlich
+2232,10 - 19,JU,420,Männlich
+2233,10 - 19,JU,411,Männlich
+2234,10 - 19,JU,454,Männlich
+2235,10 - 19,JU,354,Männlich
+2236,10 - 19,JU,454,Männlich
+2237,10 - 19,JU,396,Männlich
+2238,10 - 19,JU,404,Männlich
+2239,10 - 19,JU,436,Männlich
+2240,10 - 19,JU,463,Männlich
+2241,10 - 19,JU,377,Männlich
+2242,20 - 29,JU,484,Männlich
+2243,20 - 29,JU,475,Männlich
+2244,20 - 29,JU,476,Männlich
+2245,20 - 29,JU,507,Männlich
+2246,20 - 29,JU,498,Männlich
+2247,20 - 29,JU,471,Männlich
+2248,20 - 29,JU,464,Männlich
+2249,20 - 29,JU,492,Männlich
+2250,20 - 29,JU,508,Männlich
+2251,20 - 29,JU,463,Männlich
+2252,30 - 39,JU,458,Männlich
+2253,30 - 39,JU,414,Männlich
+2254,30 - 39,JU,431,Männlich
+2255,30 - 39,JU,446,Männlich
+2256,30 - 39,JU,438,Männlich
+2257,30 - 39,JU,418,Männlich
+2258,30 - 39,JU,429,Männlich
+2259,30 - 39,JU,427,Männlich
+2260,30 - 39,JU,441,Männlich
+2261,30 - 39,JU,395,Männlich
+2262,40 - 49,JU,415,Männlich
+2263,40 - 49,JU,419,Männlich
+2264,40 - 49,JU,491,Männlich
+2265,40 - 49,JU,420,Männlich
+2266,40 - 49,JU,468,Männlich
+2267,40 - 49,JU,428,Männlich
+2268,40 - 49,JU,487,Männlich
+2269,40 - 49,JU,457,Männlich
+2270,40 - 49,JU,525,Männlich
+2271,40 - 49,JU,478,Männlich
+2272,50 - 59,JU,533,Männlich
+2273,50 - 59,JU,564,Männlich
+2274,50 - 59,JU,529,Männlich
+2275,50 - 59,JU,576,Männlich
+2276,50 - 59,JU,539,Männlich
+2277,50 - 59,JU,536,Männlich
+2278,50 - 59,JU,514,Männlich
+2279,50 - 59,JU,531,Männlich
+2280,50 - 59,JU,554,Männlich
+2281,50 - 59,JU,573,Männlich
+2282,60 - 69,JU,477,Männlich
+2283,60 - 69,JU,466,Männlich
+2284,60 - 69,JU,413,Männlich
+2285,60 - 69,JU,421,Männlich
+2286,60 - 69,JU,453,Männlich
+2287,60 - 69,JU,407,Männlich
+2288,60 - 69,JU,460,Männlich
+2289,60 - 69,JU,465,Männlich
+2290,60 - 69,JU,429,Männlich
+2291,60 - 69,JU,454,Männlich
+2292,70 - 79,JU,217,Männlich
+2293,70 - 79,JU,370,Männlich
+2294,70 - 79,JU,308,Männlich
+2295,70 - 79,JU,417,Männlich
+2296,70 - 79,JU,378,Männlich
+2297,70 - 79,JU,251,Männlich
+2298,70 - 79,JU,306,Männlich
+2299,70 - 79,JU,213,Männlich
+2300,70 - 79,JU,280,Männlich
+2301,70 - 79,JU,380,Männlich
+2302,80+,JU,186,Männlich
+2303,80+,JU,3,Männlich
+2304,80+,JU,9,Männlich
+2305,80+,JU,6,Männlich
+2306,80+,JU,21,Männlich
+2307,80+,JU,83,Männlich
+2308,80+,JU,134,Männlich
+2309,80+,JU,49,Männlich
+2310,80+,JU,153,Männlich
+2311,80+,JU,3,Männlich
+2312,80+,JU,198,Männlich
+2313,80+,JU,117,Männlich
+2314,80+,JU,24,Männlich
+2315,80+,JU,97,Männlich
+2316,80+,JU,66,Männlich
+2317,80+,JU,152,Männlich
+2318,80+,JU,194,Männlich
+2319,80+,JU,8,Männlich
+2320,80+,JU,18,Männlich
+2321,80+,JU,36,Männlich
+2322,80+,JU,59,Männlich
+2323,0 - 9,JU,344,Weiblich
+2324,0 - 9,JU,353,Weiblich
+2325,0 - 9,JU,347,Weiblich
+2326,0 - 9,JU,351,Weiblich
+2327,0 - 9,JU,330,Weiblich
+2328,0 - 9,JU,338,Weiblich
+2329,0 - 9,JU,397,Weiblich
+2330,0 - 9,JU,355,Weiblich
+2331,0 - 9,JU,363,Weiblich
+2332,0 - 9,JU,318,Weiblich
+2333,10 - 19,JU,391,Weiblich
+2334,10 - 19,JU,428,Weiblich
+2335,10 - 19,JU,354,Weiblich
+2336,10 - 19,JU,357,Weiblich
+2337,10 - 19,JU,372,Weiblich
+2338,10 - 19,JU,443,Weiblich
+2339,10 - 19,JU,426,Weiblich
+2340,10 - 19,JU,404,Weiblich
+2341,10 - 19,JU,358,Weiblich
+2342,10 - 19,JU,402,Weiblich
+2343,20 - 29,JU,397,Weiblich
+2344,20 - 29,JU,402,Weiblich
+2345,20 - 29,JU,400,Weiblich
+2346,20 - 29,JU,452,Weiblich
+2347,20 - 29,JU,435,Weiblich
+2348,20 - 29,JU,456,Weiblich
+2349,20 - 29,JU,434,Weiblich
+2350,20 - 29,JU,460,Weiblich
+2351,20 - 29,JU,462,Weiblich
+2352,20 - 29,JU,450,Weiblich
+2353,30 - 39,JU,405,Weiblich
+2354,30 - 39,JU,425,Weiblich
+2355,30 - 39,JU,442,Weiblich
+2356,30 - 39,JU,433,Weiblich
+2357,30 - 39,JU,424,Weiblich
+2358,30 - 39,JU,412,Weiblich
+2359,30 - 39,JU,401,Weiblich
+2360,30 - 39,JU,422,Weiblich
+2361,30 - 39,JU,421,Weiblich
+2362,30 - 39,JU,437,Weiblich
+2363,40 - 49,JU,425,Weiblich
+2364,40 - 49,JU,530,Weiblich
+2365,40 - 49,JU,519,Weiblich
+2366,40 - 49,JU,419,Weiblich
+2367,40 - 49,JU,488,Weiblich
+2368,40 - 49,JU,530,Weiblich
+2369,40 - 49,JU,547,Weiblich
+2370,40 - 49,JU,422,Weiblich
+2371,40 - 49,JU,439,Weiblich
+2372,40 - 49,JU,485,Weiblich
+2373,50 - 59,JU,517,Weiblich
+2374,50 - 59,JU,518,Weiblich
+2375,50 - 59,JU,535,Weiblich
+2376,50 - 59,JU,542,Weiblich
+2377,50 - 59,JU,529,Weiblich
+2378,50 - 59,JU,573,Weiblich
+2379,50 - 59,JU,573,Weiblich
+2380,50 - 59,JU,513,Weiblich
+2381,50 - 59,JU,577,Weiblich
+2382,50 - 59,JU,565,Weiblich
+2383,60 - 69,JU,496,Weiblich
+2384,60 - 69,JU,389,Weiblich
+2385,60 - 69,JU,432,Weiblich
+2386,60 - 69,JU,463,Weiblich
+2387,60 - 69,JU,424,Weiblich
+2388,60 - 69,JU,497,Weiblich
+2389,60 - 69,JU,440,Weiblich
+2390,60 - 69,JU,473,Weiblich
+2391,60 - 69,JU,456,Weiblich
+2392,60 - 69,JU,471,Weiblich
+2393,70 - 79,JU,348,Weiblich
+2394,70 - 79,JU,303,Weiblich
+2395,70 - 79,JU,360,Weiblich
+2396,70 - 79,JU,420,Weiblich
+2397,70 - 79,JU,279,Weiblich
+2398,70 - 79,JU,363,Weiblich
+2399,70 - 79,JU,403,Weiblich
+2400,70 - 79,JU,322,Weiblich
+2401,70 - 79,JU,429,Weiblich
+2402,70 - 79,JU,303,Weiblich
+2403,80+,JU,10,Weiblich
+2404,80+,JU,244,Weiblich
+2405,80+,JU,255,Weiblich
+2406,80+,JU,71,Weiblich
+2407,80+,JU,128,Weiblich
+2408,80+,JU,180,Weiblich
+2409,80+,JU,23,Weiblich
+2410,80+,JU,264,Weiblich
+2411,80+,JU,49,Weiblich
+2412,80+,JU,37,Weiblich
+2413,80+,JU,135,Weiblich
+2414,80+,JU,232,Weiblich
+2415,80+,JU,200,Weiblich
+2416,80+,JU,198,Weiblich
+2417,80+,JU,51,Weiblich
+2418,80+,JU,102,Weiblich
+2419,80+,JU,136,Weiblich
+2420,80+,JU,14,Weiblich
+2421,80+,JU,23,Weiblich
+2422,80+,JU,223,Weiblich
+2423,80+,JU,209,Weiblich
+2424,0 - 9,LU,2180,Männlich
+2425,0 - 9,LU,2195,Männlich
+2426,0 - 9,LU,2220,Männlich
+2427,0 - 9,LU,2278,Männlich
+2428,0 - 9,LU,2292,Männlich
+2429,0 - 9,LU,2232,Männlich
+2430,0 - 9,LU,2154,Männlich
+2431,0 - 9,LU,2106,Männlich
+2432,0 - 9,LU,2206,Männlich
+2433,0 - 9,LU,2153,Männlich
+2434,10 - 19,LU,2050,Männlich
+2435,10 - 19,LU,2438,Männlich
+2436,10 - 19,LU,2076,Männlich
+2437,10 - 19,LU,1995,Männlich
+2438,10 - 19,LU,2049,Männlich
+2439,10 - 19,LU,1942,Männlich
+2440,10 - 19,LU,2042,Männlich
+2441,10 - 19,LU,2232,Männlich
+2442,10 - 19,LU,2211,Männlich
+2443,10 - 19,LU,2028,Männlich
+2444,20 - 29,LU,2905,Männlich
+2445,20 - 29,LU,2890,Männlich
+2446,20 - 29,LU,2346,Männlich
+2447,20 - 29,LU,2640,Männlich
+2448,20 - 29,LU,2677,Männlich
+2449,20 - 29,LU,2816,Männlich
+2450,20 - 29,LU,3021,Männlich
+2451,20 - 29,LU,2923,Männlich
+2452,20 - 29,LU,2688,Männlich
+2453,20 - 29,LU,2654,Männlich
+2454,30 - 39,LU,2719,Männlich
+2455,30 - 39,LU,3053,Männlich
+2456,30 - 39,LU,3048,Männlich
+2457,30 - 39,LU,2826,Männlich
+2458,30 - 39,LU,2932,Männlich
+2459,30 - 39,LU,2875,Männlich
+2460,30 - 39,LU,2982,Männlich
+2461,30 - 39,LU,3022,Männlich
+2462,30 - 39,LU,2973,Männlich
+2463,30 - 39,LU,3048,Männlich
+2464,40 - 49,LU,2943,Männlich
+2465,40 - 49,LU,2829,Männlich
+2466,40 - 49,LU,3102,Männlich
+2467,40 - 49,LU,2866,Männlich
+2468,40 - 49,LU,2732,Männlich
+2469,40 - 49,LU,2644,Männlich
+2470,40 - 49,LU,2764,Männlich
+2471,40 - 49,LU,2618,Männlich
+2472,40 - 49,LU,2666,Männlich
+2473,40 - 49,LU,2989,Männlich
+2474,50 - 59,LU,3208,Männlich
+2475,50 - 59,LU,2706,Männlich
+2476,50 - 59,LU,3176,Männlich
+2477,50 - 59,LU,2906,Männlich
+2478,50 - 59,LU,3467,Männlich
+2479,50 - 59,LU,3218,Männlich
+2480,50 - 59,LU,2936,Männlich
+2481,50 - 59,LU,3098,Männlich
+2482,50 - 59,LU,3257,Männlich
+2483,50 - 59,LU,3048,Männlich
+2484,60 - 69,LU,1920,Männlich
+2485,60 - 69,LU,1908,Männlich
+2486,60 - 69,LU,2609,Männlich
+2487,60 - 69,LU,2519,Männlich
+2488,60 - 69,LU,2697,Männlich
+2489,60 - 69,LU,2352,Männlich
+2490,60 - 69,LU,2039,Männlich
+2491,60 - 69,LU,1949,Männlich
+2492,60 - 69,LU,2034,Männlich
+2493,60 - 69,LU,2118,Männlich
+2494,70 - 79,LU,1688,Männlich
+2495,70 - 79,LU,1095,Männlich
+2496,70 - 79,LU,1466,Männlich
+2497,70 - 79,LU,1690,Männlich
+2498,70 - 79,LU,1250,Männlich
+2499,70 - 79,LU,1162,Männlich
+2500,70 - 79,LU,1595,Männlich
+2501,70 - 79,LU,1635,Männlich
+2502,70 - 79,LU,1277,Männlich
+2503,70 - 79,LU,1892,Männlich
+2504,80+,LU,119,Männlich
+2505,80+,LU,46,Männlich
+2506,80+,LU,27,Männlich
+2507,80+,LU,80,Männlich
+2508,80+,LU,10,Männlich
+2509,80+,LU,68,Männlich
+2510,80+,LU,148,Männlich
+2511,80+,LU,19,Männlich
+2512,80+,LU,968,Männlich
+2513,80+,LU,327,Männlich
+2514,80+,LU,12,Männlich
+2515,80+,LU,893,Männlich
+2516,80+,LU,645,Männlich
+2517,80+,LU,604,Männlich
+2518,80+,LU,1025,Männlich
+2519,80+,LU,818,Männlich
+2520,80+,LU,423,Männlich
+2521,80+,LU,208,Männlich
+2522,80+,LU,710,Männlich
+2523,80+,LU,519,Männlich
+2524,80+,LU,246,Männlich
+2525,0 - 9,LU,2023,Weiblich
+2526,0 - 9,LU,1963,Weiblich
+2527,0 - 9,LU,1999,Weiblich
+2528,0 - 9,LU,2083,Weiblich
+2529,0 - 9,LU,2090,Weiblich
+2530,0 - 9,LU,2036,Weiblich
+2531,0 - 9,LU,2101,Weiblich
+2532,0 - 9,LU,2111,Weiblich
+2533,0 - 9,LU,2063,Weiblich
+2534,0 - 9,LU,2114,Weiblich
+2535,10 - 19,LU,1917,Weiblich
+2536,10 - 19,LU,1841,Weiblich
+2537,10 - 19,LU,2111,Weiblich
+2538,10 - 19,LU,2274,Weiblich
+2539,10 - 19,LU,1899,Weiblich
+2540,10 - 19,LU,1989,Weiblich
+2541,10 - 19,LU,1849,Weiblich
+2542,10 - 19,LU,1827,Weiblich
+2543,10 - 19,LU,1985,Weiblich
+2544,10 - 19,LU,2009,Weiblich
+2545,20 - 29,LU,2936,Weiblich
+2546,20 - 29,LU,2520,Weiblich
+2547,20 - 29,LU,2838,Weiblich
+2548,20 - 29,LU,2551,Weiblich
+2549,20 - 29,LU,2906,Weiblich
+2550,20 - 29,LU,2594,Weiblich
+2551,20 - 29,LU,2713,Weiblich
+2552,20 - 29,LU,2384,Weiblich
+2553,20 - 29,LU,2326,Weiblich
+2554,20 - 29,LU,3058,Weiblich
+2555,30 - 39,LU,2927,Weiblich
+2556,30 - 39,LU,2838,Weiblich
+2557,30 - 39,LU,2760,Weiblich
+2558,30 - 39,LU,2762,Weiblich
+2559,30 - 39,LU,2823,Weiblich
+2560,30 - 39,LU,2944,Weiblich
+2561,30 - 39,LU,2847,Weiblich
+2562,30 - 39,LU,2948,Weiblich
+2563,30 - 39,LU,2830,Weiblich
+2564,30 - 39,LU,2950,Weiblich
+2565,40 - 49,LU,3144,Weiblich
+2566,40 - 49,LU,2866,Weiblich
+2567,40 - 49,LU,2570,Weiblich
+2568,40 - 49,LU,2686,Weiblich
+2569,40 - 49,LU,2835,Weiblich
+2570,40 - 49,LU,2672,Weiblich
+2571,40 - 49,LU,2646,Weiblich
+2572,40 - 49,LU,2613,Weiblich
+2573,40 - 49,LU,2876,Weiblich
+2574,40 - 49,LU,2781,Weiblich
+2575,50 - 59,LU,2921,Weiblich
+2576,50 - 59,LU,2826,Weiblich
+2577,50 - 59,LU,2758,Weiblich
+2578,50 - 59,LU,3008,Weiblich
+2579,50 - 59,LU,3178,Weiblich
+2580,50 - 59,LU,3194,Weiblich
+2581,50 - 59,LU,3120,Weiblich
+2582,50 - 59,LU,3216,Weiblich
+2583,50 - 59,LU,3135,Weiblich
+2584,50 - 59,LU,3209,Weiblich
+2585,60 - 69,LU,2013,Weiblich
+2586,60 - 69,LU,1966,Weiblich
+2587,60 - 69,LU,1959,Weiblich
+2588,60 - 69,LU,2131,Weiblich
+2589,60 - 69,LU,2227,Weiblich
+2590,60 - 69,LU,2078,Weiblich
+2591,60 - 69,LU,2295,Weiblich
+2592,60 - 69,LU,2289,Weiblich
+2593,60 - 69,LU,2530,Weiblich
+2594,60 - 69,LU,2570,Weiblich
+2595,70 - 79,LU,1521,Weiblich
+2596,70 - 79,LU,1871,Weiblich
+2597,70 - 79,LU,1694,Weiblich
+2598,70 - 79,LU,1484,Weiblich
+2599,70 - 79,LU,1371,Weiblich
+2600,70 - 79,LU,1628,Weiblich
+2601,70 - 79,LU,1764,Weiblich
+2602,70 - 79,LU,1943,Weiblich
+2603,70 - 79,LU,1627,Weiblich
+2604,70 - 79,LU,1810,Weiblich
+2605,80+,LU,344,Weiblich
+2606,80+,LU,167,Weiblich
+2607,80+,LU,49,Weiblich
+2608,80+,LU,457,Weiblich
+2609,80+,LU,760,Weiblich
+2610,80+,LU,284,Weiblich
+2611,80+,LU,583,Weiblich
+2612,80+,LU,838,Weiblich
+2613,80+,LU,1191,Weiblich
+2614,80+,LU,918,Weiblich
+2615,80+,LU,629,Weiblich
+2616,80+,LU,106,Weiblich
+2617,80+,LU,46,Weiblich
+2618,80+,LU,1256,Weiblich
+2619,80+,LU,1043,Weiblich
+2620,80+,LU,1239,Weiblich
+2621,80+,LU,1094,Weiblich
+2622,80+,LU,237,Weiblich
+2623,80+,LU,53,Weiblich
+2624,80+,LU,1303,Weiblich
+2625,80+,LU,96,Weiblich
+2626,0 - 9,NE,846,Männlich
+2627,0 - 9,NE,920,Männlich
+2628,0 - 9,NE,925,Männlich
+2629,0 - 9,NE,930,Männlich
+2630,0 - 9,NE,906,Männlich
+2631,0 - 9,NE,884,Männlich
+2632,0 - 9,NE,927,Männlich
+2633,0 - 9,NE,955,Männlich
+2634,0 - 9,NE,960,Männlich
+2635,0 - 9,NE,956,Männlich
+2636,10 - 19,NE,910,Männlich
+2637,10 - 19,NE,972,Männlich
+2638,10 - 19,NE,977,Männlich
+2639,10 - 19,NE,989,Männlich
+2640,10 - 19,NE,988,Männlich
+2641,10 - 19,NE,1066,Männlich
+2642,10 - 19,NE,1016,Männlich
+2643,10 - 19,NE,1041,Männlich
+2644,10 - 19,NE,1063,Männlich
+2645,10 - 19,NE,971,Männlich
+2646,20 - 29,NE,1137,Männlich
+2647,20 - 29,NE,1084,Männlich
+2648,20 - 29,NE,1156,Männlich
+2649,20 - 29,NE,1137,Männlich
+2650,20 - 29,NE,1195,Männlich
+2651,20 - 29,NE,1221,Männlich
+2652,20 - 29,NE,1169,Männlich
+2653,20 - 29,NE,1084,Männlich
+2654,20 - 29,NE,1181,Männlich
+2655,20 - 29,NE,1197,Männlich
+2656,30 - 39,NE,1104,Männlich
+2657,30 - 39,NE,1141,Männlich
+2658,30 - 39,NE,1143,Männlich
+2659,30 - 39,NE,1098,Männlich
+2660,30 - 39,NE,1196,Männlich
+2661,30 - 39,NE,1152,Männlich
+2662,30 - 39,NE,1171,Männlich
+2663,30 - 39,NE,1129,Männlich
+2664,30 - 39,NE,1186,Männlich
+2665,30 - 39,NE,1138,Männlich
+2666,40 - 49,NE,1171,Männlich
+2667,40 - 49,NE,1301,Männlich
+2668,40 - 49,NE,1235,Männlich
+2669,40 - 49,NE,1156,Männlich
+2670,40 - 49,NE,1207,Männlich
+2671,40 - 49,NE,1349,Männlich
+2672,40 - 49,NE,1302,Männlich
+2673,40 - 49,NE,1235,Männlich
+2674,40 - 49,NE,1327,Männlich
+2675,40 - 49,NE,1114,Männlich
+2676,50 - 59,NE,1321,Männlich
+2677,50 - 59,NE,1391,Männlich
+2678,50 - 59,NE,1317,Männlich
+2679,50 - 59,NE,1192,Männlich
+2680,50 - 59,NE,1256,Männlich
+2681,50 - 59,NE,1364,Männlich
+2682,50 - 59,NE,1152,Männlich
+2683,50 - 59,NE,1211,Männlich
+2684,50 - 59,NE,1157,Männlich
+2685,50 - 59,NE,1375,Männlich
+2686,60 - 69,NE,947,Männlich
+2687,60 - 69,NE,1066,Männlich
+2688,60 - 69,NE,878,Männlich
+2689,60 - 69,NE,1005,Männlich
+2690,60 - 69,NE,820,Männlich
+2691,60 - 69,NE,863,Männlich
+2692,60 - 69,NE,803,Männlich
+2693,60 - 69,NE,764,Männlich
+2694,60 - 69,NE,1011,Männlich
+2695,60 - 69,NE,790,Männlich
+2696,70 - 79,NE,843,Männlich
+2697,70 - 79,NE,664,Männlich
+2698,70 - 79,NE,590,Männlich
+2699,70 - 79,NE,455,Männlich
+2700,70 - 79,NE,722,Männlich
+2701,70 - 79,NE,828,Männlich
+2702,70 - 79,NE,761,Männlich
+2703,70 - 79,NE,769,Männlich
+2704,70 - 79,NE,464,Männlich
+2705,70 - 79,NE,658,Männlich
+2706,80+,NE,5,Männlich
+2707,80+,NE,55,Männlich
+2708,80+,NE,385,Männlich
+2709,80+,NE,31,Männlich
+2710,80+,NE,79,Männlich
+2711,80+,NE,6,Männlich
+2712,80+,NE,422,Männlich
+2713,80+,NE,355,Männlich
+2714,80+,NE,423,Männlich
+2715,80+,NE,7,Männlich
+2716,80+,NE,43,Männlich
+2717,80+,NE,241,Männlich
+2718,80+,NE,319,Männlich
+2719,80+,NE,150,Männlich
+2720,80+,NE,19,Männlich
+2721,80+,NE,46,Männlich
+2722,80+,NE,97,Männlich
+2723,80+,NE,293,Männlich
+2724,80+,NE,166,Männlich
+2725,80+,NE,189,Männlich
+2726,80+,NE,235,Männlich
+2727,0 - 9,NE,875,Weiblich
+2728,0 - 9,NE,934,Weiblich
+2729,0 - 9,NE,837,Weiblich
+2730,0 - 9,NE,898,Weiblich
+2731,0 - 9,NE,903,Weiblich
+2732,0 - 9,NE,827,Weiblich
+2733,0 - 9,NE,892,Weiblich
+2734,0 - 9,NE,892,Weiblich
+2735,0 - 9,NE,783,Weiblich
+2736,0 - 9,NE,867,Weiblich
+2737,10 - 19,NE,896,Weiblich
+2738,10 - 19,NE,884,Weiblich
+2739,10 - 19,NE,935,Weiblich
+2740,10 - 19,NE,927,Weiblich
+2741,10 - 19,NE,1049,Weiblich
+2742,10 - 19,NE,940,Weiblich
+2743,10 - 19,NE,991,Weiblich
+2744,10 - 19,NE,959,Weiblich
+2745,10 - 19,NE,966,Weiblich
+2746,10 - 19,NE,904,Weiblich
+2747,20 - 29,NE,1075,Weiblich
+2748,20 - 29,NE,1147,Weiblich
+2749,20 - 29,NE,1083,Weiblich
+2750,20 - 29,NE,986,Weiblich
+2751,20 - 29,NE,1082,Weiblich
+2752,20 - 29,NE,1121,Weiblich
+2753,20 - 29,NE,1030,Weiblich
+2754,20 - 29,NE,1179,Weiblich
+2755,20 - 29,NE,1032,Weiblich
+2756,20 - 29,NE,1048,Weiblich
+2757,30 - 39,NE,1117,Weiblich
+2758,30 - 39,NE,1115,Weiblich
+2759,30 - 39,NE,1221,Weiblich
+2760,30 - 39,NE,1141,Weiblich
+2761,30 - 39,NE,1153,Weiblich
+2762,30 - 39,NE,1151,Weiblich
+2763,30 - 39,NE,1173,Weiblich
+2764,30 - 39,NE,1155,Weiblich
+2765,30 - 39,NE,1145,Weiblich
+2766,30 - 39,NE,1122,Weiblich
+2767,40 - 49,NE,1261,Weiblich
+2768,40 - 49,NE,1264,Weiblich
+2769,40 - 49,NE,1323,Weiblich
+2770,40 - 49,NE,1306,Weiblich
+2771,40 - 49,NE,1196,Weiblich
+2772,40 - 49,NE,1393,Weiblich
+2773,40 - 49,NE,1263,Weiblich
+2774,40 - 49,NE,1165,Weiblich
+2775,40 - 49,NE,1328,Weiblich
+2776,40 - 49,NE,1232,Weiblich
+2777,50 - 59,NE,1390,Weiblich
+2778,50 - 59,NE,1214,Weiblich
+2779,50 - 59,NE,1154,Weiblich
+2780,50 - 59,NE,1332,Weiblich
+2781,50 - 59,NE,1337,Weiblich
+2782,50 - 59,NE,1342,Weiblich
+2783,50 - 59,NE,1134,Weiblich
+2784,50 - 59,NE,1279,Weiblich
+2785,50 - 59,NE,1346,Weiblich
+2786,50 - 59,NE,1149,Weiblich
+2787,60 - 69,NE,1069,Weiblich
+2788,60 - 69,NE,938,Weiblich
+2789,60 - 69,NE,1048,Weiblich
+2790,60 - 69,NE,872,Weiblich
+2791,60 - 69,NE,920,Weiblich
+2792,60 - 69,NE,867,Weiblich
+2793,60 - 69,NE,949,Weiblich
+2794,60 - 69,NE,948,Weiblich
+2795,60 - 69,NE,978,Weiblich
+2796,60 - 69,NE,1025,Weiblich
+2797,70 - 79,NE,833,Weiblich
+2798,70 - 79,NE,696,Weiblich
+2799,70 - 79,NE,965,Weiblich
+2800,70 - 79,NE,919,Weiblich
+2801,70 - 79,NE,628,Weiblich
+2802,70 - 79,NE,835,Weiblich
+2803,70 - 79,NE,1001,Weiblich
+2804,70 - 79,NE,809,Weiblich
+2805,70 - 79,NE,838,Weiblich
+2806,70 - 79,NE,690,Weiblich
+2807,80+,NE,585,Weiblich
+2808,80+,NE,35,Weiblich
+2809,80+,NE,40,Weiblich
+2810,80+,NE,563,Weiblich
+2811,80+,NE,182,Weiblich
+2812,80+,NE,113,Weiblich
+2813,80+,NE,229,Weiblich
+2814,80+,NE,120,Weiblich
+2815,80+,NE,356,Weiblich
+2816,80+,NE,27,Weiblich
+2817,80+,NE,567,Weiblich
+2818,80+,NE,500,Weiblich
+2819,80+,NE,233,Weiblich
+2820,80+,NE,399,Weiblich
+2821,80+,NE,518,Weiblich
+2822,80+,NE,314,Weiblich
+2823,80+,NE,452,Weiblich
+2824,80+,NE,65,Weiblich
+2825,80+,NE,161,Weiblich
+2826,80+,NE,574,Weiblich
+2827,80+,NE,525,Weiblich
+2828,0 - 9,NW,185,Männlich
+2829,0 - 9,NW,214,Männlich
+2830,0 - 9,NW,226,Männlich
+2831,0 - 9,NW,174,Männlich
+2832,0 - 9,NW,234,Männlich
+2833,0 - 9,NW,174,Männlich
+2834,0 - 9,NW,198,Männlich
+2835,0 - 9,NW,202,Männlich
+2836,0 - 9,NW,197,Männlich
+2837,0 - 9,NW,209,Männlich
+2838,10 - 19,NW,194,Männlich
+2839,10 - 19,NW,211,Männlich
+2840,10 - 19,NW,210,Männlich
+2841,10 - 19,NW,240,Männlich
+2842,10 - 19,NW,193,Männlich
+2843,10 - 19,NW,205,Männlich
+2844,10 - 19,NW,223,Männlich
+2845,10 - 19,NW,225,Männlich
+2846,10 - 19,NW,188,Männlich
+2847,10 - 19,NW,206,Männlich
+2848,20 - 29,NW,230,Männlich
+2849,20 - 29,NW,264,Männlich
+2850,20 - 29,NW,248,Männlich
+2851,20 - 29,NW,283,Männlich
+2852,20 - 29,NW,249,Männlich
+2853,20 - 29,NW,277,Männlich
+2854,20 - 29,NW,279,Männlich
+2855,20 - 29,NW,264,Männlich
+2856,20 - 29,NW,279,Männlich
+2857,20 - 29,NW,300,Männlich
+2858,30 - 39,NW,323,Männlich
+2859,30 - 39,NW,329,Männlich
+2860,30 - 39,NW,266,Männlich
+2861,30 - 39,NW,289,Männlich
+2862,30 - 39,NW,291,Männlich
+2863,30 - 39,NW,298,Männlich
+2864,30 - 39,NW,245,Männlich
+2865,30 - 39,NW,285,Männlich
+2866,30 - 39,NW,276,Männlich
+2867,30 - 39,NW,291,Männlich
+2868,40 - 49,NW,287,Männlich
+2869,40 - 49,NW,255,Männlich
+2870,40 - 49,NW,255,Männlich
+2871,40 - 49,NW,319,Männlich
+2872,40 - 49,NW,310,Männlich
+2873,40 - 49,NW,282,Männlich
+2874,40 - 49,NW,270,Männlich
+2875,40 - 49,NW,259,Männlich
+2876,40 - 49,NW,316,Männlich
+2877,40 - 49,NW,289,Männlich
+2878,50 - 59,NW,397,Männlich
+2879,50 - 59,NW,407,Männlich
+2880,50 - 59,NW,429,Männlich
+2881,50 - 59,NW,339,Männlich
+2882,50 - 59,NW,365,Männlich
+2883,50 - 59,NW,390,Männlich
+2884,50 - 59,NW,383,Männlich
+2885,50 - 59,NW,362,Männlich
+2886,50 - 59,NW,358,Männlich
+2887,50 - 59,NW,385,Männlich
+2888,60 - 69,NW,335,Männlich
+2889,60 - 69,NW,283,Männlich
+2890,60 - 69,NW,230,Männlich
+2891,60 - 69,NW,322,Männlich
+2892,60 - 69,NW,256,Männlich
+2893,60 - 69,NW,258,Männlich
+2894,60 - 69,NW,297,Männlich
+2895,60 - 69,NW,275,Männlich
+2896,60 - 69,NW,331,Männlich
+2897,60 - 69,NW,289,Männlich
+2898,70 - 79,NW,235,Männlich
+2899,70 - 79,NW,261,Männlich
+2900,70 - 79,NW,209,Männlich
+2901,70 - 79,NW,130,Männlich
+2902,70 - 79,NW,184,Männlich
+2903,70 - 79,NW,232,Männlich
+2904,70 - 79,NW,156,Männlich
+2905,70 - 79,NW,219,Männlich
+2906,70 - 79,NW,269,Männlich
+2907,70 - 79,NW,149,Männlich
+2908,80+,NW,59,Männlich
+2909,80+,NW,72,Männlich
+2910,80+,NW,102,Männlich
+2911,80+,NW,14,Männlich
+2912,80+,NW,29,Männlich
+2913,80+,NW,8,Männlich
+2914,80+,NW,1,Männlich
+2915,80+,NW,2,Männlich
+2916,80+,NW,103,Männlich
+2917,80+,NW,1,Männlich
+2918,80+,NW,6,Männlich
+2919,80+,NW,9,Männlich
+2920,80+,NW,24,Männlich
+2921,80+,NW,80,Männlich
+2922,80+,NW,47,Männlich
+2923,80+,NW,35,Männlich
+2924,80+,NW,52,Männlich
+2925,80+,NW,24,Männlich
+2926,80+,NW,100,Männlich
+2927,80+,NW,2,Männlich
+2928,80+,NW,101,Männlich
+2929,0 - 9,NW,178,Weiblich
+2930,0 - 9,NW,182,Weiblich
+2931,0 - 9,NW,205,Weiblich
+2932,0 - 9,NW,191,Weiblich
+2933,0 - 9,NW,186,Weiblich
+2934,0 - 9,NW,224,Weiblich
+2935,0 - 9,NW,187,Weiblich
+2936,0 - 9,NW,209,Weiblich
+2937,0 - 9,NW,190,Weiblich
+2938,0 - 9,NW,162,Weiblich
+2939,10 - 19,NW,180,Weiblich
+2940,10 - 19,NW,170,Weiblich
+2941,10 - 19,NW,207,Weiblich
+2942,10 - 19,NW,177,Weiblich
+2943,10 - 19,NW,179,Weiblich
+2944,10 - 19,NW,181,Weiblich
+2945,10 - 19,NW,189,Weiblich
+2946,10 - 19,NW,191,Weiblich
+2947,10 - 19,NW,199,Weiblich
+2948,10 - 19,NW,189,Weiblich
+2949,20 - 29,NW,248,Weiblich
+2950,20 - 29,NW,252,Weiblich
+2951,20 - 29,NW,248,Weiblich
+2952,20 - 29,NW,224,Weiblich
+2953,20 - 29,NW,200,Weiblich
+2954,20 - 29,NW,270,Weiblich
+2955,20 - 29,NW,231,Weiblich
+2956,20 - 29,NW,199,Weiblich
+2957,20 - 29,NW,258,Weiblich
+2958,20 - 29,NW,245,Weiblich
+2959,30 - 39,NW,251,Weiblich
+2960,30 - 39,NW,258,Weiblich
+2961,30 - 39,NW,282,Weiblich
+2962,30 - 39,NW,266,Weiblich
+2963,30 - 39,NW,257,Weiblich
+2964,30 - 39,NW,258,Weiblich
+2965,30 - 39,NW,248,Weiblich
+2966,30 - 39,NW,271,Weiblich
+2967,30 - 39,NW,265,Weiblich
+2968,30 - 39,NW,264,Weiblich
+2969,40 - 49,NW,345,Weiblich
+2970,40 - 49,NW,337,Weiblich
+2971,40 - 49,NW,300,Weiblich
+2972,40 - 49,NW,270,Weiblich
+2973,40 - 49,NW,258,Weiblich
+2974,40 - 49,NW,259,Weiblich
+2975,40 - 49,NW,256,Weiblich
+2976,40 - 49,NW,301,Weiblich
+2977,40 - 49,NW,269,Weiblich
+2978,40 - 49,NW,305,Weiblich
+2979,50 - 59,NW,379,Weiblich
+2980,50 - 59,NW,328,Weiblich
+2981,50 - 59,NW,331,Weiblich
+2982,50 - 59,NW,364,Weiblich
+2983,50 - 59,NW,354,Weiblich
+2984,50 - 59,NW,362,Weiblich
+2985,50 - 59,NW,348,Weiblich
+2986,50 - 59,NW,373,Weiblich
+2987,50 - 59,NW,317,Weiblich
+2988,50 - 59,NW,351,Weiblich
+2989,60 - 69,NW,227,Weiblich
+2990,60 - 69,NW,245,Weiblich
+2991,60 - 69,NW,260,Weiblich
+2992,60 - 69,NW,300,Weiblich
+2993,60 - 69,NW,282,Weiblich
+2994,60 - 69,NW,277,Weiblich
+2995,60 - 69,NW,267,Weiblich
+2996,60 - 69,NW,248,Weiblich
+2997,60 - 69,NW,243,Weiblich
+2998,60 - 69,NW,269,Weiblich
+2999,70 - 79,NW,256,Weiblich
+3000,70 - 79,NW,141,Weiblich
+3001,70 - 79,NW,247,Weiblich
+3002,70 - 79,NW,179,Weiblich
+3003,70 - 79,NW,157,Weiblich
+3004,70 - 79,NW,248,Weiblich
+3005,70 - 79,NW,217,Weiblich
+3006,70 - 79,NW,195,Weiblich
+3007,70 - 79,NW,215,Weiblich
+3008,70 - 79,NW,194,Weiblich
+3009,80+,NW,52,Weiblich
+3010,80+,NW,120,Weiblich
+3011,80+,NW,19,Weiblich
+3012,80+,NW,1,Weiblich
+3013,80+,NW,61,Weiblich
+3014,80+,NW,88,Weiblich
+3015,80+,NW,12,Weiblich
+3016,80+,NW,22,Weiblich
+3017,80+,NW,51,Weiblich
+3018,80+,NW,74,Weiblich
+3019,80+,NW,9,Weiblich
+3020,80+,NW,5,Weiblich
+3021,80+,NW,133,Weiblich
+3022,80+,NW,19,Weiblich
+3023,80+,NW,21,Weiblich
+3024,80+,NW,143,Weiblich
+3025,80+,NW,105,Weiblich
+3026,80+,NW,80,Weiblich
+3027,80+,NW,129,Weiblich
+3028,80+,NW,69,Weiblich
+3029,80+,NW,43,Weiblich
+3030,0 - 9,OW,215,Männlich
+3031,0 - 9,OW,195,Männlich
+3032,0 - 9,OW,194,Männlich
+3033,0 - 9,OW,206,Männlich
+3034,0 - 9,OW,197,Männlich
+3035,0 - 9,OW,180,Männlich
+3036,0 - 9,OW,209,Männlich
+3037,0 - 9,OW,185,Männlich
+3038,0 - 9,OW,198,Männlich
+3039,0 - 9,OW,186,Männlich
+3040,10 - 19,OW,180,Männlich
+3041,10 - 19,OW,189,Männlich
+3042,10 - 19,OW,209,Männlich
+3043,10 - 19,OW,186,Männlich
+3044,10 - 19,OW,167,Männlich
+3045,10 - 19,OW,182,Männlich
+3046,10 - 19,OW,193,Männlich
+3047,10 - 19,OW,211,Männlich
+3048,10 - 19,OW,178,Männlich
+3049,10 - 19,OW,220,Männlich
+3050,20 - 29,OW,239,Männlich
+3051,20 - 29,OW,231,Männlich
+3052,20 - 29,OW,236,Männlich
+3053,20 - 29,OW,213,Männlich
+3054,20 - 29,OW,253,Männlich
+3055,20 - 29,OW,219,Männlich
+3056,20 - 29,OW,223,Männlich
+3057,20 - 29,OW,230,Männlich
+3058,20 - 29,OW,253,Männlich
+3059,20 - 29,OW,243,Männlich
+3060,30 - 39,OW,242,Männlich
+3061,30 - 39,OW,232,Männlich
+3062,30 - 39,OW,251,Männlich
+3063,30 - 39,OW,205,Männlich
+3064,30 - 39,OW,266,Männlich
+3065,30 - 39,OW,253,Männlich
+3066,30 - 39,OW,242,Männlich
+3067,30 - 39,OW,273,Männlich
+3068,30 - 39,OW,238,Männlich
+3069,30 - 39,OW,262,Männlich
+3070,40 - 49,OW,249,Männlich
+3071,40 - 49,OW,268,Männlich
+3072,40 - 49,OW,231,Männlich
+3073,40 - 49,OW,283,Männlich
+3074,40 - 49,OW,279,Männlich
+3075,40 - 49,OW,278,Männlich
+3076,40 - 49,OW,243,Männlich
+3077,40 - 49,OW,287,Männlich
+3078,40 - 49,OW,240,Männlich
+3079,40 - 49,OW,237,Männlich
+3080,50 - 59,OW,315,Männlich
+3081,50 - 59,OW,307,Männlich
+3082,50 - 59,OW,365,Männlich
+3083,50 - 59,OW,293,Männlich
+3084,50 - 59,OW,322,Männlich
+3085,50 - 59,OW,353,Männlich
+3086,50 - 59,OW,317,Männlich
+3087,50 - 59,OW,311,Männlich
+3088,50 - 59,OW,294,Männlich
+3089,50 - 59,OW,302,Männlich
+3090,60 - 69,OW,258,Männlich
+3091,60 - 69,OW,201,Männlich
+3092,60 - 69,OW,250,Männlich
+3093,60 - 69,OW,254,Männlich
+3094,60 - 69,OW,189,Männlich
+3095,60 - 69,OW,224,Männlich
+3096,60 - 69,OW,224,Männlich
+3097,60 - 69,OW,270,Männlich
+3098,60 - 69,OW,217,Männlich
+3099,60 - 69,OW,253,Männlich
+3100,70 - 79,OW,150,Männlich
+3101,70 - 79,OW,192,Männlich
+3102,70 - 79,OW,187,Männlich
+3103,70 - 79,OW,158,Männlich
+3104,70 - 79,OW,121,Männlich
+3105,70 - 79,OW,119,Männlich
+3106,70 - 79,OW,128,Männlich
+3107,70 - 79,OW,211,Männlich
+3108,70 - 79,OW,188,Männlich
+3109,70 - 79,OW,129,Männlich
+3110,80+,OW,3,Männlich
+3111,80+,OW,15,Männlich
+3112,80+,OW,0,Männlich
+3113,80+,OW,2,Männlich
+3114,80+,OW,105,Männlich
+3115,80+,OW,2,Männlich
+3116,80+,OW,79,Männlich
+3117,80+,OW,2,Männlich
+3118,80+,OW,64,Männlich
+3119,80+,OW,9,Männlich
+3120,80+,OW,16,Männlich
+3121,80+,OW,67,Männlich
+3122,80+,OW,48,Männlich
+3123,80+,OW,21,Männlich
+3124,80+,OW,35,Männlich
+3125,80+,OW,7,Männlich
+3126,80+,OW,31,Männlich
+3127,80+,OW,18,Männlich
+3128,80+,OW,61,Männlich
+3129,80+,OW,96,Männlich
+3130,80+,OW,82,Männlich
+3131,0 - 9,OW,182,Weiblich
+3132,0 - 9,OW,182,Weiblich
+3133,0 - 9,OW,186,Weiblich
+3134,0 - 9,OW,210,Weiblich
+3135,0 - 9,OW,183,Weiblich
+3136,0 - 9,OW,196,Weiblich
+3137,0 - 9,OW,191,Weiblich
+3138,0 - 9,OW,194,Weiblich
+3139,0 - 9,OW,170,Weiblich
+3140,0 - 9,OW,183,Weiblich
+3141,10 - 19,OW,186,Weiblich
+3142,10 - 19,OW,194,Weiblich
+3143,10 - 19,OW,194,Weiblich
+3144,10 - 19,OW,189,Weiblich
+3145,10 - 19,OW,185,Weiblich
+3146,10 - 19,OW,198,Weiblich
+3147,10 - 19,OW,176,Weiblich
+3148,10 - 19,OW,171,Weiblich
+3149,10 - 19,OW,194,Weiblich
+3150,10 - 19,OW,195,Weiblich
+3151,20 - 29,OW,217,Weiblich
+3152,20 - 29,OW,247,Weiblich
+3153,20 - 29,OW,222,Weiblich
+3154,20 - 29,OW,188,Weiblich
+3155,20 - 29,OW,230,Weiblich
+3156,20 - 29,OW,198,Weiblich
+3157,20 - 29,OW,190,Weiblich
+3158,20 - 29,OW,225,Weiblich
+3159,20 - 29,OW,235,Weiblich
+3160,20 - 29,OW,224,Weiblich
+3161,30 - 39,OW,214,Weiblich
+3162,30 - 39,OW,271,Weiblich
+3163,30 - 39,OW,252,Weiblich
+3164,30 - 39,OW,216,Weiblich
+3165,30 - 39,OW,267,Weiblich
+3166,30 - 39,OW,248,Weiblich
+3167,30 - 39,OW,236,Weiblich
+3168,30 - 39,OW,236,Weiblich
+3169,30 - 39,OW,235,Weiblich
+3170,30 - 39,OW,223,Weiblich
+3171,40 - 49,OW,285,Weiblich
+3172,40 - 49,OW,268,Weiblich
+3173,40 - 49,OW,227,Weiblich
+3174,40 - 49,OW,237,Weiblich
+3175,40 - 49,OW,217,Weiblich
+3176,40 - 49,OW,230,Weiblich
+3177,40 - 49,OW,243,Weiblich
+3178,40 - 49,OW,244,Weiblich
+3179,40 - 49,OW,302,Weiblich
+3180,40 - 49,OW,270,Weiblich
+3181,50 - 59,OW,263,Weiblich
+3182,50 - 59,OW,319,Weiblich
+3183,50 - 59,OW,277,Weiblich
+3184,50 - 59,OW,308,Weiblich
+3185,50 - 59,OW,239,Weiblich
+3186,50 - 59,OW,302,Weiblich
+3187,50 - 59,OW,296,Weiblich
+3188,50 - 59,OW,290,Weiblich
+3189,50 - 59,OW,310,Weiblich
+3190,50 - 59,OW,309,Weiblich
+3191,60 - 69,OW,198,Weiblich
+3192,60 - 69,OW,268,Weiblich
+3193,60 - 69,OW,220,Weiblich
+3194,60 - 69,OW,274,Weiblich
+3195,60 - 69,OW,230,Weiblich
+3196,60 - 69,OW,227,Weiblich
+3197,60 - 69,OW,201,Weiblich
+3198,60 - 69,OW,228,Weiblich
+3199,60 - 69,OW,215,Weiblich
+3200,60 - 69,OW,227,Weiblich
+3201,70 - 79,OW,104,Weiblich
+3202,70 - 79,OW,138,Weiblich
+3203,70 - 79,OW,135,Weiblich
+3204,70 - 79,OW,176,Weiblich
+3205,70 - 79,OW,185,Weiblich
+3206,70 - 79,OW,142,Weiblich
+3207,70 - 79,OW,132,Weiblich
+3208,70 - 79,OW,189,Weiblich
+3209,70 - 79,OW,176,Weiblich
+3210,70 - 79,OW,154,Weiblich
+3211,80+,OW,26,Weiblich
+3212,80+,OW,43,Weiblich
+3213,80+,OW,74,Weiblich
+3214,80+,OW,30,Weiblich
+3215,80+,OW,21,Weiblich
+3216,80+,OW,94,Weiblich
+3217,80+,OW,114,Weiblich
+3218,80+,OW,4,Weiblich
+3219,80+,OW,57,Weiblich
+3220,80+,OW,3,Weiblich
+3221,80+,OW,12,Weiblich
+3222,80+,OW,65,Weiblich
+3223,80+,OW,24,Weiblich
+3224,80+,OW,83,Weiblich
+3225,80+,OW,123,Weiblich
+3226,80+,OW,8,Weiblich
+3227,80+,OW,1,Weiblich
+3228,80+,OW,106,Weiblich
+3229,80+,OW,66,Weiblich
+3230,80+,OW,89,Weiblich
+3231,80+,OW,66,Weiblich
+3232,0 - 9,SG,2658,Männlich
+3233,0 - 9,SG,2721,Männlich
+3234,0 - 9,SG,2826,Männlich
+3235,0 - 9,SG,2606,Männlich
+3236,0 - 9,SG,2716,Männlich
+3237,0 - 9,SG,2693,Männlich
+3238,0 - 9,SG,2705,Männlich
+3239,0 - 9,SG,2789,Männlich
+3240,0 - 9,SG,2681,Männlich
+3241,0 - 9,SG,2643,Männlich
+3242,10 - 19,SG,2563,Männlich
+3243,10 - 19,SG,2922,Männlich
+3244,10 - 19,SG,2956,Männlich
+3245,10 - 19,SG,2571,Männlich
+3246,10 - 19,SG,2514,Männlich
+3247,10 - 19,SG,2617,Männlich
+3248,10 - 19,SG,2563,Männlich
+3249,10 - 19,SG,2541,Männlich
+3250,10 - 19,SG,2614,Männlich
+3251,10 - 19,SG,2559,Männlich
+3252,20 - 29,SG,3109,Männlich
+3253,20 - 29,SG,3266,Männlich
+3254,20 - 29,SG,3756,Männlich
+3255,20 - 29,SG,3702,Männlich
+3256,20 - 29,SG,3510,Männlich
+3257,20 - 29,SG,3823,Männlich
+3258,20 - 29,SG,3757,Männlich
+3259,20 - 29,SG,3222,Männlich
+3260,20 - 29,SG,3562,Männlich
+3261,20 - 29,SG,3201,Männlich
+3262,30 - 39,SG,3670,Männlich
+3263,30 - 39,SG,3577,Männlich
+3264,30 - 39,SG,3427,Männlich
+3265,30 - 39,SG,3646,Männlich
+3266,30 - 39,SG,3783,Männlich
+3267,30 - 39,SG,3767,Männlich
+3268,30 - 39,SG,3651,Männlich
+3269,30 - 39,SG,3564,Männlich
+3270,30 - 39,SG,3660,Männlich
+3271,30 - 39,SG,3643,Männlich
+3272,40 - 49,SG,3331,Männlich
+3273,40 - 49,SG,3344,Männlich
+3274,40 - 49,SG,3868,Männlich
+3275,40 - 49,SG,3139,Männlich
+3276,40 - 49,SG,3619,Männlich
+3277,40 - 49,SG,3586,Männlich
+3278,40 - 49,SG,3314,Männlich
+3279,40 - 49,SG,3227,Männlich
+3280,40 - 49,SG,3351,Männlich
+3281,40 - 49,SG,3139,Männlich
+3282,50 - 59,SG,3499,Männlich
+3283,50 - 59,SG,3801,Männlich
+3284,50 - 59,SG,3915,Männlich
+3285,50 - 59,SG,3946,Männlich
+3286,50 - 59,SG,3373,Männlich
+3287,50 - 59,SG,3856,Männlich
+3288,50 - 59,SG,3972,Männlich
+3289,50 - 59,SG,4094,Männlich
+3290,50 - 59,SG,3695,Männlich
+3291,50 - 59,SG,4106,Männlich
+3292,60 - 69,SG,2500,Männlich
+3293,60 - 69,SG,3301,Männlich
+3294,60 - 69,SG,2647,Männlich
+3295,60 - 69,SG,2851,Männlich
+3296,60 - 69,SG,2408,Männlich
+3297,60 - 69,SG,2530,Männlich
+3298,60 - 69,SG,3128,Männlich
+3299,60 - 69,SG,2624,Männlich
+3300,60 - 69,SG,3170,Männlich
+3301,60 - 69,SG,2822,Männlich
+3302,70 - 79,SG,2010,Männlich
+3303,70 - 79,SG,1495,Männlich
+3304,70 - 79,SG,2399,Männlich
+3305,70 - 79,SG,1380,Männlich
+3306,70 - 79,SG,2421,Männlich
+3307,70 - 79,SG,2239,Männlich
+3308,70 - 79,SG,1878,Männlich
+3309,70 - 79,SG,2260,Männlich
+3310,70 - 79,SG,1680,Männlich
+3311,70 - 79,SG,2087,Männlich
+3312,80+,SG,33,Männlich
+3313,80+,SG,96,Männlich
+3314,80+,SG,246,Männlich
+3315,80+,SG,18,Männlich
+3316,80+,SG,1300,Männlich
+3317,80+,SG,1040,Männlich
+3318,80+,SG,85,Männlich
+3319,80+,SG,191,Männlich
+3320,80+,SG,691,Männlich
+3321,80+,SG,376,Männlich
+3322,80+,SG,9,Männlich
+3323,80+,SG,44,Männlich
+3324,80+,SG,299,Männlich
+3325,80+,SG,161,Männlich
+3326,80+,SG,587,Männlich
+3327,80+,SG,469,Männlich
+3328,80+,SG,737,Männlich
+3329,80+,SG,1056,Männlich
+3330,80+,SG,20,Männlich
+3331,80+,SG,928,Männlich
+3332,80+,SG,1159,Männlich
+3333,0 - 9,SG,2572,Weiblich
+3334,0 - 9,SG,2578,Weiblich
+3335,0 - 9,SG,2510,Weiblich
+3336,0 - 9,SG,2612,Weiblich
+3337,0 - 9,SG,2509,Weiblich
+3338,0 - 9,SG,2568,Weiblich
+3339,0 - 9,SG,2576,Weiblich
+3340,0 - 9,SG,2506,Weiblich
+3341,0 - 9,SG,2586,Weiblich
+3342,0 - 9,SG,2479,Weiblich
+3343,10 - 19,SG,2362,Weiblich
+3344,10 - 19,SG,2396,Weiblich
+3345,10 - 19,SG,2478,Weiblich
+3346,10 - 19,SG,2765,Weiblich
+3347,10 - 19,SG,2517,Weiblich
+3348,10 - 19,SG,2400,Weiblich
+3349,10 - 19,SG,2486,Weiblich
+3350,10 - 19,SG,2759,Weiblich
+3351,10 - 19,SG,2574,Weiblich
+3352,10 - 19,SG,2557,Weiblich
+3353,20 - 29,SG,2994,Weiblich
+3354,20 - 29,SG,3540,Weiblich
+3355,20 - 29,SG,3285,Weiblich
+3356,20 - 29,SG,3448,Weiblich
+3357,20 - 29,SG,3488,Weiblich
+3358,20 - 29,SG,2900,Weiblich
+3359,20 - 29,SG,3093,Weiblich
+3360,20 - 29,SG,3459,Weiblich
+3361,20 - 29,SG,2852,Weiblich
+3362,20 - 29,SG,3175,Weiblich
+3363,30 - 39,SG,3441,Weiblich
+3364,30 - 39,SG,3343,Weiblich
+3365,30 - 39,SG,3500,Weiblich
+3366,30 - 39,SG,3499,Weiblich
+3367,30 - 39,SG,3214,Weiblich
+3368,30 - 39,SG,3474,Weiblich
+3369,30 - 39,SG,3336,Weiblich
+3370,30 - 39,SG,3337,Weiblich
+3371,30 - 39,SG,3372,Weiblich
+3372,30 - 39,SG,3358,Weiblich
+3373,40 - 49,SG,3173,Weiblich
+3374,40 - 49,SG,3222,Weiblich
+3375,40 - 49,SG,3569,Weiblich
+3376,40 - 49,SG,3090,Weiblich
+3377,40 - 49,SG,3147,Weiblich
+3378,40 - 49,SG,3782,Weiblich
+3379,40 - 49,SG,3147,Weiblich
+3380,40 - 49,SG,3506,Weiblich
+3381,40 - 49,SG,3177,Weiblich
+3382,40 - 49,SG,3139,Weiblich
+3383,50 - 59,SG,3482,Weiblich
+3384,50 - 59,SG,3866,Weiblich
+3385,50 - 59,SG,3303,Weiblich
+3386,50 - 59,SG,3748,Weiblich
+3387,50 - 59,SG,3895,Weiblich
+3388,50 - 59,SG,3964,Weiblich
+3389,50 - 59,SG,3821,Weiblich
+3390,50 - 59,SG,3706,Weiblich
+3391,50 - 59,SG,3946,Weiblich
+3392,50 - 59,SG,3789,Weiblich
+3393,60 - 69,SG,2713,Weiblich
+3394,60 - 69,SG,2591,Weiblich
+3395,60 - 69,SG,2536,Weiblich
+3396,60 - 69,SG,2625,Weiblich
+3397,60 - 69,SG,3254,Weiblich
+3398,60 - 69,SG,2954,Weiblich
+3399,60 - 69,SG,3195,Weiblich
+3400,60 - 69,SG,3162,Weiblich
+3401,60 - 69,SG,2526,Weiblich
+3402,60 - 69,SG,2911,Weiblich
+3403,70 - 79,SG,2209,Weiblich
+3404,70 - 79,SG,1843,Weiblich
+3405,70 - 79,SG,2109,Weiblich
+3406,70 - 79,SG,2564,Weiblich
+3407,70 - 79,SG,2357,Weiblich
+3408,70 - 79,SG,1904,Weiblich
+3409,70 - 79,SG,2303,Weiblich
+3410,70 - 79,SG,2445,Weiblich
+3411,70 - 79,SG,2439,Weiblich
+3412,70 - 79,SG,1771,Weiblich
+3413,80+,SG,44,Weiblich
+3414,80+,SG,888,Weiblich
+3415,80+,SG,1456,Weiblich
+3416,80+,SG,1154,Weiblich
+3417,80+,SG,576,Weiblich
+3418,80+,SG,761,Weiblich
+3419,80+,SG,493,Weiblich
+3420,80+,SG,1413,Weiblich
+3421,80+,SG,1109,Weiblich
+3422,80+,SG,122,Weiblich
+3423,80+,SG,299,Weiblich
+3424,80+,SG,67,Weiblich
+3425,80+,SG,1723,Weiblich
+3426,80+,SG,434,Weiblich
+3427,80+,SG,672,Weiblich
+3428,80+,SG,180,Weiblich
+3429,80+,SG,75,Weiblich
+3430,80+,SG,221,Weiblich
+3431,80+,SG,1022,Weiblich
+3432,80+,SG,1552,Weiblich
+3433,80+,SG,1351,Weiblich
+3434,0 - 9,SH,407,Männlich
+3435,0 - 9,SH,376,Männlich
+3436,0 - 9,SH,403,Männlich
+3437,0 - 9,SH,428,Männlich
+3438,0 - 9,SH,395,Männlich
+3439,0 - 9,SH,377,Männlich
+3440,0 - 9,SH,395,Männlich
+3441,0 - 9,SH,395,Männlich
+3442,0 - 9,SH,383,Männlich
+3443,0 - 9,SH,436,Männlich
+3444,10 - 19,SH,462,Männlich
+3445,10 - 19,SH,375,Männlich
+3446,10 - 19,SH,451,Männlich
+3447,10 - 19,SH,365,Männlich
+3448,10 - 19,SH,383,Männlich
+3449,10 - 19,SH,418,Männlich
+3450,10 - 19,SH,356,Männlich
+3451,10 - 19,SH,395,Männlich
+3452,10 - 19,SH,394,Männlich
+3453,10 - 19,SH,375,Männlich
+3454,20 - 29,SH,463,Männlich
+3455,20 - 29,SH,537,Männlich
+3456,20 - 29,SH,566,Männlich
+3457,20 - 29,SH,485,Männlich
+3458,20 - 29,SH,521,Männlich
+3459,20 - 29,SH,490,Männlich
+3460,20 - 29,SH,489,Männlich
+3461,20 - 29,SH,524,Männlich
+3462,20 - 29,SH,484,Männlich
+3463,20 - 29,SH,496,Männlich
+3464,30 - 39,SH,545,Männlich
+3465,30 - 39,SH,599,Männlich
+3466,30 - 39,SH,492,Männlich
+3467,30 - 39,SH,575,Männlich
+3468,30 - 39,SH,540,Männlich
+3469,30 - 39,SH,531,Männlich
+3470,30 - 39,SH,547,Männlich
+3471,30 - 39,SH,557,Männlich
+3472,30 - 39,SH,535,Männlich
+3473,30 - 39,SH,571,Männlich
+3474,40 - 49,SH,546,Männlich
+3475,40 - 49,SH,532,Männlich
+3476,40 - 49,SH,533,Männlich
+3477,40 - 49,SH,540,Männlich
+3478,40 - 49,SH,534,Männlich
+3479,40 - 49,SH,521,Männlich
+3480,40 - 49,SH,511,Männlich
+3481,40 - 49,SH,611,Männlich
+3482,40 - 49,SH,525,Männlich
+3483,40 - 49,SH,543,Männlich
+3484,50 - 59,SH,598,Männlich
+3485,50 - 59,SH,634,Männlich
+3486,50 - 59,SH,605,Männlich
+3487,50 - 59,SH,665,Männlich
+3488,50 - 59,SH,681,Männlich
+3489,50 - 59,SH,610,Männlich
+3490,50 - 59,SH,603,Männlich
+3491,50 - 59,SH,667,Männlich
+3492,50 - 59,SH,650,Männlich
+3493,50 - 59,SH,620,Männlich
+3494,60 - 69,SH,570,Männlich
+3495,60 - 69,SH,449,Männlich
+3496,60 - 69,SH,558,Männlich
+3497,60 - 69,SH,463,Männlich
+3498,60 - 69,SH,421,Männlich
+3499,60 - 69,SH,470,Männlich
+3500,60 - 69,SH,406,Männlich
+3501,60 - 69,SH,500,Männlich
+3502,60 - 69,SH,445,Männlich
+3503,60 - 69,SH,585,Männlich
+3504,70 - 79,SH,405,Männlich
+3505,70 - 79,SH,319,Männlich
+3506,70 - 79,SH,300,Männlich
+3507,70 - 79,SH,409,Männlich
+3508,70 - 79,SH,256,Männlich
+3509,70 - 79,SH,417,Männlich
+3510,70 - 79,SH,448,Männlich
+3511,70 - 79,SH,371,Männlich
+3512,70 - 79,SH,347,Männlich
+3513,70 - 79,SH,270,Männlich
+3514,80+,SH,7,Männlich
+3515,80+,SH,3,Männlich
+3516,80+,SH,237,Männlich
+3517,80+,SH,10,Männlich
+3518,80+,SH,24,Männlich
+3519,80+,SH,106,Männlich
+3520,80+,SH,50,Männlich
+3521,80+,SH,55,Männlich
+3522,80+,SH,5,Männlich
+3523,80+,SH,218,Männlich
+3524,80+,SH,40,Männlich
+3525,80+,SH,78,Männlich
+3526,80+,SH,117,Männlich
+3527,80+,SH,174,Männlich
+3528,80+,SH,11,Männlich
+3529,80+,SH,77,Männlich
+3530,80+,SH,137,Männlich
+3531,80+,SH,178,Männlich
+3532,80+,SH,11,Männlich
+3533,80+,SH,206,Männlich
+3534,80+,SH,162,Männlich
+3535,0 - 9,SH,339,Weiblich
+3536,0 - 9,SH,366,Weiblich
+3537,0 - 9,SH,382,Weiblich
+3538,0 - 9,SH,374,Weiblich
+3539,0 - 9,SH,390,Weiblich
+3540,0 - 9,SH,409,Weiblich
+3541,0 - 9,SH,365,Weiblich
+3542,0 - 9,SH,387,Weiblich
+3543,0 - 9,SH,397,Weiblich
+3544,0 - 9,SH,373,Weiblich
+3545,10 - 19,SH,342,Weiblich
+3546,10 - 19,SH,360,Weiblich
+3547,10 - 19,SH,384,Weiblich
+3548,10 - 19,SH,401,Weiblich
+3549,10 - 19,SH,341,Weiblich
+3550,10 - 19,SH,379,Weiblich
+3551,10 - 19,SH,364,Weiblich
+3552,10 - 19,SH,377,Weiblich
+3553,10 - 19,SH,369,Weiblich
+3554,10 - 19,SH,343,Weiblich
+3555,20 - 29,SH,497,Weiblich
+3556,20 - 29,SH,435,Weiblich
+3557,20 - 29,SH,481,Weiblich
+3558,20 - 29,SH,500,Weiblich
+3559,20 - 29,SH,450,Weiblich
+3560,20 - 29,SH,382,Weiblich
+3561,20 - 29,SH,443,Weiblich
+3562,20 - 29,SH,427,Weiblich
+3563,20 - 29,SH,552,Weiblich
+3564,20 - 29,SH,515,Weiblich
+3565,30 - 39,SH,550,Weiblich
+3566,30 - 39,SH,516,Weiblich
+3567,30 - 39,SH,501,Weiblich
+3568,30 - 39,SH,529,Weiblich
+3569,30 - 39,SH,503,Weiblich
+3570,30 - 39,SH,528,Weiblich
+3571,30 - 39,SH,518,Weiblich
+3572,30 - 39,SH,551,Weiblich
+3573,30 - 39,SH,567,Weiblich
+3574,30 - 39,SH,549,Weiblich
+3575,40 - 49,SH,554,Weiblich
+3576,40 - 49,SH,510,Weiblich
+3577,40 - 49,SH,544,Weiblich
+3578,40 - 49,SH,487,Weiblich
+3579,40 - 49,SH,509,Weiblich
+3580,40 - 49,SH,462,Weiblich
+3581,40 - 49,SH,527,Weiblich
+3582,40 - 49,SH,484,Weiblich
+3583,40 - 49,SH,642,Weiblich
+3584,40 - 49,SH,503,Weiblich
+3585,50 - 59,SH,623,Weiblich
+3586,50 - 59,SH,596,Weiblich
+3587,50 - 59,SH,668,Weiblich
+3588,50 - 59,SH,666,Weiblich
+3589,50 - 59,SH,595,Weiblich
+3590,50 - 59,SH,702,Weiblich
+3591,50 - 59,SH,692,Weiblich
+3592,50 - 59,SH,622,Weiblich
+3593,50 - 59,SH,592,Weiblich
+3594,50 - 59,SH,625,Weiblich
+3595,60 - 69,SH,477,Weiblich
+3596,60 - 69,SH,494,Weiblich
+3597,60 - 69,SH,544,Weiblich
+3598,60 - 69,SH,560,Weiblich
+3599,60 - 69,SH,524,Weiblich
+3600,60 - 69,SH,508,Weiblich
+3601,60 - 69,SH,525,Weiblich
+3602,60 - 69,SH,531,Weiblich
+3603,60 - 69,SH,462,Weiblich
+3604,60 - 69,SH,475,Weiblich
+3605,70 - 79,SH,441,Weiblich
+3606,70 - 79,SH,368,Weiblich
+3607,70 - 79,SH,343,Weiblich
+3608,70 - 79,SH,392,Weiblich
+3609,70 - 79,SH,406,Weiblich
+3610,70 - 79,SH,430,Weiblich
+3611,70 - 79,SH,417,Weiblich
+3612,70 - 79,SH,429,Weiblich
+3613,70 - 79,SH,483,Weiblich
+3614,70 - 79,SH,408,Weiblich
+3615,80+,SH,30,Weiblich
+3616,80+,SH,140,Weiblich
+3617,80+,SH,31,Weiblich
+3618,80+,SH,79,Weiblich
+3619,80+,SH,317,Weiblich
+3620,80+,SH,78,Weiblich
+3621,80+,SH,128,Weiblich
+3622,80+,SH,221,Weiblich
+3623,80+,SH,232,Weiblich
+3624,80+,SH,20,Weiblich
+3625,80+,SH,50,Weiblich
+3626,80+,SH,14,Weiblich
+3627,80+,SH,259,Weiblich
+3628,80+,SH,320,Weiblich
+3629,80+,SH,198,Weiblich
+3630,80+,SH,250,Weiblich
+3631,80+,SH,301,Weiblich
+3632,80+,SH,100,Weiblich
+3633,80+,SH,179,Weiblich
+3634,80+,SH,12,Weiblich
+3635,80+,SH,216,Weiblich
+3636,0 - 9,SO,1365,Männlich
+3637,0 - 9,SO,1383,Männlich
+3638,0 - 9,SO,1332,Männlich
+3639,0 - 9,SO,1348,Männlich
+3640,0 - 9,SO,1380,Männlich
+3641,0 - 9,SO,1372,Männlich
+3642,0 - 9,SO,1316,Männlich
+3643,0 - 9,SO,1345,Männlich
+3644,0 - 9,SO,1338,Männlich
+3645,0 - 9,SO,1339,Männlich
+3646,10 - 19,SO,1310,Männlich
+3647,10 - 19,SO,1313,Männlich
+3648,10 - 19,SO,1350,Männlich
+3649,10 - 19,SO,1458,Männlich
+3650,10 - 19,SO,1281,Männlich
+3651,10 - 19,SO,1353,Männlich
+3652,10 - 19,SO,1427,Männlich
+3653,10 - 19,SO,1208,Männlich
+3654,10 - 19,SO,1241,Männlich
+3655,10 - 19,SO,1324,Männlich
+3656,20 - 29,SO,1774,Männlich
+3657,20 - 29,SO,1774,Männlich
+3658,20 - 29,SO,1578,Männlich
+3659,20 - 29,SO,1649,Männlich
+3660,20 - 29,SO,1500,Männlich
+3661,20 - 29,SO,1613,Männlich
+3662,20 - 29,SO,1648,Männlich
+3663,20 - 29,SO,1806,Männlich
+3664,20 - 29,SO,1878,Männlich
+3665,20 - 29,SO,1754,Männlich
+3666,30 - 39,SO,1758,Männlich
+3667,30 - 39,SO,1869,Männlich
+3668,30 - 39,SO,1854,Männlich
+3669,30 - 39,SO,1893,Männlich
+3670,30 - 39,SO,1907,Männlich
+3671,30 - 39,SO,1971,Männlich
+3672,30 - 39,SO,1820,Männlich
+3673,30 - 39,SO,1839,Männlich
+3674,30 - 39,SO,1829,Männlich
+3675,30 - 39,SO,1930,Männlich
+3676,40 - 49,SO,1698,Männlich
+3677,40 - 49,SO,2079,Männlich
+3678,40 - 49,SO,1667,Männlich
+3679,40 - 49,SO,1725,Männlich
+3680,40 - 49,SO,1858,Männlich
+3681,40 - 49,SO,1720,Männlich
+3682,40 - 49,SO,1930,Männlich
+3683,40 - 49,SO,1765,Männlich
+3684,40 - 49,SO,1743,Männlich
+3685,40 - 49,SO,2039,Männlich
+3686,50 - 59,SO,2200,Männlich
+3687,50 - 59,SO,2056,Männlich
+3688,50 - 59,SO,2207,Männlich
+3689,50 - 59,SO,2205,Männlich
+3690,50 - 59,SO,2241,Männlich
+3691,50 - 59,SO,2147,Männlich
+3692,50 - 59,SO,2359,Männlich
+3693,50 - 59,SO,2354,Männlich
+3694,50 - 59,SO,2128,Männlich
+3695,50 - 59,SO,2238,Männlich
+3696,60 - 69,SO,1943,Männlich
+3697,60 - 69,SO,1432,Männlich
+3698,60 - 69,SO,1954,Männlich
+3699,60 - 69,SO,1482,Männlich
+3700,60 - 69,SO,2012,Männlich
+3701,60 - 69,SO,1710,Männlich
+3702,60 - 69,SO,1490,Männlich
+3703,60 - 69,SO,1684,Männlich
+3704,60 - 69,SO,1630,Männlich
+3705,60 - 69,SO,1450,Männlich
+3706,70 - 79,SO,1353,Männlich
+3707,70 - 79,SO,1417,Männlich
+3708,70 - 79,SO,1248,Männlich
+3709,70 - 79,SO,1064,Männlich
+3710,70 - 79,SO,776,Männlich
+3711,70 - 79,SO,790,Männlich
+3712,70 - 79,SO,940,Männlich
+3713,70 - 79,SO,1180,Männlich
+3714,70 - 79,SO,1336,Männlich
+3715,70 - 79,SO,1107,Männlich
+3716,80+,SO,44,Männlich
+3717,80+,SO,662,Männlich
+3718,80+,SO,133,Männlich
+3719,80+,SO,261,Männlich
+3720,80+,SO,5,Männlich
+3721,80+,SO,55,Männlich
+3722,80+,SO,694,Männlich
+3723,80+,SO,28,Männlich
+3724,80+,SO,25,Männlich
+3725,80+,SO,6,Männlich
+3726,80+,SO,456,Männlich
+3727,80+,SO,397,Männlich
+3728,80+,SO,612,Männlich
+3729,80+,SO,29,Männlich
+3730,80+,SO,93,Männlich
+3731,80+,SO,195,Männlich
+3732,80+,SO,393,Männlich
+3733,80+,SO,532,Männlich
+3734,80+,SO,144,Männlich
+3735,80+,SO,304,Männlich
+3736,80+,SO,623,Männlich
+3737,0 - 9,SO,1227,Weiblich
+3738,0 - 9,SO,1236,Weiblich
+3739,0 - 9,SO,1292,Weiblich
+3740,0 - 9,SO,1307,Weiblich
+3741,0 - 9,SO,1303,Weiblich
+3742,0 - 9,SO,1365,Weiblich
+3743,0 - 9,SO,1259,Weiblich
+3744,0 - 9,SO,1324,Weiblich
+3745,0 - 9,SO,1235,Weiblich
+3746,0 - 9,SO,1262,Weiblich
+3747,10 - 19,SO,1196,Weiblich
+3748,10 - 19,SO,1264,Weiblich
+3749,10 - 19,SO,1356,Weiblich
+3750,10 - 19,SO,1369,Weiblich
+3751,10 - 19,SO,1211,Weiblich
+3752,10 - 19,SO,1272,Weiblich
+3753,10 - 19,SO,1213,Weiblich
+3754,10 - 19,SO,1252,Weiblich
+3755,10 - 19,SO,1197,Weiblich
+3756,10 - 19,SO,1132,Weiblich
+3757,20 - 29,SO,1518,Weiblich
+3758,20 - 29,SO,1799,Weiblich
+3759,20 - 29,SO,1730,Weiblich
+3760,20 - 29,SO,1386,Weiblich
+3761,20 - 29,SO,1779,Weiblich
+3762,20 - 29,SO,1540,Weiblich
+3763,20 - 29,SO,1612,Weiblich
+3764,20 - 29,SO,1498,Weiblich
+3765,20 - 29,SO,1614,Weiblich
+3766,20 - 29,SO,1440,Weiblich
+3767,30 - 39,SO,1724,Weiblich
+3768,30 - 39,SO,1882,Weiblich
+3769,30 - 39,SO,1668,Weiblich
+3770,30 - 39,SO,1796,Weiblich
+3771,30 - 39,SO,1821,Weiblich
+3772,30 - 39,SO,1812,Weiblich
+3773,30 - 39,SO,1802,Weiblich
+3774,30 - 39,SO,1847,Weiblich
+3775,30 - 39,SO,1795,Weiblich
+3776,30 - 39,SO,1715,Weiblich
+3777,40 - 49,SO,1885,Weiblich
+3778,40 - 49,SO,1713,Weiblich
+3779,40 - 49,SO,2038,Weiblich
+3780,40 - 49,SO,1911,Weiblich
+3781,40 - 49,SO,2044,Weiblich
+3782,40 - 49,SO,1699,Weiblich
+3783,40 - 49,SO,1668,Weiblich
+3784,40 - 49,SO,1685,Weiblich
+3785,40 - 49,SO,1691,Weiblich
+3786,40 - 49,SO,1678,Weiblich
+3787,50 - 59,SO,2063,Weiblich
+3788,50 - 59,SO,2197,Weiblich
+3789,50 - 59,SO,2334,Weiblich
+3790,50 - 59,SO,2129,Weiblich
+3791,50 - 59,SO,2180,Weiblich
+3792,50 - 59,SO,2228,Weiblich
+3793,50 - 59,SO,2114,Weiblich
+3794,50 - 59,SO,2009,Weiblich
+3795,50 - 59,SO,2193,Weiblich
+3796,50 - 59,SO,2229,Weiblich
+3797,60 - 69,SO,1490,Weiblich
+3798,60 - 69,SO,1572,Weiblich
+3799,60 - 69,SO,1917,Weiblich
+3800,60 - 69,SO,1669,Weiblich
+3801,60 - 69,SO,1422,Weiblich
+3802,60 - 69,SO,1508,Weiblich
+3803,60 - 69,SO,1732,Weiblich
+3804,60 - 69,SO,1777,Weiblich
+3805,60 - 69,SO,1837,Weiblich
+3806,60 - 69,SO,1586,Weiblich
+3807,70 - 79,SO,1463,Weiblich
+3808,70 - 79,SO,1124,Weiblich
+3809,70 - 79,SO,1195,Weiblich
+3810,70 - 79,SO,970,Weiblich
+3811,70 - 79,SO,1319,Weiblich
+3812,70 - 79,SO,1363,Weiblich
+3813,70 - 79,SO,1353,Weiblich
+3814,70 - 79,SO,1327,Weiblich
+3815,70 - 79,SO,1158,Weiblich
+3816,70 - 79,SO,962,Weiblich
+3817,80+,SO,15,Weiblich
+3818,80+,SO,84,Weiblich
+3819,80+,SO,272,Weiblich
+3820,80+,SO,338,Weiblich
+3821,80+,SO,40,Weiblich
+3822,80+,SO,111,Weiblich
+3823,80+,SO,60,Weiblich
+3824,80+,SO,43,Weiblich
+3825,80+,SO,911,Weiblich
+3826,80+,SO,850,Weiblich
+3827,80+,SO,178,Weiblich
+3828,80+,SO,385,Weiblich
+3829,80+,SO,626,Weiblich
+3830,80+,SO,244,Weiblich
+3831,80+,SO,514,Weiblich
+3832,80+,SO,700,Weiblich
+3833,80+,SO,832,Weiblich
+3834,80+,SO,767,Weiblich
+3835,80+,SO,557,Weiblich
+3836,80+,SO,905,Weiblich
+3837,80+,SO,805,Weiblich
+3838,0 - 9,SZ,733,Männlich
+3839,0 - 9,SZ,807,Männlich
+3840,0 - 9,SZ,851,Männlich
+3841,0 - 9,SZ,801,Männlich
+3842,0 - 9,SZ,789,Männlich
+3843,0 - 9,SZ,776,Männlich
+3844,0 - 9,SZ,754,Männlich
+3845,0 - 9,SZ,755,Männlich
+3846,0 - 9,SZ,818,Männlich
+3847,0 - 9,SZ,869,Männlich
+3848,10 - 19,SZ,761,Männlich
+3849,10 - 19,SZ,750,Männlich
+3850,10 - 19,SZ,763,Männlich
+3851,10 - 19,SZ,808,Männlich
+3852,10 - 19,SZ,765,Männlich
+3853,10 - 19,SZ,868,Männlich
+3854,10 - 19,SZ,793,Männlich
+3855,10 - 19,SZ,786,Männlich
+3856,10 - 19,SZ,878,Männlich
+3857,10 - 19,SZ,836,Männlich
+3858,20 - 29,SZ,1054,Männlich
+3859,20 - 29,SZ,1013,Männlich
+3860,20 - 29,SZ,952,Männlich
+3861,20 - 29,SZ,967,Männlich
+3862,20 - 29,SZ,884,Männlich
+3863,20 - 29,SZ,909,Männlich
+3864,20 - 29,SZ,1003,Männlich
+3865,20 - 29,SZ,873,Männlich
+3866,20 - 29,SZ,1037,Männlich
+3867,20 - 29,SZ,1016,Männlich
+3868,30 - 39,SZ,1095,Männlich
+3869,30 - 39,SZ,1106,Männlich
+3870,30 - 39,SZ,1116,Männlich
+3871,30 - 39,SZ,1065,Männlich
+3872,30 - 39,SZ,1104,Männlich
+3873,30 - 39,SZ,1121,Männlich
+3874,30 - 39,SZ,1141,Männlich
+3875,30 - 39,SZ,1130,Männlich
+3876,30 - 39,SZ,1142,Männlich
+3877,30 - 39,SZ,1052,Männlich
+3878,40 - 49,SZ,1189,Männlich
+3879,40 - 49,SZ,1298,Männlich
+3880,40 - 49,SZ,1209,Männlich
+3881,40 - 49,SZ,1341,Männlich
+3882,40 - 49,SZ,1036,Männlich
+3883,40 - 49,SZ,1143,Männlich
+3884,40 - 49,SZ,1092,Männlich
+3885,40 - 49,SZ,1117,Männlich
+3886,40 - 49,SZ,1295,Männlich
+3887,40 - 49,SZ,1132,Männlich
+3888,50 - 59,SZ,1481,Männlich
+3889,50 - 59,SZ,1392,Männlich
+3890,50 - 59,SZ,1519,Männlich
+3891,50 - 59,SZ,1325,Männlich
+3892,50 - 59,SZ,1458,Männlich
+3893,50 - 59,SZ,1425,Männlich
+3894,50 - 59,SZ,1544,Männlich
+3895,50 - 59,SZ,1225,Männlich
+3896,50 - 59,SZ,1259,Männlich
+3897,50 - 59,SZ,1398,Männlich
+3898,60 - 69,SZ,806,Männlich
+3899,60 - 69,SZ,825,Männlich
+3900,60 - 69,SZ,853,Männlich
+3901,60 - 69,SZ,914,Männlich
+3902,60 - 69,SZ,1166,Männlich
+3903,60 - 69,SZ,1011,Männlich
+3904,60 - 69,SZ,1045,Männlich
+3905,60 - 69,SZ,1241,Männlich
+3906,60 - 69,SZ,853,Männlich
+3907,60 - 69,SZ,972,Männlich
+3908,70 - 79,SZ,760,Männlich
+3909,70 - 79,SZ,640,Männlich
+3910,70 - 79,SZ,768,Männlich
+3911,70 - 79,SZ,657,Männlich
+3912,70 - 79,SZ,527,Männlich
+3913,70 - 79,SZ,409,Männlich
+3914,70 - 79,SZ,554,Männlich
+3915,70 - 79,SZ,690,Männlich
+3916,70 - 79,SZ,469,Männlich
+3917,70 - 79,SZ,813,Männlich
+3918,80+,SZ,96,Männlich
+3919,80+,SZ,129,Männlich
+3920,80+,SZ,312,Männlich
+3921,80+,SZ,51,Männlich
+3922,80+,SZ,175,Männlich
+3923,80+,SZ,301,Männlich
+3924,80+,SZ,156,Männlich
+3925,80+,SZ,397,Männlich
+3926,80+,SZ,333,Männlich
+3927,80+,SZ,16,Männlich
+3928,80+,SZ,5,Männlich
+3929,80+,SZ,236,Männlich
+3930,80+,SZ,11,Männlich
+3931,80+,SZ,20,Männlich
+3932,80+,SZ,2,Männlich
+3933,80+,SZ,386,Männlich
+3934,80+,SZ,71,Männlich
+3935,80+,SZ,18,Männlich
+3936,80+,SZ,9,Männlich
+3937,80+,SZ,53,Männlich
+3938,80+,SZ,230,Männlich
+3939,0 - 9,SZ,702,Weiblich
+3940,0 - 9,SZ,739,Weiblich
+3941,0 - 9,SZ,801,Weiblich
+3942,0 - 9,SZ,787,Weiblich
+3943,0 - 9,SZ,763,Weiblich
+3944,0 - 9,SZ,779,Weiblich
+3945,0 - 9,SZ,776,Weiblich
+3946,0 - 9,SZ,778,Weiblich
+3947,0 - 9,SZ,730,Weiblich
+3948,0 - 9,SZ,734,Weiblich
+3949,10 - 19,SZ,765,Weiblich
+3950,10 - 19,SZ,727,Weiblich
+3951,10 - 19,SZ,707,Weiblich
+3952,10 - 19,SZ,706,Weiblich
+3953,10 - 19,SZ,715,Weiblich
+3954,10 - 19,SZ,741,Weiblich
+3955,10 - 19,SZ,816,Weiblich
+3956,10 - 19,SZ,782,Weiblich
+3957,10 - 19,SZ,746,Weiblich
+3958,10 - 19,SZ,731,Weiblich
+3959,20 - 29,SZ,859,Weiblich
+3960,20 - 29,SZ,899,Weiblich
+3961,20 - 29,SZ,780,Weiblich
+3962,20 - 29,SZ,927,Weiblich
+3963,20 - 29,SZ,887,Weiblich
+3964,20 - 29,SZ,959,Weiblich
+3965,20 - 29,SZ,902,Weiblich
+3966,20 - 29,SZ,953,Weiblich
+3967,20 - 29,SZ,901,Weiblich
+3968,20 - 29,SZ,1013,Weiblich
+3969,30 - 39,SZ,991,Weiblich
+3970,30 - 39,SZ,987,Weiblich
+3971,30 - 39,SZ,1074,Weiblich
+3972,30 - 39,SZ,1032,Weiblich
+3973,30 - 39,SZ,1051,Weiblich
+3974,30 - 39,SZ,1021,Weiblich
+3975,30 - 39,SZ,1008,Weiblich
+3976,30 - 39,SZ,1127,Weiblich
+3977,30 - 39,SZ,1056,Weiblich
+3978,30 - 39,SZ,979,Weiblich
+3979,40 - 49,SZ,1047,Weiblich
+3980,40 - 49,SZ,994,Weiblich
+3981,40 - 49,SZ,1025,Weiblich
+3982,40 - 49,SZ,1273,Weiblich
+3983,40 - 49,SZ,1148,Weiblich
+3984,40 - 49,SZ,1068,Weiblich
+3985,40 - 49,SZ,1190,Weiblich
+3986,40 - 49,SZ,1106,Weiblich
+3987,40 - 49,SZ,1044,Weiblich
+3988,40 - 49,SZ,1173,Weiblich
+3989,50 - 59,SZ,1205,Weiblich
+3990,50 - 59,SZ,1295,Weiblich
+3991,50 - 59,SZ,1225,Weiblich
+3992,50 - 59,SZ,1351,Weiblich
+3993,50 - 59,SZ,1371,Weiblich
+3994,50 - 59,SZ,1123,Weiblich
+3995,50 - 59,SZ,1312,Weiblich
+3996,50 - 59,SZ,1319,Weiblich
+3997,50 - 59,SZ,1102,Weiblich
+3998,50 - 59,SZ,1257,Weiblich
+3999,60 - 69,SZ,933,Weiblich
+4000,60 - 69,SZ,1038,Weiblich
+4001,60 - 69,SZ,780,Weiblich
+4002,60 - 69,SZ,857,Weiblich
+4003,60 - 69,SZ,794,Weiblich
+4004,60 - 69,SZ,1026,Weiblich
+4005,60 - 69,SZ,966,Weiblich
+4006,60 - 69,SZ,837,Weiblich
+4007,60 - 69,SZ,865,Weiblich
+4008,60 - 69,SZ,806,Weiblich
+4009,70 - 79,SZ,611,Weiblich
+4010,70 - 79,SZ,711,Weiblich
+4011,70 - 79,SZ,580,Weiblich
+4012,70 - 79,SZ,686,Weiblich
+4013,70 - 79,SZ,781,Weiblich
+4014,70 - 79,SZ,732,Weiblich
+4015,70 - 79,SZ,630,Weiblich
+4016,70 - 79,SZ,485,Weiblich
+4017,70 - 79,SZ,563,Weiblich
+4018,70 - 79,SZ,479,Weiblich
+4019,80+,SZ,435,Weiblich
+4020,80+,SZ,29,Weiblich
+4021,80+,SZ,9,Weiblich
+4022,80+,SZ,22,Weiblich
+4023,80+,SZ,54,Weiblich
+4024,80+,SZ,271,Weiblich
+4025,80+,SZ,447,Weiblich
+4026,80+,SZ,17,Weiblich
+4027,80+,SZ,410,Weiblich
+4028,80+,SZ,435,Weiblich
+4029,80+,SZ,412,Weiblich
+4030,80+,SZ,82,Weiblich
+4031,80+,SZ,205,Weiblich
+4032,80+,SZ,75,Weiblich
+4033,80+,SZ,161,Weiblich
+4034,80+,SZ,22,Weiblich
+4035,80+,SZ,330,Weiblich
+4036,80+,SZ,208,Weiblich
+4037,80+,SZ,119,Weiblich
+4038,80+,SZ,233,Weiblich
+4039,80+,SZ,371,Weiblich
+4040,0 - 9,TG,1463,Männlich
+4041,0 - 9,TG,1447,Männlich
+4042,0 - 9,TG,1495,Männlich
+4043,0 - 9,TG,1552,Männlich
+4044,0 - 9,TG,1453,Männlich
+4045,0 - 9,TG,1500,Männlich
+4046,0 - 9,TG,1495,Männlich
+4047,0 - 9,TG,1547,Männlich
+4048,0 - 9,TG,1487,Männlich
+4049,0 - 9,TG,1428,Männlich
+4050,10 - 19,TG,1349,Männlich
+4051,10 - 19,TG,1379,Männlich
+4052,10 - 19,TG,1584,Männlich
+4053,10 - 19,TG,1429,Männlich
+4054,10 - 19,TG,1326,Männlich
+4055,10 - 19,TG,1388,Männlich
+4056,10 - 19,TG,1409,Männlich
+4057,10 - 19,TG,1414,Männlich
+4058,10 - 19,TG,1509,Männlich
+4059,10 - 19,TG,1378,Männlich
+4060,20 - 29,TG,1768,Männlich
+4061,20 - 29,TG,1878,Männlich
+4062,20 - 29,TG,1585,Männlich
+4063,20 - 29,TG,1655,Männlich
+4064,20 - 29,TG,1931,Männlich
+4065,20 - 29,TG,1726,Männlich
+4066,20 - 29,TG,1619,Männlich
+4067,20 - 29,TG,1964,Männlich
+4068,20 - 29,TG,1662,Männlich
+4069,20 - 29,TG,1886,Männlich
+4070,30 - 39,TG,1977,Männlich
+4071,30 - 39,TG,2012,Männlich
+4072,30 - 39,TG,1952,Männlich
+4073,30 - 39,TG,2017,Männlich
+4074,30 - 39,TG,2096,Männlich
+4075,30 - 39,TG,1857,Männlich
+4076,30 - 39,TG,1982,Männlich
+4077,30 - 39,TG,2059,Männlich
+4078,30 - 39,TG,2014,Männlich
+4079,30 - 39,TG,1870,Männlich
+4080,40 - 49,TG,1814,Männlich
+4081,40 - 49,TG,2064,Männlich
+4082,40 - 49,TG,1766,Männlich
+4083,40 - 49,TG,1775,Männlich
+4084,40 - 49,TG,1780,Männlich
+4085,40 - 49,TG,1933,Männlich
+4086,40 - 49,TG,1907,Männlich
+4087,40 - 49,TG,2034,Männlich
+4088,40 - 49,TG,1751,Männlich
+4089,40 - 49,TG,1830,Männlich
+4090,50 - 59,TG,2326,Männlich
+4091,50 - 59,TG,2407,Männlich
+4092,50 - 59,TG,2024,Männlich
+4093,50 - 59,TG,2293,Männlich
+4094,50 - 59,TG,2210,Männlich
+4095,50 - 59,TG,2313,Männlich
+4096,50 - 59,TG,2066,Männlich
+4097,50 - 59,TG,2138,Männlich
+4098,50 - 59,TG,2406,Männlich
+4099,50 - 59,TG,2279,Männlich
+4100,60 - 69,TG,1897,Männlich
+4101,60 - 69,TG,1451,Männlich
+4102,60 - 69,TG,1416,Männlich
+4103,60 - 69,TG,1843,Männlich
+4104,60 - 69,TG,1585,Männlich
+4105,60 - 69,TG,1357,Männlich
+4106,60 - 69,TG,1868,Männlich
+4107,60 - 69,TG,1684,Männlich
+4108,60 - 69,TG,1381,Männlich
+4109,60 - 69,TG,1723,Männlich
+4110,70 - 79,TG,1251,Männlich
+4111,70 - 79,TG,766,Männlich
+4112,70 - 79,TG,1035,Männlich
+4113,70 - 79,TG,1169,Männlich
+4114,70 - 79,TG,941,Männlich
+4115,70 - 79,TG,1291,Männlich
+4116,70 - 79,TG,725,Männlich
+4117,70 - 79,TG,1259,Männlich
+4118,70 - 79,TG,1075,Männlich
+4119,70 - 79,TG,830,Männlich
+4120,80+,TG,5,Männlich
+4121,80+,TG,48,Männlich
+4122,80+,TG,16,Männlich
+4123,80+,TG,673,Männlich
+4124,80+,TG,552,Männlich
+4125,80+,TG,412,Männlich
+4126,80+,TG,124,Männlich
+4127,80+,TG,269,Männlich
+4128,80+,TG,563,Männlich
+4129,80+,TG,3,Männlich
+4130,80+,TG,186,Männlich
+4131,80+,TG,20,Männlich
+4132,80+,TG,73,Männlich
+4133,80+,TG,5,Männlich
+4134,80+,TG,297,Männlich
+4135,80+,TG,449,Männlich
+4136,80+,TG,605,Männlich
+4137,80+,TG,37,Männlich
+4138,80+,TG,334,Männlich
+4139,80+,TG,93,Männlich
+4140,80+,TG,216,Männlich
+4141,0 - 9,TG,1484,Weiblich
+4142,0 - 9,TG,1319,Weiblich
+4143,0 - 9,TG,1384,Weiblich
+4144,0 - 9,TG,1408,Weiblich
+4145,0 - 9,TG,1422,Weiblich
+4146,0 - 9,TG,1434,Weiblich
+4147,0 - 9,TG,1301,Weiblich
+4148,0 - 9,TG,1403,Weiblich
+4149,0 - 9,TG,1317,Weiblich
+4150,0 - 9,TG,1388,Weiblich
+4151,10 - 19,TG,1285,Weiblich
+4152,10 - 19,TG,1366,Weiblich
+4153,10 - 19,TG,1284,Weiblich
+4154,10 - 19,TG,1283,Weiblich
+4155,10 - 19,TG,1311,Weiblich
+4156,10 - 19,TG,1413,Weiblich
+4157,10 - 19,TG,1387,Weiblich
+4158,10 - 19,TG,1344,Weiblich
+4159,10 - 19,TG,1307,Weiblich
+4160,10 - 19,TG,1303,Weiblich
+4161,20 - 29,TG,1869,Weiblich
+4162,20 - 29,TG,1770,Weiblich
+4163,20 - 29,TG,1536,Weiblich
+4164,20 - 29,TG,1871,Weiblich
+4165,20 - 29,TG,1561,Weiblich
+4166,20 - 29,TG,1712,Weiblich
+4167,20 - 29,TG,1428,Weiblich
+4168,20 - 29,TG,1465,Weiblich
+4169,20 - 29,TG,1788,Weiblich
+4170,20 - 29,TG,1698,Weiblich
+4171,30 - 39,TG,1897,Weiblich
+4172,30 - 39,TG,1751,Weiblich
+4173,30 - 39,TG,1936,Weiblich
+4174,30 - 39,TG,1853,Weiblich
+4175,30 - 39,TG,1818,Weiblich
+4176,30 - 39,TG,1807,Weiblich
+4177,30 - 39,TG,1819,Weiblich
+4178,30 - 39,TG,1882,Weiblich
+4179,30 - 39,TG,1838,Weiblich
+4180,30 - 39,TG,1828,Weiblich
+4181,40 - 49,TG,1658,Weiblich
+4182,40 - 49,TG,1747,Weiblich
+4183,40 - 49,TG,2003,Weiblich
+4184,40 - 49,TG,1833,Weiblich
+4185,40 - 49,TG,1688,Weiblich
+4186,40 - 49,TG,2102,Weiblich
+4187,40 - 49,TG,1748,Weiblich
+4188,40 - 49,TG,1683,Weiblich
+4189,40 - 49,TG,1991,Weiblich
+4190,40 - 49,TG,1743,Weiblich
+4191,50 - 59,TG,2293,Weiblich
+4192,50 - 59,TG,2012,Weiblich
+4193,50 - 59,TG,2240,Weiblich
+4194,50 - 59,TG,2248,Weiblich
+4195,50 - 59,TG,1918,Weiblich
+4196,50 - 59,TG,2312,Weiblich
+4197,50 - 59,TG,2336,Weiblich
+4198,50 - 59,TG,2083,Weiblich
+4199,50 - 59,TG,2311,Weiblich
+4200,50 - 59,TG,2221,Weiblich
+4201,60 - 69,TG,1503,Weiblich
+4202,60 - 69,TG,1870,Weiblich
+4203,60 - 69,TG,1717,Weiblich
+4204,60 - 69,TG,1427,Weiblich
+4205,60 - 69,TG,1799,Weiblich
+4206,60 - 69,TG,1530,Weiblich
+4207,60 - 69,TG,1379,Weiblich
+4208,60 - 69,TG,1571,Weiblich
+4209,60 - 69,TG,1751,Weiblich
+4210,60 - 69,TG,1341,Weiblich
+4211,70 - 79,TG,1338,Weiblich
+4212,70 - 79,TG,964,Weiblich
+4213,70 - 79,TG,1137,Weiblich
+4214,70 - 79,TG,1245,Weiblich
+4215,70 - 79,TG,1318,Weiblich
+4216,70 - 79,TG,1160,Weiblich
+4217,70 - 79,TG,968,Weiblich
+4218,70 - 79,TG,1069,Weiblich
+4219,70 - 79,TG,1190,Weiblich
+4220,70 - 79,TG,898,Weiblich
+4221,80+,TG,21,Weiblich
+4222,80+,TG,81,Weiblich
+4223,80+,TG,197,Weiblich
+4224,80+,TG,509,Weiblich
+4225,80+,TG,35,Weiblich
+4226,80+,TG,750,Weiblich
+4227,80+,TG,510,Weiblich
+4228,80+,TG,396,Weiblich
+4229,80+,TG,279,Weiblich
+4230,80+,TG,41,Weiblich
+4231,80+,TG,452,Weiblich
+4232,80+,TG,158,Weiblich
+4233,80+,TG,588,Weiblich
+4234,80+,TG,810,Weiblich
+4235,80+,TG,106,Weiblich
+4236,80+,TG,247,Weiblich
+4237,80+,TG,733,Weiblich
+4238,80+,TG,38,Weiblich
+4239,80+,TG,756,Weiblich
+4240,80+,TG,650,Weiblich
+4241,80+,TG,315,Weiblich
+4242,0 - 9,TI,1702,Männlich
+4243,0 - 9,TI,1551,Männlich
+4244,0 - 9,TI,1662,Männlich
+4245,0 - 9,TI,1517,Männlich
+4246,0 - 9,TI,1267,Männlich
+4247,0 - 9,TI,1535,Männlich
+4248,0 - 9,TI,1487,Männlich
+4249,0 - 9,TI,1641,Männlich
+4250,0 - 9,TI,1565,Männlich
+4251,0 - 9,TI,1398,Männlich
+4252,10 - 19,TI,1734,Männlich
+4253,10 - 19,TI,1804,Männlich
+4254,10 - 19,TI,1737,Männlich
+4255,10 - 19,TI,1740,Männlich
+4256,10 - 19,TI,1668,Männlich
+4257,10 - 19,TI,1852,Männlich
+4258,10 - 19,TI,1713,Männlich
+4259,10 - 19,TI,1684,Männlich
+4260,10 - 19,TI,1653,Männlich
+4261,10 - 19,TI,1884,Männlich
+4262,20 - 29,TI,1914,Männlich
+4263,20 - 29,TI,1904,Männlich
+4264,20 - 29,TI,2026,Männlich
+4265,20 - 29,TI,1966,Männlich
+4266,20 - 29,TI,1897,Männlich
+4267,20 - 29,TI,2000,Männlich
+4268,20 - 29,TI,1873,Männlich
+4269,20 - 29,TI,1930,Männlich
+4270,20 - 29,TI,1894,Männlich
+4271,20 - 29,TI,2002,Männlich
+4272,30 - 39,TI,2018,Männlich
+4273,30 - 39,TI,2096,Männlich
+4274,30 - 39,TI,1961,Männlich
+4275,30 - 39,TI,2051,Männlich
+4276,30 - 39,TI,2047,Männlich
+4277,30 - 39,TI,1903,Männlich
+4278,30 - 39,TI,2071,Männlich
+4279,30 - 39,TI,1890,Männlich
+4280,30 - 39,TI,1921,Männlich
+4281,30 - 39,TI,2059,Männlich
+4282,40 - 49,TI,2326,Männlich
+4283,40 - 49,TI,2640,Männlich
+4284,40 - 49,TI,2447,Männlich
+4285,40 - 49,TI,2870,Männlich
+4286,40 - 49,TI,2638,Männlich
+4287,40 - 49,TI,2892,Männlich
+4288,40 - 49,TI,2585,Männlich
+4289,40 - 49,TI,2191,Männlich
+4290,40 - 49,TI,2253,Männlich
+4291,40 - 49,TI,3007,Männlich
+4292,50 - 59,TI,3082,Männlich
+4293,50 - 59,TI,2957,Männlich
+4294,50 - 59,TI,2474,Männlich
+4295,50 - 59,TI,3128,Männlich
+4296,50 - 59,TI,2602,Männlich
+4297,50 - 59,TI,2993,Männlich
+4298,50 - 59,TI,2896,Männlich
+4299,50 - 59,TI,2524,Männlich
+4300,50 - 59,TI,3194,Männlich
+4301,50 - 59,TI,2722,Männlich
+4302,60 - 69,TI,2019,Männlich
+4303,60 - 69,TI,1838,Männlich
+4304,60 - 69,TI,1932,Männlich
+4305,60 - 69,TI,2192,Männlich
+4306,60 - 69,TI,1920,Männlich
+4307,60 - 69,TI,1848,Männlich
+4308,60 - 69,TI,2230,Männlich
+4309,60 - 69,TI,2126,Männlich
+4310,60 - 69,TI,2176,Männlich
+4311,60 - 69,TI,1917,Männlich
+4312,70 - 79,TI,1600,Männlich
+4313,70 - 79,TI,1906,Männlich
+4314,70 - 79,TI,1413,Männlich
+4315,70 - 79,TI,1460,Männlich
+4316,70 - 79,TI,1770,Männlich
+4317,70 - 79,TI,1793,Männlich
+4318,70 - 79,TI,1894,Männlich
+4319,70 - 79,TI,1325,Männlich
+4320,70 - 79,TI,1711,Männlich
+4321,70 - 79,TI,1542,Männlich
+4322,80+,TI,43,Männlich
+4323,80+,TI,12,Männlich
+4324,80+,TI,528,Männlich
+4325,80+,TI,120,Männlich
+4326,80+,TI,730,Männlich
+4327,80+,TI,357,Männlich
+4328,80+,TI,1028,Männlich
+4329,80+,TI,976,Männlich
+4330,80+,TI,99,Männlich
+4331,80+,TI,442,Männlich
+4332,80+,TI,790,Männlich
+4333,80+,TI,244,Männlich
+4334,80+,TI,280,Männlich
+4335,80+,TI,42,Männlich
+4336,80+,TI,19,Männlich
+4337,80+,TI,1231,Männlich
+4338,80+,TI,599,Männlich
+4339,80+,TI,20,Männlich
+4340,80+,TI,1124,Männlich
+4341,80+,TI,76,Männlich
+4342,80+,TI,182,Männlich
+4343,0 - 9,TI,1372,Weiblich
+4344,0 - 9,TI,1533,Weiblich
+4345,0 - 9,TI,1483,Weiblich
+4346,0 - 9,TI,1341,Weiblich
+4347,0 - 9,TI,1648,Weiblich
+4348,0 - 9,TI,1646,Weiblich
+4349,0 - 9,TI,1523,Weiblich
+4350,0 - 9,TI,1495,Weiblich
+4351,0 - 9,TI,1481,Weiblich
+4352,0 - 9,TI,1231,Weiblich
+4353,10 - 19,TI,1609,Weiblich
+4354,10 - 19,TI,1624,Weiblich
+4355,10 - 19,TI,1621,Weiblich
+4356,10 - 19,TI,1712,Weiblich
+4357,10 - 19,TI,1566,Weiblich
+4358,10 - 19,TI,1594,Weiblich
+4359,10 - 19,TI,1820,Weiblich
+4360,10 - 19,TI,1673,Weiblich
+4361,10 - 19,TI,1587,Weiblich
+4362,10 - 19,TI,1745,Weiblich
+4363,20 - 29,TI,1847,Weiblich
+4364,20 - 29,TI,1817,Weiblich
+4365,20 - 29,TI,1818,Weiblich
+4366,20 - 29,TI,1838,Weiblich
+4367,20 - 29,TI,1782,Weiblich
+4368,20 - 29,TI,1891,Weiblich
+4369,20 - 29,TI,1779,Weiblich
+4370,20 - 29,TI,1839,Weiblich
+4371,20 - 29,TI,1890,Weiblich
+4372,20 - 29,TI,1753,Weiblich
+4373,30 - 39,TI,1962,Weiblich
+4374,30 - 39,TI,2149,Weiblich
+4375,30 - 39,TI,1866,Weiblich
+4376,30 - 39,TI,1891,Weiblich
+4377,30 - 39,TI,2086,Weiblich
+4378,30 - 39,TI,1905,Weiblich
+4379,30 - 39,TI,2159,Weiblich
+4380,30 - 39,TI,2298,Weiblich
+4381,30 - 39,TI,2084,Weiblich
+4382,30 - 39,TI,1973,Weiblich
+4383,40 - 49,TI,2396,Weiblich
+4384,40 - 49,TI,2721,Weiblich
+4385,40 - 49,TI,2478,Weiblich
+4386,40 - 49,TI,2671,Weiblich
+4387,40 - 49,TI,2946,Weiblich
+4388,40 - 49,TI,2785,Weiblich
+4389,40 - 49,TI,2878,Weiblich
+4390,40 - 49,TI,2512,Weiblich
+4391,40 - 49,TI,2990,Weiblich
+4392,40 - 49,TI,2276,Weiblich
+4393,50 - 59,TI,2646,Weiblich
+4394,50 - 59,TI,3002,Weiblich
+4395,50 - 59,TI,3078,Weiblich
+4396,50 - 59,TI,3085,Weiblich
+4397,50 - 59,TI,2864,Weiblich
+4398,50 - 59,TI,2561,Weiblich
+4399,50 - 59,TI,2945,Weiblich
+4400,50 - 59,TI,3021,Weiblich
+4401,50 - 59,TI,2736,Weiblich
+4402,50 - 59,TI,2427,Weiblich
+4403,60 - 69,TI,2085,Weiblich
+4404,60 - 69,TI,2221,Weiblich
+4405,60 - 69,TI,2127,Weiblich
+4406,60 - 69,TI,2324,Weiblich
+4407,60 - 69,TI,2097,Weiblich
+4408,60 - 69,TI,2076,Weiblich
+4409,60 - 69,TI,2022,Weiblich
+4410,60 - 69,TI,2064,Weiblich
+4411,60 - 69,TI,2314,Weiblich
+4412,60 - 69,TI,2132,Weiblich
+4413,70 - 79,TI,1815,Weiblich
+4414,70 - 79,TI,1998,Weiblich
+4415,70 - 79,TI,2228,Weiblich
+4416,70 - 79,TI,2197,Weiblich
+4417,70 - 79,TI,1928,Weiblich
+4418,70 - 79,TI,1792,Weiblich
+4419,70 - 79,TI,2089,Weiblich
+4420,70 - 79,TI,2045,Weiblich
+4421,70 - 79,TI,1790,Weiblich
+4422,70 - 79,TI,1629,Weiblich
+4423,80+,TI,59,Weiblich
+4424,80+,TI,200,Weiblich
+4425,80+,TI,887,Weiblich
+4426,80+,TI,1411,Weiblich
+4427,80+,TI,1169,Weiblich
+4428,80+,TI,1320,Weiblich
+4429,80+,TI,1270,Weiblich
+4430,80+,TI,339,Weiblich
+4431,80+,TI,613,Weiblich
+4432,80+,TI,111,Weiblich
+4433,80+,TI,519,Weiblich
+4434,80+,TI,273,Weiblich
+4435,80+,TI,438,Weiblich
+4436,80+,TI,675,Weiblich
+4437,80+,TI,946,Weiblich
+4438,80+,TI,775,Weiblich
+4439,80+,TI,1033,Weiblich
+4440,80+,TI,152,Weiblich
+4441,80+,TI,98,Weiblich
+4442,80+,TI,1392,Weiblich
+4443,80+,TI,1549,Weiblich
+4444,0 - 9,UR,168,Männlich
+4445,0 - 9,UR,202,Männlich
+4446,0 - 9,UR,199,Männlich
+4447,0 - 9,UR,162,Männlich
+4448,0 - 9,UR,194,Männlich
+4449,0 - 9,UR,183,Männlich
+4450,0 - 9,UR,182,Männlich
+4451,0 - 9,UR,201,Männlich
+4452,0 - 9,UR,179,Männlich
+4453,0 - 9,UR,169,Männlich
+4454,10 - 19,UR,178,Männlich
+4455,10 - 19,UR,189,Männlich
+4456,10 - 19,UR,208,Männlich
+4457,10 - 19,UR,191,Männlich
+4458,10 - 19,UR,218,Männlich
+4459,10 - 19,UR,223,Männlich
+4460,10 - 19,UR,204,Männlich
+4461,10 - 19,UR,197,Männlich
+4462,10 - 19,UR,189,Männlich
+4463,10 - 19,UR,203,Männlich
+4464,20 - 29,UR,233,Männlich
+4465,20 - 29,UR,240,Männlich
+4466,20 - 29,UR,220,Männlich
+4467,20 - 29,UR,266,Männlich
+4468,20 - 29,UR,225,Männlich
+4469,20 - 29,UR,206,Männlich
+4470,20 - 29,UR,244,Männlich
+4471,20 - 29,UR,243,Männlich
+4472,20 - 29,UR,227,Männlich
+4473,20 - 29,UR,227,Männlich
+4474,30 - 39,UR,229,Männlich
+4475,30 - 39,UR,228,Männlich
+4476,30 - 39,UR,250,Männlich
+4477,30 - 39,UR,222,Männlich
+4478,30 - 39,UR,214,Männlich
+4479,30 - 39,UR,235,Männlich
+4480,30 - 39,UR,228,Männlich
+4481,30 - 39,UR,258,Männlich
+4482,30 - 39,UR,215,Männlich
+4483,30 - 39,UR,232,Männlich
+4484,40 - 49,UR,246,Männlich
+4485,40 - 49,UR,227,Männlich
+4486,40 - 49,UR,249,Männlich
+4487,40 - 49,UR,274,Männlich
+4488,40 - 49,UR,262,Männlich
+4489,40 - 49,UR,236,Männlich
+4490,40 - 49,UR,236,Männlich
+4491,40 - 49,UR,252,Männlich
+4492,40 - 49,UR,221,Männlich
+4493,40 - 49,UR,283,Männlich
+4494,50 - 59,UR,321,Männlich
+4495,50 - 59,UR,293,Männlich
+4496,50 - 59,UR,282,Männlich
+4497,50 - 59,UR,286,Männlich
+4498,50 - 59,UR,268,Männlich
+4499,50 - 59,UR,277,Männlich
+4500,50 - 59,UR,294,Männlich
+4501,50 - 59,UR,289,Männlich
+4502,50 - 59,UR,262,Männlich
+4503,50 - 59,UR,269,Männlich
+4504,60 - 69,UR,226,Männlich
+4505,60 - 69,UR,254,Männlich
+4506,60 - 69,UR,202,Männlich
+4507,60 - 69,UR,246,Männlich
+4508,60 - 69,UR,217,Männlich
+4509,60 - 69,UR,263,Männlich
+4510,60 - 69,UR,243,Männlich
+4511,60 - 69,UR,246,Männlich
+4512,60 - 69,UR,206,Männlich
+4513,60 - 69,UR,267,Männlich
+4514,70 - 79,UR,187,Männlich
+4515,70 - 79,UR,125,Männlich
+4516,70 - 79,UR,185,Männlich
+4517,70 - 79,UR,173,Männlich
+4518,70 - 79,UR,178,Männlich
+4519,70 - 79,UR,214,Männlich
+4520,70 - 79,UR,164,Männlich
+4521,70 - 79,UR,106,Männlich
+4522,70 - 79,UR,122,Männlich
+4523,70 - 79,UR,151,Männlich
+4524,80+,UR,5,Männlich
+4525,80+,UR,1,Männlich
+4526,80+,UR,1,Männlich
+4527,80+,UR,78,Männlich
+4528,80+,UR,94,Männlich
+4529,80+,UR,70,Männlich
+4530,80+,UR,3,Männlich
+4531,80+,UR,112,Männlich
+4532,80+,UR,49,Männlich
+4533,80+,UR,8,Männlich
+4534,80+,UR,30,Männlich
+4535,80+,UR,14,Männlich
+4536,80+,UR,26,Männlich
+4537,80+,UR,16,Männlich
+4538,80+,UR,4,Männlich
+4539,80+,UR,48,Männlich
+4540,80+,UR,58,Männlich
+4541,80+,UR,65,Männlich
+4542,80+,UR,88,Männlich
+4543,80+,UR,21,Männlich
+4544,80+,UR,35,Männlich
+4545,0 - 9,UR,172,Weiblich
+4546,0 - 9,UR,175,Weiblich
+4547,0 - 9,UR,179,Weiblich
+4548,0 - 9,UR,173,Weiblich
+4549,0 - 9,UR,158,Weiblich
+4550,0 - 9,UR,175,Weiblich
+4551,0 - 9,UR,183,Weiblich
+4552,0 - 9,UR,162,Weiblich
+4553,0 - 9,UR,174,Weiblich
+4554,0 - 9,UR,179,Weiblich
+4555,10 - 19,UR,198,Weiblich
+4556,10 - 19,UR,188,Weiblich
+4557,10 - 19,UR,159,Weiblich
+4558,10 - 19,UR,192,Weiblich
+4559,10 - 19,UR,172,Weiblich
+4560,10 - 19,UR,190,Weiblich
+4561,10 - 19,UR,174,Weiblich
+4562,10 - 19,UR,172,Weiblich
+4563,10 - 19,UR,166,Weiblich
+4564,10 - 19,UR,160,Weiblich
+4565,20 - 29,UR,201,Weiblich
+4566,20 - 29,UR,205,Weiblich
+4567,20 - 29,UR,222,Weiblich
+4568,20 - 29,UR,197,Weiblich
+4569,20 - 29,UR,191,Weiblich
+4570,20 - 29,UR,226,Weiblich
+4571,20 - 29,UR,215,Weiblich
+4572,20 - 29,UR,224,Weiblich
+4573,20 - 29,UR,236,Weiblich
+4574,20 - 29,UR,221,Weiblich
+4575,30 - 39,UR,224,Weiblich
+4576,30 - 39,UR,214,Weiblich
+4577,30 - 39,UR,191,Weiblich
+4578,30 - 39,UR,229,Weiblich
+4579,30 - 39,UR,189,Weiblich
+4580,30 - 39,UR,225,Weiblich
+4581,30 - 39,UR,231,Weiblich
+4582,30 - 39,UR,220,Weiblich
+4583,30 - 39,UR,211,Weiblich
+4584,30 - 39,UR,203,Weiblich
+4585,40 - 49,UR,258,Weiblich
+4586,40 - 49,UR,227,Weiblich
+4587,40 - 49,UR,221,Weiblich
+4588,40 - 49,UR,247,Weiblich
+4589,40 - 49,UR,219,Weiblich
+4590,40 - 49,UR,204,Weiblich
+4591,40 - 49,UR,262,Weiblich
+4592,40 - 49,UR,220,Weiblich
+4593,40 - 49,UR,251,Weiblich
+4594,40 - 49,UR,248,Weiblich
+4595,50 - 59,UR,237,Weiblich
+4596,50 - 59,UR,255,Weiblich
+4597,50 - 59,UR,251,Weiblich
+4598,50 - 59,UR,283,Weiblich
+4599,50 - 59,UR,278,Weiblich
+4600,50 - 59,UR,237,Weiblich
+4601,50 - 59,UR,253,Weiblich
+4602,50 - 59,UR,272,Weiblich
+4603,50 - 59,UR,272,Weiblich
+4604,50 - 59,UR,288,Weiblich
+4605,60 - 69,UR,236,Weiblich
+4606,60 - 69,UR,261,Weiblich
+4607,60 - 69,UR,184,Weiblich
+4608,60 - 69,UR,252,Weiblich
+4609,60 - 69,UR,219,Weiblich
+4610,60 - 69,UR,218,Weiblich
+4611,60 - 69,UR,206,Weiblich
+4612,60 - 69,UR,202,Weiblich
+4613,60 - 69,UR,205,Weiblich
+4614,60 - 69,UR,200,Weiblich
+4615,70 - 79,UR,184,Weiblich
+4616,70 - 79,UR,191,Weiblich
+4617,70 - 79,UR,121,Weiblich
+4618,70 - 79,UR,144,Weiblich
+4619,70 - 79,UR,186,Weiblich
+4620,70 - 79,UR,177,Weiblich
+4621,70 - 79,UR,172,Weiblich
+4622,70 - 79,UR,147,Weiblich
+4623,70 - 79,UR,213,Weiblich
+4624,70 - 79,UR,163,Weiblich
+4625,80+,UR,12,Weiblich
+4626,80+,UR,35,Weiblich
+4627,80+,UR,92,Weiblich
+4628,80+,UR,9,Weiblich
+4629,80+,UR,138,Weiblich
+4630,80+,UR,109,Weiblich
+4631,80+,UR,6,Weiblich
+4632,80+,UR,98,Weiblich
+4633,80+,UR,22,Weiblich
+4634,80+,UR,24,Weiblich
+4635,80+,UR,62,Weiblich
+4636,80+,UR,3,Weiblich
+4637,80+,UR,113,Weiblich
+4638,80+,UR,42,Weiblich
+4639,80+,UR,99,Weiblich
+4640,80+,UR,98,Weiblich
+4641,80+,UR,3,Weiblich
+4642,80+,UR,30,Weiblich
+4643,80+,UR,79,Weiblich
+4644,80+,UR,42,Weiblich
+4645,80+,UR,68,Weiblich
+4646,0 - 9,VD,4406,Männlich
+4647,0 - 9,VD,4393,Männlich
+4648,0 - 9,VD,4289,Männlich
+4649,0 - 9,VD,4443,Männlich
+4650,0 - 9,VD,4491,Männlich
+4651,0 - 9,VD,4413,Männlich
+4652,0 - 9,VD,4633,Männlich
+4653,0 - 9,VD,4372,Männlich
+4654,0 - 9,VD,4330,Männlich
+4655,0 - 9,VD,4475,Männlich
+4656,10 - 19,VD,4496,Männlich
+4657,10 - 19,VD,4358,Männlich
+4658,10 - 19,VD,4457,Männlich
+4659,10 - 19,VD,4681,Männlich
+4660,10 - 19,VD,4338,Männlich
+4661,10 - 19,VD,4374,Männlich
+4662,10 - 19,VD,5041,Männlich
+4663,10 - 19,VD,5080,Männlich
+4664,10 - 19,VD,4466,Männlich
+4665,10 - 19,VD,4434,Männlich
+4666,20 - 29,VD,5306,Männlich
+4667,20 - 29,VD,5775,Männlich
+4668,20 - 29,VD,5652,Männlich
+4669,20 - 29,VD,5363,Männlich
+4670,20 - 29,VD,5085,Männlich
+4671,20 - 29,VD,5494,Männlich
+4672,20 - 29,VD,5312,Männlich
+4673,20 - 29,VD,5145,Männlich
+4674,20 - 29,VD,5148,Männlich
+4675,20 - 29,VD,5865,Männlich
+4676,30 - 39,VD,5906,Männlich
+4677,30 - 39,VD,5699,Männlich
+4678,30 - 39,VD,5655,Männlich
+4679,30 - 39,VD,5766,Männlich
+4680,30 - 39,VD,5835,Männlich
+4681,30 - 39,VD,5879,Männlich
+4682,30 - 39,VD,5833,Männlich
+4683,30 - 39,VD,5636,Männlich
+4684,30 - 39,VD,5755,Männlich
+4685,30 - 39,VD,5840,Männlich
+4686,40 - 49,VD,5785,Männlich
+4687,40 - 49,VD,5713,Männlich
+4688,40 - 49,VD,6004,Männlich
+4689,40 - 49,VD,5761,Männlich
+4690,40 - 49,VD,5637,Männlich
+4691,40 - 49,VD,5828,Männlich
+4692,40 - 49,VD,5747,Männlich
+4693,40 - 49,VD,5806,Männlich
+4694,40 - 49,VD,5830,Männlich
+4695,40 - 49,VD,5537,Männlich
+4696,50 - 59,VD,5942,Männlich
+4697,50 - 59,VD,5942,Männlich
+4698,50 - 59,VD,5043,Männlich
+4699,50 - 59,VD,5959,Männlich
+4700,50 - 59,VD,5791,Männlich
+4701,50 - 59,VD,5137,Männlich
+4702,50 - 59,VD,5763,Männlich
+4703,50 - 59,VD,5935,Männlich
+4704,50 - 59,VD,4844,Männlich
+4705,50 - 59,VD,5547,Männlich
+4706,60 - 69,VD,3409,Männlich
+4707,60 - 69,VD,3154,Männlich
+4708,60 - 69,VD,3185,Männlich
+4709,60 - 69,VD,4439,Männlich
+4710,60 - 69,VD,3601,Männlich
+4711,60 - 69,VD,3879,Männlich
+4712,60 - 69,VD,4632,Männlich
+4713,60 - 69,VD,3112,Männlich
+4714,60 - 69,VD,3273,Männlich
+4715,60 - 69,VD,4059,Männlich
+4716,70 - 79,VD,3205,Männlich
+4717,70 - 79,VD,2877,Männlich
+4718,70 - 79,VD,1873,Männlich
+4719,70 - 79,VD,2707,Männlich
+4720,70 - 79,VD,3149,Männlich
+4721,70 - 79,VD,2140,Männlich
+4722,70 - 79,VD,3030,Männlich
+4723,70 - 79,VD,3194,Männlich
+4724,70 - 79,VD,2530,Männlich
+4725,70 - 79,VD,1824,Männlich
+4726,80+,VD,22,Männlich
+4727,80+,VD,82,Männlich
+4728,80+,VD,1447,Männlich
+4729,80+,VD,258,Männlich
+4730,80+,VD,496,Männlich
+4731,80+,VD,877,Männlich
+4732,80+,VD,1573,Männlich
+4733,80+,VD,1218,Männlich
+4734,80+,VD,1002,Männlich
+4735,80+,VD,1678,Männlich
+4736,80+,VD,27,Männlich
+4737,80+,VD,1407,Männlich
+4738,80+,VD,36,Männlich
+4739,80+,VD,633,Männlich
+4740,80+,VD,137,Männlich
+4741,80+,VD,320,Männlich
+4742,80+,VD,66,Männlich
+4743,80+,VD,216,Männlich
+4744,80+,VD,1107,Männlich
+4745,80+,VD,793,Männlich
+4746,80+,VD,392,Männlich
+4747,0 - 9,VD,4227,Weiblich
+4748,0 - 9,VD,4162,Weiblich
+4749,0 - 9,VD,4233,Weiblich
+4750,0 - 9,VD,4232,Weiblich
+4751,0 - 9,VD,4361,Weiblich
+4752,0 - 9,VD,4358,Weiblich
+4753,0 - 9,VD,4238,Weiblich
+4754,0 - 9,VD,4167,Weiblich
+4755,0 - 9,VD,4242,Weiblich
+4756,0 - 9,VD,4187,Weiblich
+4757,10 - 19,VD,4344,Weiblich
+4758,10 - 19,VD,4203,Weiblich
+4759,10 - 19,VD,4203,Weiblich
+4760,10 - 19,VD,4260,Weiblich
+4761,10 - 19,VD,4143,Weiblich
+4762,10 - 19,VD,4225,Weiblich
+4763,10 - 19,VD,4857,Weiblich
+4764,10 - 19,VD,4211,Weiblich
+4765,10 - 19,VD,4065,Weiblich
+4766,10 - 19,VD,4782,Weiblich
+4767,20 - 29,VD,4804,Weiblich
+4768,20 - 29,VD,5663,Weiblich
+4769,20 - 29,VD,4785,Weiblich
+4770,20 - 29,VD,4922,Weiblich
+4771,20 - 29,VD,5048,Weiblich
+4772,20 - 29,VD,5593,Weiblich
+4773,20 - 29,VD,4844,Weiblich
+4774,20 - 29,VD,4766,Weiblich
+4775,20 - 29,VD,5753,Weiblich
+4776,20 - 29,VD,5393,Weiblich
+4777,30 - 39,VD,5694,Weiblich
+4778,30 - 39,VD,5766,Weiblich
+4779,30 - 39,VD,5656,Weiblich
+4780,30 - 39,VD,5899,Weiblich
+4781,30 - 39,VD,5737,Weiblich
+4782,30 - 39,VD,5971,Weiblich
+4783,30 - 39,VD,5677,Weiblich
+4784,30 - 39,VD,5793,Weiblich
+4785,30 - 39,VD,5931,Weiblich
+4786,30 - 39,VD,5659,Weiblich
+4787,40 - 49,VD,5703,Weiblich
+4788,40 - 49,VD,6125,Weiblich
+4789,40 - 49,VD,5926,Weiblich
+4790,40 - 49,VD,5841,Weiblich
+4791,40 - 49,VD,5960,Weiblich
+4792,40 - 49,VD,5915,Weiblich
+4793,40 - 49,VD,5920,Weiblich
+4794,40 - 49,VD,6090,Weiblich
+4795,40 - 49,VD,5924,Weiblich
+4796,40 - 49,VD,5786,Weiblich
+4797,50 - 59,VD,5994,Weiblich
+4798,50 - 59,VD,5102,Weiblich
+4799,50 - 59,VD,5912,Weiblich
+4800,50 - 59,VD,5967,Weiblich
+4801,50 - 59,VD,6018,Weiblich
+4802,50 - 59,VD,5521,Weiblich
+4803,50 - 59,VD,4918,Weiblich
+4804,50 - 59,VD,5018,Weiblich
+4805,50 - 59,VD,6043,Weiblich
+4806,50 - 59,VD,5860,Weiblich
+4807,60 - 69,VD,3748,Weiblich
+4808,60 - 69,VD,4092,Weiblich
+4809,60 - 69,VD,3697,Weiblich
+4810,60 - 69,VD,3849,Weiblich
+4811,60 - 69,VD,4442,Weiblich
+4812,60 - 69,VD,3725,Weiblich
+4813,60 - 69,VD,3921,Weiblich
+4814,60 - 69,VD,4764,Weiblich
+4815,60 - 69,VD,3678,Weiblich
+4816,60 - 69,VD,3745,Weiblich
+4817,70 - 79,VD,3718,Weiblich
+4818,70 - 79,VD,2758,Weiblich
+4819,70 - 79,VD,3862,Weiblich
+4820,70 - 79,VD,3501,Weiblich
+4821,70 - 79,VD,3791,Weiblich
+4822,70 - 79,VD,3449,Weiblich
+4823,70 - 79,VD,3125,Weiblich
+4824,70 - 79,VD,2400,Weiblich
+4825,70 - 79,VD,3398,Weiblich
+4826,70 - 79,VD,2529,Weiblich
+4827,80+,VD,408,Weiblich
+4828,80+,VD,155,Weiblich
+4829,80+,VD,2175,Weiblich
+4830,80+,VD,96,Weiblich
+4831,80+,VD,2106,Weiblich
+4832,80+,VD,1506,Weiblich
+4833,80+,VD,1807,Weiblich
+4834,80+,VD,1140,Weiblich
+4835,80+,VD,334,Weiblich
+4836,80+,VD,729,Weiblich
+4837,80+,VD,1952,Weiblich
+4838,80+,VD,1532,Weiblich
+4839,80+,VD,542,Weiblich
+4840,80+,VD,222,Weiblich
+4841,80+,VD,924,Weiblich
+4842,80+,VD,811,Weiblich
+4843,80+,VD,1257,Weiblich
+4844,80+,VD,2325,Weiblich
+4845,80+,VD,153,Weiblich
+4846,80+,VD,1642,Weiblich
+4847,80+,VD,2011,Weiblich
+4848,0 - 9,VS,1694,Männlich
+4849,0 - 9,VS,1727,Männlich
+4850,0 - 9,VS,1679,Männlich
+4851,0 - 9,VS,1718,Männlich
+4852,0 - 9,VS,1746,Männlich
+4853,0 - 9,VS,1718,Männlich
+4854,0 - 9,VS,1731,Männlich
+4855,0 - 9,VS,1690,Männlich
+4856,0 - 9,VS,1743,Männlich
+4857,0 - 9,VS,1673,Männlich
+4858,10 - 19,VS,1816,Männlich
+4859,10 - 19,VS,1671,Männlich
+4860,10 - 19,VS,1730,Männlich
+4861,10 - 19,VS,1756,Männlich
+4862,10 - 19,VS,1769,Männlich
+4863,10 - 19,VS,1741,Männlich
+4864,10 - 19,VS,1661,Männlich
+4865,10 - 19,VS,1933,Männlich
+4866,10 - 19,VS,1678,Männlich
+4867,10 - 19,VS,1985,Männlich
+4868,20 - 29,VS,2103,Männlich
+4869,20 - 29,VS,2191,Männlich
+4870,20 - 29,VS,2354,Männlich
+4871,20 - 29,VS,2090,Männlich
+4872,20 - 29,VS,2413,Männlich
+4873,20 - 29,VS,2319,Männlich
+4874,20 - 29,VS,2178,Männlich
+4875,20 - 29,VS,2066,Männlich
+4876,20 - 29,VS,2359,Männlich
+4877,20 - 29,VS,2040,Männlich
+4878,30 - 39,VS,2311,Männlich
+4879,30 - 39,VS,2406,Männlich
+4880,30 - 39,VS,2324,Männlich
+4881,30 - 39,VS,2301,Männlich
+4882,30 - 39,VS,2257,Männlich
+4883,30 - 39,VS,2259,Männlich
+4884,30 - 39,VS,2309,Männlich
+4885,30 - 39,VS,2395,Männlich
+4886,30 - 39,VS,2289,Männlich
+4887,30 - 39,VS,2185,Männlich
+4888,40 - 49,VS,2388,Männlich
+4889,40 - 49,VS,2159,Männlich
+4890,40 - 49,VS,2401,Männlich
+4891,40 - 49,VS,2209,Männlich
+4892,40 - 49,VS,2462,Männlich
+4893,40 - 49,VS,2466,Männlich
+4894,40 - 49,VS,2171,Männlich
+4895,40 - 49,VS,2284,Männlich
+4896,40 - 49,VS,2506,Männlich
+4897,40 - 49,VS,2180,Männlich
+4898,50 - 59,VS,2579,Männlich
+4899,50 - 59,VS,2740,Männlich
+4900,50 - 59,VS,2472,Männlich
+4901,50 - 59,VS,2605,Männlich
+4902,50 - 59,VS,2729,Männlich
+4903,50 - 59,VS,2677,Männlich
+4904,50 - 59,VS,2388,Männlich
+4905,50 - 59,VS,2606,Männlich
+4906,50 - 59,VS,2786,Männlich
+4907,50 - 59,VS,2615,Männlich
+4908,60 - 69,VS,1871,Männlich
+4909,60 - 69,VS,1815,Männlich
+4910,60 - 69,VS,1856,Männlich
+4911,60 - 69,VS,2007,Männlich
+4912,60 - 69,VS,1763,Männlich
+4913,60 - 69,VS,2084,Männlich
+4914,60 - 69,VS,1817,Männlich
+4915,60 - 69,VS,2200,Männlich
+4916,60 - 69,VS,1957,Männlich
+4917,60 - 69,VS,2281,Männlich
+4918,70 - 79,VS,1179,Männlich
+4919,70 - 79,VS,992,Männlich
+4920,70 - 79,VS,994,Männlich
+4921,70 - 79,VS,1306,Männlich
+4922,70 - 79,VS,1619,Männlich
+4923,70 - 79,VS,1471,Männlich
+4924,70 - 79,VS,1695,Männlich
+4925,70 - 79,VS,1535,Männlich
+4926,70 - 79,VS,1853,Männlich
+4927,70 - 79,VS,1817,Männlich
+4928,80+,VS,437,Männlich
+4929,80+,VS,98,Männlich
+4930,80+,VS,65,Männlich
+4931,80+,VS,181,Männlich
+4932,80+,VS,744,Männlich
+4933,80+,VS,357,Männlich
+4934,80+,VS,577,Männlich
+4935,80+,VS,532,Männlich
+4936,80+,VS,265,Männlich
+4937,80+,VS,131,Männlich
+4938,80+,VS,59,Männlich
+4939,80+,VS,31,Männlich
+4940,80+,VS,5,Männlich
+4941,80+,VS,224,Männlich
+4942,80+,VS,634,Männlich
+4943,80+,VS,846,Männlich
+4944,80+,VS,8,Männlich
+4945,80+,VS,25,Männlich
+4946,80+,VS,923,Männlich
+4947,80+,VS,7,Männlich
+4948,80+,VS,739,Männlich
+4949,0 - 9,VS,1646,Weiblich
+4950,0 - 9,VS,1615,Weiblich
+4951,0 - 9,VS,1692,Weiblich
+4952,0 - 9,VS,1690,Weiblich
+4953,0 - 9,VS,1606,Weiblich
+4954,0 - 9,VS,1569,Weiblich
+4955,0 - 9,VS,1635,Weiblich
+4956,0 - 9,VS,1617,Weiblich
+4957,0 - 9,VS,1631,Weiblich
+4958,0 - 9,VS,1748,Weiblich
+4959,10 - 19,VS,1580,Weiblich
+4960,10 - 19,VS,1635,Weiblich
+4961,10 - 19,VS,1856,Weiblich
+4962,10 - 19,VS,1578,Weiblich
+4963,10 - 19,VS,1611,Weiblich
+4964,10 - 19,VS,1720,Weiblich
+4965,10 - 19,VS,1911,Weiblich
+4966,10 - 19,VS,1558,Weiblich
+4967,10 - 19,VS,1661,Weiblich
+4968,10 - 19,VS,1587,Weiblich
+4969,20 - 29,VS,2032,Weiblich
+4970,20 - 29,VS,2033,Weiblich
+4971,20 - 29,VS,2036,Weiblich
+4972,20 - 29,VS,2292,Weiblich
+4973,20 - 29,VS,2117,Weiblich
+4974,20 - 29,VS,2040,Weiblich
+4975,20 - 29,VS,2017,Weiblich
+4976,20 - 29,VS,2256,Weiblich
+4977,20 - 29,VS,2284,Weiblich
+4978,20 - 29,VS,2203,Weiblich
+4979,30 - 39,VS,2291,Weiblich
+4980,30 - 39,VS,2323,Weiblich
+4981,30 - 39,VS,2198,Weiblich
+4982,30 - 39,VS,2152,Weiblich
+4983,30 - 39,VS,2263,Weiblich
+4984,30 - 39,VS,2225,Weiblich
+4985,30 - 39,VS,2215,Weiblich
+4986,30 - 39,VS,2150,Weiblich
+4987,30 - 39,VS,2128,Weiblich
+4988,30 - 39,VS,2309,Weiblich
+4989,40 - 49,VS,2235,Weiblich
+4990,40 - 49,VS,2202,Weiblich
+4991,40 - 49,VS,2292,Weiblich
+4992,40 - 49,VS,2152,Weiblich
+4993,40 - 49,VS,2489,Weiblich
+4994,40 - 49,VS,2149,Weiblich
+4995,40 - 49,VS,2164,Weiblich
+4996,40 - 49,VS,2424,Weiblich
+4997,40 - 49,VS,2468,Weiblich
+4998,40 - 49,VS,2417,Weiblich
+4999,50 - 59,VS,2667,Weiblich
+5000,50 - 59,VS,2564,Weiblich
+5001,50 - 59,VS,2496,Weiblich
+5002,50 - 59,VS,2662,Weiblich
+5003,50 - 59,VS,2527,Weiblich
+5004,50 - 59,VS,2787,Weiblich
+5005,50 - 59,VS,2575,Weiblich
+5006,50 - 59,VS,2788,Weiblich
+5007,50 - 59,VS,2437,Weiblich
+5008,50 - 59,VS,2741,Weiblich
+5009,60 - 69,VS,1940,Weiblich
+5010,60 - 69,VS,2034,Weiblich
+5011,60 - 69,VS,2155,Weiblich
+5012,60 - 69,VS,1991,Weiblich
+5013,60 - 69,VS,2101,Weiblich
+5014,60 - 69,VS,1975,Weiblich
+5015,60 - 69,VS,2241,Weiblich
+5016,60 - 69,VS,2068,Weiblich
+5017,60 - 69,VS,1961,Weiblich
+5018,60 - 69,VS,1983,Weiblich
+5019,70 - 79,VS,1941,Weiblich
+5020,70 - 79,VS,2016,Weiblich
+5021,70 - 79,VS,1298,Weiblich
+5022,70 - 79,VS,1670,Weiblich
+5023,70 - 79,VS,1968,Weiblich
+5024,70 - 79,VS,1484,Weiblich
+5025,70 - 79,VS,1754,Weiblich
+5026,70 - 79,VS,1391,Weiblich
+5027,70 - 79,VS,1223,Weiblich
+5028,70 - 79,VS,1702,Weiblich
+5029,80+,VS,101,Weiblich
+5030,80+,VS,1065,Weiblich
+5031,80+,VS,945,Weiblich
+5032,80+,VS,693,Weiblich
+5033,80+,VS,988,Weiblich
+5034,80+,VS,340,Weiblich
+5035,80+,VS,655,Weiblich
+5036,80+,VS,833,Weiblich
+5037,80+,VS,81,Weiblich
+5038,80+,VS,40,Weiblich
+5039,80+,VS,1137,Weiblich
+5040,80+,VS,983,Weiblich
+5041,80+,VS,33,Weiblich
+5042,80+,VS,198,Weiblich
+5043,80+,VS,141,Weiblich
+5044,80+,VS,41,Weiblich
+5045,80+,VS,255,Weiblich
+5046,80+,VS,313,Weiblich
+5047,80+,VS,456,Weiblich
+5048,80+,VS,816,Weiblich
+5049,80+,VS,568,Weiblich
+5050,0 - 9,ZG,684,Männlich
+5051,0 - 9,ZG,666,Männlich
+5052,0 - 9,ZG,681,Männlich
+5053,0 - 9,ZG,720,Männlich
+5054,0 - 9,ZG,710,Männlich
+5055,0 - 9,ZG,654,Männlich
+5056,0 - 9,ZG,637,Männlich
+5057,0 - 9,ZG,670,Männlich
+5058,0 - 9,ZG,638,Männlich
+5059,0 - 9,ZG,693,Männlich
+5060,10 - 19,ZG,680,Männlich
+5061,10 - 19,ZG,658,Männlich
+5062,10 - 19,ZG,656,Männlich
+5063,10 - 19,ZG,648,Männlich
+5064,10 - 19,ZG,619,Männlich
+5065,10 - 19,ZG,598,Männlich
+5066,10 - 19,ZG,630,Männlich
+5067,10 - 19,ZG,648,Männlich
+5068,10 - 19,ZG,675,Männlich
+5069,10 - 19,ZG,645,Männlich
+5070,20 - 29,ZG,723,Männlich
+5071,20 - 29,ZG,805,Männlich
+5072,20 - 29,ZG,697,Männlich
+5073,20 - 29,ZG,646,Männlich
+5074,20 - 29,ZG,777,Männlich
+5075,20 - 29,ZG,681,Männlich
+5076,20 - 29,ZG,638,Männlich
+5077,20 - 29,ZG,639,Männlich
+5078,20 - 29,ZG,616,Männlich
+5079,20 - 29,ZG,865,Männlich
+5080,30 - 39,ZG,932,Männlich
+5081,30 - 39,ZG,949,Männlich
+5082,30 - 39,ZG,1005,Männlich
+5083,30 - 39,ZG,879,Männlich
+5084,30 - 39,ZG,848,Männlich
+5085,30 - 39,ZG,948,Männlich
+5086,30 - 39,ZG,842,Männlich
+5087,30 - 39,ZG,976,Männlich
+5088,30 - 39,ZG,982,Männlich
+5089,30 - 39,ZG,939,Männlich
+5090,40 - 49,ZG,1047,Männlich
+5091,40 - 49,ZG,941,Männlich
+5092,40 - 49,ZG,1044,Männlich
+5093,40 - 49,ZG,966,Männlich
+5094,40 - 49,ZG,987,Männlich
+5095,40 - 49,ZG,1086,Männlich
+5096,40 - 49,ZG,915,Männlich
+5097,40 - 49,ZG,961,Männlich
+5098,40 - 49,ZG,1131,Männlich
+5099,40 - 49,ZG,913,Männlich
+5100,50 - 59,ZG,1218,Männlich
+5101,50 - 59,ZG,1092,Männlich
+5102,50 - 59,ZG,984,Männlich
+5103,50 - 59,ZG,1154,Männlich
+5104,50 - 59,ZG,1025,Männlich
+5105,50 - 59,ZG,1162,Männlich
+5106,50 - 59,ZG,1085,Männlich
+5107,50 - 59,ZG,899,Männlich
+5108,50 - 59,ZG,1136,Männlich
+5109,50 - 59,ZG,1028,Männlich
+5110,60 - 69,ZG,872,Männlich
+5111,60 - 69,ZG,752,Männlich
+5112,60 - 69,ZG,727,Männlich
+5113,60 - 69,ZG,607,Männlich
+5114,60 - 69,ZG,644,Männlich
+5115,60 - 69,ZG,565,Männlich
+5116,60 - 69,ZG,818,Männlich
+5117,60 - 69,ZG,706,Männlich
+5118,60 - 69,ZG,580,Männlich
+5119,60 - 69,ZG,610,Männlich
+5120,70 - 79,ZG,545,Männlich
+5121,70 - 79,ZG,472,Männlich
+5122,70 - 79,ZG,379,Männlich
+5123,70 - 79,ZG,529,Männlich
+5124,70 - 79,ZG,541,Männlich
+5125,70 - 79,ZG,436,Männlich
+5126,70 - 79,ZG,548,Männlich
+5127,70 - 79,ZG,340,Männlich
+5128,70 - 79,ZG,516,Männlich
+5129,70 - 79,ZG,464,Männlich
+5130,80+,ZG,2,Männlich
+5131,80+,ZG,295,Männlich
+5132,80+,ZG,8,Männlich
+5133,80+,ZG,157,Männlich
+5134,80+,ZG,248,Männlich
+5135,80+,ZG,250,Männlich
+5136,80+,ZG,153,Männlich
+5137,80+,ZG,113,Männlich
+5138,80+,ZG,20,Männlich
+5139,80+,ZG,64,Männlich
+5140,80+,ZG,24,Männlich
+5141,80+,ZG,0,Männlich
+5142,80+,ZG,4,Männlich
+5143,80+,ZG,207,Männlich
+5144,80+,ZG,0,Männlich
+5145,80+,ZG,146,Männlich
+5146,80+,ZG,88,Männlich
+5147,80+,ZG,251,Männlich
+5148,80+,ZG,85,Männlich
+5149,80+,ZG,16,Männlich
+5150,80+,ZG,42,Männlich
+5151,0 - 9,ZG,694,Weiblich
+5152,0 - 9,ZG,647,Weiblich
+5153,0 - 9,ZG,649,Weiblich
+5154,0 - 9,ZG,649,Weiblich
+5155,0 - 9,ZG,621,Weiblich
+5156,0 - 9,ZG,633,Weiblich
+5157,0 - 9,ZG,635,Weiblich
+5158,0 - 9,ZG,600,Weiblich
+5159,0 - 9,ZG,655,Weiblich
+5160,0 - 9,ZG,650,Weiblich
+5161,10 - 19,ZG,637,Weiblich
+5162,10 - 19,ZG,644,Weiblich
+5163,10 - 19,ZG,625,Weiblich
+5164,10 - 19,ZG,649,Weiblich
+5165,10 - 19,ZG,602,Weiblich
+5166,10 - 19,ZG,561,Weiblich
+5167,10 - 19,ZG,622,Weiblich
+5168,10 - 19,ZG,618,Weiblich
+5169,10 - 19,ZG,567,Weiblich
+5170,10 - 19,ZG,561,Weiblich
+5171,20 - 29,ZG,630,Weiblich
+5172,20 - 29,ZG,583,Weiblich
+5173,20 - 29,ZG,762,Weiblich
+5174,20 - 29,ZG,573,Weiblich
+5175,20 - 29,ZG,793,Weiblich
+5176,20 - 29,ZG,718,Weiblich
+5177,20 - 29,ZG,606,Weiblich
+5178,20 - 29,ZG,594,Weiblich
+5179,20 - 29,ZG,649,Weiblich
+5180,20 - 29,ZG,737,Weiblich
+5181,30 - 39,ZG,800,Weiblich
+5182,30 - 39,ZG,940,Weiblich
+5183,30 - 39,ZG,918,Weiblich
+5184,30 - 39,ZG,915,Weiblich
+5185,30 - 39,ZG,950,Weiblich
+5186,30 - 39,ZG,870,Weiblich
+5187,30 - 39,ZG,895,Weiblich
+5188,30 - 39,ZG,901,Weiblich
+5189,30 - 39,ZG,972,Weiblich
+5190,30 - 39,ZG,859,Weiblich
+5191,40 - 49,ZG,1008,Weiblich
+5192,40 - 49,ZG,953,Weiblich
+5193,40 - 49,ZG,1006,Weiblich
+5194,40 - 49,ZG,1000,Weiblich
+5195,40 - 49,ZG,879,Weiblich
+5196,40 - 49,ZG,1065,Weiblich
+5197,40 - 49,ZG,916,Weiblich
+5198,40 - 49,ZG,960,Weiblich
+5199,40 - 49,ZG,930,Weiblich
+5200,40 - 49,ZG,953,Weiblich
+5201,50 - 59,ZG,1030,Weiblich
+5202,50 - 59,ZG,1021,Weiblich
+5203,50 - 59,ZG,1062,Weiblich
+5204,50 - 59,ZG,891,Weiblich
+5205,50 - 59,ZG,1021,Weiblich
+5206,50 - 59,ZG,870,Weiblich
+5207,50 - 59,ZG,1059,Weiblich
+5208,50 - 59,ZG,902,Weiblich
+5209,50 - 59,ZG,1005,Weiblich
+5210,50 - 59,ZG,838,Weiblich
+5211,60 - 69,ZG,570,Weiblich
+5212,60 - 69,ZG,591,Weiblich
+5213,60 - 69,ZG,646,Weiblich
+5214,60 - 69,ZG,697,Weiblich
+5215,60 - 69,ZG,722,Weiblich
+5216,60 - 69,ZG,661,Weiblich
+5217,60 - 69,ZG,641,Weiblich
+5218,60 - 69,ZG,578,Weiblich
+5219,60 - 69,ZG,768,Weiblich
+5220,60 - 69,ZG,679,Weiblich
+5221,70 - 79,ZG,559,Weiblich
+5222,70 - 79,ZG,588,Weiblich
+5223,70 - 79,ZG,504,Weiblich
+5224,70 - 79,ZG,582,Weiblich
+5225,70 - 79,ZG,415,Weiblich
+5226,70 - 79,ZG,456,Weiblich
+5227,70 - 79,ZG,614,Weiblich
+5228,70 - 79,ZG,530,Weiblich
+5229,70 - 79,ZG,403,Weiblich
+5230,70 - 79,ZG,473,Weiblich
+5231,80+,ZG,6,Weiblich
+5232,80+,ZG,19,Weiblich
+5233,80+,ZG,200,Weiblich
+5234,80+,ZG,13,Weiblich
+5235,80+,ZG,56,Weiblich
+5236,80+,ZG,204,Weiblich
+5237,80+,ZG,283,Weiblich
+5238,80+,ZG,353,Weiblich
+5239,80+,ZG,15,Weiblich
+5240,80+,ZG,396,Weiblich
+5241,80+,ZG,211,Weiblich
+5242,80+,ZG,317,Weiblich
+5243,80+,ZG,119,Weiblich
+5244,80+,ZG,43,Weiblich
+5245,80+,ZG,88,Weiblich
+5246,80+,ZG,9,Weiblich
+5247,80+,ZG,177,Weiblich
+5248,80+,ZG,77,Weiblich
+5249,80+,ZG,149,Weiblich
+5250,80+,ZG,378,Weiblich
+5251,80+,ZG,299,Weiblich
+5252,0 - 9,ZH,8050,Männlich
+5253,0 - 9,ZH,7912,Männlich
+5254,0 - 9,ZH,8685,Männlich
+5255,0 - 9,ZH,7972,Männlich
+5256,0 - 9,ZH,8457,Männlich
+5257,0 - 9,ZH,8409,Männlich
+5258,0 - 9,ZH,8622,Männlich
+5259,0 - 9,ZH,8602,Männlich
+5260,0 - 9,ZH,7787,Männlich
+5261,0 - 9,ZH,8051,Männlich
+5262,10 - 19,ZH,6900,Männlich
+5263,10 - 19,ZH,7195,Männlich
+5264,10 - 19,ZH,7336,Männlich
+5265,10 - 19,ZH,6745,Männlich
+5266,10 - 19,ZH,7072,Männlich
+5267,10 - 19,ZH,7572,Männlich
+5268,10 - 19,ZH,7000,Männlich
+5269,10 - 19,ZH,7452,Männlich
+5270,10 - 19,ZH,7213,Männlich
+5271,10 - 19,ZH,7687,Männlich
+5272,20 - 29,ZH,7794,Männlich
+5273,20 - 29,ZH,8130,Männlich
+5274,20 - 29,ZH,10336,Männlich
+5275,20 - 29,ZH,8444,Männlich
+5276,20 - 29,ZH,11012,Männlich
+5277,20 - 29,ZH,8664,Männlich
+5278,20 - 29,ZH,9405,Männlich
+5279,20 - 29,ZH,11699,Männlich
+5280,20 - 29,ZH,7514,Männlich
+5281,20 - 29,ZH,12097,Männlich
+5282,30 - 39,ZH,12578,Männlich
+5283,30 - 39,ZH,12715,Männlich
+5284,30 - 39,ZH,12755,Männlich
+5285,30 - 39,ZH,12687,Männlich
+5286,30 - 39,ZH,12862,Männlich
+5287,30 - 39,ZH,12614,Männlich
+5288,30 - 39,ZH,12279,Männlich
+5289,30 - 39,ZH,12760,Männlich
+5290,30 - 39,ZH,12833,Männlich
+5291,30 - 39,ZH,12422,Männlich
+5292,40 - 49,ZH,11525,Männlich
+5293,40 - 49,ZH,11457,Männlich
+5294,40 - 49,ZH,11340,Männlich
+5295,40 - 49,ZH,11845,Männlich
+5296,40 - 49,ZH,11245,Männlich
+5297,40 - 49,ZH,11398,Männlich
+5298,40 - 49,ZH,11547,Männlich
+5299,40 - 49,ZH,11793,Männlich
+5300,40 - 49,ZH,12045,Männlich
+5301,40 - 49,ZH,11945,Männlich
+5302,50 - 59,ZH,11955,Männlich
+5303,50 - 59,ZH,11405,Männlich
+5304,50 - 59,ZH,9609,Männlich
+5305,50 - 59,ZH,10293,Männlich
+5306,50 - 59,ZH,11961,Männlich
+5307,50 - 59,ZH,12039,Männlich
+5308,50 - 59,ZH,9180,Männlich
+5309,50 - 59,ZH,10640,Männlich
+5310,50 - 59,ZH,11881,Männlich
+5311,50 - 59,ZH,11940,Männlich
+5312,60 - 69,ZH,7260,Männlich
+5313,60 - 69,ZH,8677,Männlich
+5314,60 - 69,ZH,6710,Männlich
+5315,60 - 69,ZH,6625,Männlich
+5316,60 - 69,ZH,8065,Männlich
+5317,60 - 69,ZH,6241,Männlich
+5318,60 - 69,ZH,6555,Männlich
+5319,60 - 69,ZH,7455,Männlich
+5320,60 - 69,ZH,8321,Männlich
+5321,60 - 69,ZH,6104,Männlich
+5322,70 - 79,ZH,5481,Männlich
+5323,70 - 79,ZH,4064,Männlich
+5324,70 - 79,ZH,6157,Männlich
+5325,70 - 79,ZH,4728,Männlich
+5326,70 - 79,ZH,5762,Männlich
+5327,70 - 79,ZH,6143,Männlich
+5328,70 - 79,ZH,6216,Männlich
+5329,70 - 79,ZH,3869,Männlich
+5330,70 - 79,ZH,5964,Männlich
+5331,70 - 79,ZH,5160,Männlich
+5332,80+,ZH,164,Männlich
+5333,80+,ZH,1726,Männlich
+5334,80+,ZH,2722,Männlich
+5335,80+,ZH,484,Männlich
+5336,80+,ZH,2293,Männlich
+5337,80+,ZH,3149,Männlich
+5338,80+,ZH,39,Männlich
+5339,80+,ZH,2047,Männlich
+5340,80+,ZH,2852,Männlich
+5341,80+,ZH,820,Männlich
+5342,80+,ZH,941,Männlich
+5343,80+,ZH,1552,Männlich
+5344,80+,ZH,331,Männlich
+5345,80+,ZH,116,Männlich
+5346,80+,ZH,3230,Männlich
+5347,80+,ZH,41,Männlich
+5348,80+,ZH,3521,Männlich
+5349,80+,ZH,591,Männlich
+5350,80+,ZH,67,Männlich
+5351,80+,ZH,1251,Männlich
+5352,80+,ZH,225,Männlich
+5353,0 - 9,ZH,7703,Weiblich
+5354,0 - 9,ZH,8225,Weiblich
+5355,0 - 9,ZH,8072,Weiblich
+5356,0 - 9,ZH,8095,Weiblich
+5357,0 - 9,ZH,7508,Weiblich
+5358,0 - 9,ZH,7360,Weiblich
+5359,0 - 9,ZH,7518,Weiblich
+5360,0 - 9,ZH,7601,Weiblich
+5361,0 - 9,ZH,7952,Weiblich
+5362,0 - 9,ZH,8074,Weiblich
+5363,10 - 19,ZH,6385,Weiblich
+5364,10 - 19,ZH,6911,Weiblich
+5365,10 - 19,ZH,6718,Weiblich
+5366,10 - 19,ZH,7169,Weiblich
+5367,10 - 19,ZH,6937,Weiblich
+5368,10 - 19,ZH,6514,Weiblich
+5369,10 - 19,ZH,6771,Weiblich
+5370,10 - 19,ZH,6666,Weiblich
+5371,10 - 19,ZH,6700,Weiblich
+5372,10 - 19,ZH,6580,Weiblich
+5373,20 - 29,ZH,9185,Weiblich
+5374,20 - 29,ZH,7131,Weiblich
+5375,20 - 29,ZH,10834,Weiblich
+5376,20 - 29,ZH,7623,Weiblich
+5377,20 - 29,ZH,11591,Weiblich
+5378,20 - 29,ZH,11795,Weiblich
+5379,20 - 29,ZH,8592,Weiblich
+5380,20 - 29,ZH,7798,Weiblich
+5381,20 - 29,ZH,10149,Weiblich
+5382,20 - 29,ZH,6916,Weiblich
+5383,30 - 39,ZH,12673,Weiblich
+5384,30 - 39,ZH,12288,Weiblich
+5385,30 - 39,ZH,12326,Weiblich
+5386,30 - 39,ZH,12234,Weiblich
+5387,30 - 39,ZH,12436,Weiblich
+5388,30 - 39,ZH,12288,Weiblich
+5389,30 - 39,ZH,12444,Weiblich
+5390,30 - 39,ZH,11945,Weiblich
+5391,30 - 39,ZH,12485,Weiblich
+5392,30 - 39,ZH,12553,Weiblich
+5393,40 - 49,ZH,11202,Weiblich
+5394,40 - 49,ZH,11246,Weiblich
+5395,40 - 49,ZH,11266,Weiblich
+5396,40 - 49,ZH,10668,Weiblich
+5397,40 - 49,ZH,10903,Weiblich
+5398,40 - 49,ZH,11044,Weiblich
+5399,40 - 49,ZH,11270,Weiblich
+5400,40 - 49,ZH,10655,Weiblich
+5401,40 - 49,ZH,10884,Weiblich
+5402,40 - 49,ZH,11772,Weiblich
+5403,50 - 59,ZH,9893,Weiblich
+5404,50 - 59,ZH,11180,Weiblich
+5405,50 - 59,ZH,11361,Weiblich
+5406,50 - 59,ZH,11449,Weiblich
+5407,50 - 59,ZH,10876,Weiblich
+5408,50 - 59,ZH,11514,Weiblich
+5409,50 - 59,ZH,9555,Weiblich
+5410,50 - 59,ZH,10349,Weiblich
+5411,50 - 59,ZH,9128,Weiblich
+5412,50 - 59,ZH,11239,Weiblich
+5413,60 - 69,ZH,7124,Weiblich
+5414,60 - 69,ZH,7401,Weiblich
+5415,60 - 69,ZH,7592,Weiblich
+5416,60 - 69,ZH,8463,Weiblich
+5417,60 - 69,ZH,8172,Weiblich
+5418,60 - 69,ZH,7094,Weiblich
+5419,60 - 69,ZH,7117,Weiblich
+5420,60 - 69,ZH,7456,Weiblich
+5421,60 - 69,ZH,7979,Weiblich
+5422,60 - 69,ZH,8692,Weiblich
+5423,70 - 79,ZH,5727,Weiblich
+5424,70 - 79,ZH,6672,Weiblich
+5425,70 - 79,ZH,7088,Weiblich
+5426,70 - 79,ZH,6452,Weiblich
+5427,70 - 79,ZH,6938,Weiblich
+5428,70 - 79,ZH,6962,Weiblich
+5429,70 - 79,ZH,5297,Weiblich
+5430,70 - 79,ZH,6694,Weiblich
+5431,70 - 79,ZH,6021,Weiblich
+5432,70 - 79,ZH,4967,Weiblich
+5433,80+,ZH,127,Weiblich
+5434,80+,ZH,471,Weiblich
+5435,80+,ZH,2778,Weiblich
+5436,80+,ZH,3501,Weiblich
+5437,80+,ZH,4396,Weiblich
+5438,80+,ZH,3824,Weiblich
+5439,80+,ZH,4392,Weiblich
+5440,80+,ZH,1697,Weiblich
+5441,80+,ZH,1407,Weiblich
+5442,80+,ZH,226,Weiblich
+5443,80+,ZH,658,Weiblich
+5444,80+,ZH,1124,Weiblich
+5445,80+,ZH,2019,Weiblich
+5446,80+,ZH,2994,Weiblich
+5447,80+,ZH,3216,Weiblich
+5448,80+,ZH,2433,Weiblich
+5449,80+,ZH,890,Weiblich
+5450,80+,ZH,183,Weiblich
+5451,80+,ZH,4211,Weiblich
+5452,80+,ZH,4869,Weiblich
+5453,80+,ZH,364,Weiblich
+0,0 - 9,CH,447746,Männlich
+1,10 - 19,CH,435258,Männlich
+2,20 - 29,CH,540358,Männlich
+3,30 - 39,CH,615991,Männlich
+4,40 - 49,CH,608449,Männlich
+5,50 - 59,CH,649695,Männlich
+6,60 - 69,CH,460050,Männlich
+7,70 - 79,CH,329837,Männlich
+8,80+,CH,168762,Männlich
+9,0 - 9,CH,424175,Weiblich
+10,10 - 19,CH,409907,Weiblich
+11,20 - 29,CH,516914,Weiblich
+12,30 - 39,CH,604093,Weiblich
+13,40 - 49,CH,601554,Weiblich
+14,50 - 59,CH,638522,Weiblich
+15,60 - 69,CH,476169,Weiblich
+16,70 - 79,CH,379079,Weiblich
+17,80+,CH,276346,Weiblich
